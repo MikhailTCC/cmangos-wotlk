@@ -1,0 +1,158 @@
+[
+	{
+		"entry" : 2320,
+		"name" : "Coarse Thread"
+	},
+	{
+		"entry" : 2321,
+		"name" : "Fine Thread"
+	},
+	{
+		"entry" : 2589,
+		"name" : "Linen Cloth"
+	},
+	{
+		"entry" : 2592,
+		"name" : "Wool Cloth"
+	},
+	{
+		"entry" : 2996,
+		"name" : "Bolt of Linen Cloth"
+	},
+	{
+		"entry" : 2997,
+		"name" : "Bolt of Woolen Cloth"
+	},
+	{
+		"entry" : 3182,
+		"name" : "Spider's Silk"
+	},
+	{
+		"entry" : 4291,
+		"name" : "Silken Thread"
+	},
+	{
+		"entry" : 4305,
+		"name" : "Bolt of Silk Cloth"
+	},
+	{
+		"entry" : 4306,
+		"name" : "Silk Cloth"
+	},
+	{
+		"entry" : 4337,
+		"name" : "Thick Spider's Silk"
+	},
+	{
+		"entry" : 4338,
+		"name" : "Mageweave Cloth"
+	},
+	{
+		"entry" : 4339,
+		"name" : "Bolt of Mageweave"
+	},
+	{
+		"entry" : 8343,
+		"name" : "Heavy Silken Thread"
+	},
+	{
+		"entry" : 10285,
+		"name" : "Shadow Silk"
+	},
+	{
+		"entry" : 14047,
+		"name" : "Runecloth"
+	},
+	{
+		"entry" : 14048,
+		"name" : "Bolt of Runecloth"
+	},
+	{
+		"entry" : 14227,
+		"name" : "Ironweb Spider Silk"
+	},
+	{
+		"entry" : 14256,
+		"name" : "Felcloth"
+	},
+	{
+		"entry" : 14341,
+		"name" : "Rune Thread"
+	},
+	{
+		"entry" : 14342,
+		"name" : "Mooncloth"
+	},
+	{
+		"entry" : 21877,
+		"name" : "Netherweave Cloth"
+	},
+	{
+		"entry" : 21845,
+		"name" : "Primal Mooncloth"
+	},
+	{
+		"entry" : 24271,
+		"name" : "Spellcloth"
+	},
+	{
+		"entry" : 24272,
+		"name" : "Shadowcloth"
+	},
+	{
+		"entry" : 21881,
+		"name" : "Netherweb Spider Silk"
+	},
+	{
+		"entry" : 21840,
+		"name" : "Bolt of Netherweave"
+	},
+	{
+		"entry" : 21842,
+		"name" : "Bolt of Imbued Netherweave"
+	},
+	{
+		"entry" : 21844,
+		"name" : "Bolt of Soulcloth"
+	},
+	{
+		"entry" : 23854,
+		"name" : "Shadoweave Cloth"
+	},
+	{
+		"entry" : 23855,
+		"name" : "Spellfire Cloth"
+	},
+	{
+		"entry" : 33470,
+		"name" : "Frostweave Cloth"
+	},
+	{
+		"entry" : 38426,
+		"name" : "Eternium Thread"
+	},
+	{
+		"entry" : 41510,
+		"name" : "Bolt of Frostweave"
+	},
+	{
+		"entry" : 41511,
+		"name" : "Bolt of Imbued Frostweave"
+	},
+	{
+		"entry" : 41593,
+		"name" : "Ebonweave"
+	},
+	{
+		"entry" : 41594,
+		"name" : "Moonshroud"
+	},
+	{
+		"entry" : 41595,
+		"name" : "Spellweave"
+	},
+	{
+		"entry" : 42253,
+		"name" : "Iceweb Spider Silk"
+	}
+]
