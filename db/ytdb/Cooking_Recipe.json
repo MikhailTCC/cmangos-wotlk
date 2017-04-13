@@ -1,0 +1,884 @@
+[
+	{
+		"ID" : 6325,
+		"Level" : 1,
+		"Name" : "Recipe: Brilliant Smallfish",
+		"NameRU" : "Рецепт: блестящая рыбка"
+	},
+	{
+		"ID" : 6326,
+		"Level" : 1,
+		"Name" : "Recipe: Slitherskin Mackerel",
+		"NameRU" : "Рецепт: скользкокожая скумбрия"
+	},
+	{
+		"ID" : 12226,
+		"Level" : 1,
+		"Name" : "Recipe: Crispy Bat Wing",
+		"NameRU" : "Рецепт: хрустящее крылышко летучей мыши"
+	},
+	{
+		"ID" : 17200,
+		"Level" : 1,
+		"Name" : "Recipe: Gingerbread Cookie",
+		"NameRU" : "Рецепт: имбирное печенье"
+	},
+	{
+		"ID" : 27686,
+		"Level" : 1,
+		"Name" : "Recipe: Roasted Moongraze Tenderloin",
+		"NameRU" : "Рецепт: жареная вырезка лунного оленя"
+	},
+	{
+		"ID" : 27685,
+		"Level" : 1,
+		"Name" : "Recipe: Lynx Steak",
+		"NameRU" : "Рецепт: стейк из рысятины"
+	},
+	{
+		"ID" : 33925,
+		"Level" : 1,
+		"Name" : "Recipe: Delicious Chocolate Cake",
+		"NameRU" : "Рецепт: вкусный шоколадный торт"
+	},
+	{
+		"ID" : 46710,
+		"Level" : 1,
+		"Name" : "Recipe: Bread of the Dead",
+		"NameRU" : "Рецепт: поминальный хлеб"
+	},
+	{
+		"ID" : 44860,
+		"Level" : 1,
+		"Name" : "Recipe: Spice Bread Stuffing",
+		"NameRU" : "Рецепт: пряная хлебная запеканка"
+	},
+	{
+		"ID" : 46803,
+		"Level" : 1,
+		"Name" : "Recipe: Spice Bread Stuffing",
+		"NameRU" : "Рецепт: пряная хлебная запеканка"
+	},
+	{
+		"ID" : 44851,
+		"Level" : 1,
+		"Name" : "Thanksgiving Cookbook",
+		"NameRU" : "Книга рецептов дня Благодарения"
+	},
+	{
+		"ID" : 2889,
+		"Level" : 10,
+		"Name" : "Recipe: Beer Basted Boar Ribs",
+		"NameRU" : "Рецепт: кабаньи ребрышки в пиве"
+	},
+	{
+		"ID" : 5482,
+		"Level" : 10,
+		"Name" : "Recipe: Kaldorei Spider Kabob",
+		"NameRU" : "Рецепт: калдорайский шашлык из паука"
+	},
+	{
+		"ID" : 5483,
+		"Level" : 20,
+		"Name" : "Recipe: Scorpid Surprise",
+		"NameRU" : "Рецепт: десерт из скорпида"
+	},
+	{
+		"ID" : 5484,
+		"Level" : 35,
+		"Name" : "Recipe: Roasted Kodo Meat",
+		"NameRU" : "Рецепт: жареное мясо кодо"
+	},
+	{
+		"ID" : 17201,
+		"Level" : 35,
+		"Name" : "Recipe: Egg Nog",
+		"NameRU" : "Рецепт: гоголь-моголь"
+	},
+	{
+		"ID" : 6892,
+		"Level" : 40,
+		"Name" : "Recipe: Smoked Bear Meat",
+		"NameRU" : "Рецепт: копченая медвежатина"
+	},
+	{
+		"ID" : 728,
+		"Level" : 50,
+		"Name" : "Recipe: Westfall Stew",
+		"NameRU" : "Рецепт: похлебка Западного Края"
+	},
+	{
+		"ID" : 2697,
+		"Level" : 50,
+		"Name" : "Recipe: Goretusk Liver Pie",
+		"NameRU" : "Рецепт: пирожок из печени кровоклыка"
+	},
+	{
+		"ID" : 5485,
+		"Level" : 50,
+		"Name" : "Recipe: Fillet of Frenzy",
+		"NameRU" : "Рецепт: филе бешенки"
+	},
+	{
+		"ID" : 5486,
+		"Level" : 50,
+		"Name" : "Recipe: Strider Stew",
+		"NameRU" : "Рецепт: похлебка из долгонога"
+	},
+	{
+		"ID" : 6328,
+		"Level" : 50,
+		"Name" : "Recipe: Longjaw Mud Snapper",
+		"NameRU" : "Рецепт: острозубый илистый луциан"
+	},
+	{
+		"ID" : 6329,
+		"Level" : 50,
+		"Name" : "Recipe: Loch Frenzy Delight",
+		"NameRU" : "Рецепт: деликатес из бешенки"
+	},
+	{
+		"ID" : 6368,
+		"Level" : 50,
+		"Name" : "Recipe: Rainbow Fin Albacore",
+		"NameRU" : "Рецепт: радужный тунец"
+	},
+	{
+		"ID" : 27687,
+		"Level" : 50,
+		"Name" : "Recipe: Bat Bites",
+		"NameRU" : "Рецепт: закуска из летучей мыши"
+	},
+	{
+		"ID" : 3679,
+		"Level" : 60,
+		"Name" : "Recipe: Blood Sausage",
+		"NameRU" : "Рецепт: кровяная колбаса"
+	},
+	{
+		"ID" : 7678,
+		"Level" : 60,
+		"Name" : "Recipe: Thistle Tea",
+		"NameRU" : "Рецепт: артишоковый чай"
+	},
+	{
+		"ID" : 18160,
+		"Level" : 60,
+		"Name" : "Recipe: Thistle Tea",
+		"NameRU" : "Рецепт: артишоковый чай"
+	},
+	{
+		"ID" : 22647,
+		"Level" : 60,
+		"Name" : "Recipe: Crunchy Spider Surprise",
+		"NameRU" : "Рецепт: хрустящий паучий десерт"
+	},
+	{
+		"ID" : 3678,
+		"Level" : 80,
+		"Name" : "Recipe: Crocolisk Steak",
+		"NameRU" : "Рецепт: стейк из кроколиска"
+	},
+	{
+		"ID" : 21099,
+		"Level" : 80,
+		"Name" : "Recipe: Smoked Sagefish",
+		"NameRU" : "Рецепт: копченый шалфокунь"
+	},
+	{
+		"ID" : 2698,
+		"Level" : 85,
+		"Name" : "Recipe: Cooked Crab Claw",
+		"NameRU" : "Рецепт: вареная клешня краба"
+	},
+	{
+		"ID" : 6661,
+		"Level" : 85,
+		"Name" : "Recipe: Savory Deviate Delight",
+		"NameRU" : "Рецепт: загадочное острое лакомство"
+	},
+	{
+		"ID" : 3680,
+		"Level" : 90,
+		"Name" : "Recipe: Murloc Fin Soup",
+		"NameRU" : "Рецепт: суп из плавников мурлока"
+	},
+	{
+		"ID" : 5487,
+		"Level" : 90,
+		"Name" : "Recipe: Dig Rat Stew",
+		"NameRU" : "Рецепт: похлебка из пещерной крысы"
+	},
+	{
+		"ID" : 5528,
+		"Level" : 90,
+		"Name" : "Recipe: Clam Chowder",
+		"NameRU" : "Рецепт: похлебка из моллюсков"
+	},
+	{
+		"ID" : 44977,
+		"Level" : 90,
+		"Name" : "Recipe: Dig Rat Stew",
+		"NameRU" : "Рецепт: похлебка из пещерной крысы"
+	},
+	{
+		"ID" : 2699,
+		"Level" : 100,
+		"Name" : "Recipe: Redridge Goulash",
+		"NameRU" : "Рецепт: гуляш по-красногорски"
+	},
+	{
+		"ID" : 2701,
+		"Level" : 100,
+		"Name" : "Recipe: Seasoned Wolf Kabob",
+		"NameRU" : "Рецепт: приправленная котлета из волчатины"
+	},
+	{
+		"ID" : 5488,
+		"Level" : 100,
+		"Name" : "Recipe: Crispy Lizard Tail",
+		"NameRU" : "Рецепт: хрустящий хвост ящерицы"
+	},
+	{
+		"ID" : 6330,
+		"Level" : 100,
+		"Name" : "Recipe: Bristle Whisker Catfish",
+		"NameRU" : "Рецепт: зубатка ощетиненная"
+	},
+	{
+		"ID" : 34834,
+		"Level" : 100,
+		"Name" : "Recipe: Captain Rumsey's Lager",
+		"NameRU" : "Рецепт: светлое пиво капитана Ромси"
+	},
+	{
+		"ID" : 44862,
+		"Level" : 100,
+		"Name" : "Recipe: Pumpkin Pie",
+		"NameRU" : "Рецепт: тыквенный пирог"
+	},
+	{
+		"ID" : 46804,
+		"Level" : 100,
+		"Name" : "Recipe: Pumpkin Pie",
+		"NameRU" : "Рецепт: тыквенный пирог"
+	},
+	{
+		"ID" : 2700,
+		"Level" : 110,
+		"Name" : "Recipe: Succulent Pork Ribs",
+		"NameRU" : "Рецепт: сочные свиные ребрышки"
+	},
+	{
+		"ID" : 3683,
+		"Level" : 110,
+		"Name" : "Recipe: Gooey Spider Cake",
+		"NameRU" : "Рецепт: пирожок из паучатины"
+	},
+	{
+		"ID" : 3734,
+		"Level" : 110,
+		"Name" : "Recipe: Big Bear Steak",
+		"NameRU" : "Рецепт: большой медвежий стейк"
+	},
+	{
+		"ID" : 5489,
+		"Level" : 110,
+		"Name" : "Recipe: Lean Venison",
+		"NameRU" : "Рецепт: постная оленина"
+	},
+	{
+		"ID" : 3681,
+		"Level" : 120,
+		"Name" : "Recipe: Crocolisk Gumbo",
+		"NameRU" : "Рецепт: суп из кроколиска"
+	},
+	{
+		"ID" : 3735,
+		"Level" : 125,
+		"Name" : "Recipe: Hot Lion Chops",
+		"NameRU" : "Рецепт: острая отбивная из мяса льва"
+	},
+	{
+		"ID" : 12227,
+		"Level" : 125,
+		"Name" : "Recipe: Lean Wolf Steak",
+		"NameRU" : "Рецепт: постный стейк из волчатины"
+	},
+	{
+		"ID" : 16072,
+		"Level" : 125,
+		"Name" : "Expert Cookbook",
+		"NameRU" : "Поваренная книга умельца"
+	},
+	{
+		"ID" : 3682,
+		"Level" : 130,
+		"Name" : "Recipe: Curiously Tasty Omelet",
+		"NameRU" : "Рецепт: невероятно вкусный омлет"
+	},
+	{
+		"ID" : 3736,
+		"Level" : 150,
+		"Name" : "Recipe: Tasty Lion Steak",
+		"NameRU" : "Рецепт: сочный стейк из мяса льва"
+	},
+	{
+		"ID" : 20075,
+		"Level" : 150,
+		"Name" : "Recipe: Heavy Crocolisk Stew",
+		"NameRU" : "Рецепт: сытная похлебка из кроколиска"
+	},
+	{
+		"ID" : 44858,
+		"Level" : 160,
+		"Name" : "Recipe: Cranberry Chutney",
+		"NameRU" : "Рецепт: клюквенный соус"
+	},
+	{
+		"ID" : 46805,
+		"Level" : 160,
+		"Name" : "Recipe: Cranberry Chutney",
+		"NameRU" : "Рецепт: клюквенный соус"
+	},
+	{
+		"ID" : 3737,
+		"Level" : 175,
+		"Name" : "Recipe: Soothing Turtle Bisque",
+		"NameRU" : "Рецепт: нежный черепаховый суп"
+	},
+	{
+		"ID" : 4609,
+		"Level" : 175,
+		"Name" : "Recipe: Barbecued Buzzard Wing",
+		"NameRU" : "Рецепт: жареное крыло канюка"
+	},
+	{
+		"ID" : 6039,
+		"Level" : 175,
+		"Name" : "Recipe: Giant Clam Scorcho",
+		"NameRU" : "Рецепт: гигантский жареный моллюск"
+	},
+	{
+		"ID" : 6369,
+		"Level" : 175,
+		"Name" : "Recipe: Rockscale Cod",
+		"NameRU" : "Рецепт: каменношкурая треска"
+	},
+	{
+		"ID" : 12228,
+		"Level" : 175,
+		"Name" : "Recipe: Roast Raptor",
+		"NameRU" : "Рецепт: жареный ящер"
+	},
+	{
+		"ID" : 12229,
+		"Level" : 175,
+		"Name" : "Recipe: Hot Wolf Ribs",
+		"NameRU" : "Рецепт: острая волчья грудинка"
+	},
+	{
+		"ID" : 12231,
+		"Level" : 175,
+		"Name" : "Recipe: Jungle Stew",
+		"NameRU" : "Рецепт: похлебка \"Джунгли\""
+	},
+	{
+		"ID" : 12232,
+		"Level" : 175,
+		"Name" : "Recipe: Carrion Surprise",
+		"NameRU" : "Рецепт: десерт из мертвечины"
+	},
+	{
+		"ID" : 12233,
+		"Level" : 175,
+		"Name" : "Recipe: Mystery Stew",
+		"NameRU" : "Рецепт: загадочная похлебка"
+	},
+	{
+		"ID" : 17062,
+		"Level" : 175,
+		"Name" : "Recipe: Mithril Head Trout",
+		"NameRU" : "Рецепт: мифрилоголовая форель"
+	},
+	{
+		"ID" : 21219,
+		"Level" : 175,
+		"Name" : "Recipe: Sagefish Delight",
+		"NameRU" : "Рецепт: деликатес из шалфокуня"
+	},
+	{
+		"ID" : 12239,
+		"Level" : 200,
+		"Name" : "Recipe: Dragonbreath Chili",
+		"NameRU" : "Рецепт: мясо в соусе \"Дыхание дракона\""
+	},
+	{
+		"ID" : 12240,
+		"Level" : 200,
+		"Name" : "Recipe: Heavy Kodo Stew",
+		"NameRU" : "Рецепт: сытная похлебка из кодо"
+	},
+	{
+		"ID" : 44859,
+		"Level" : 220,
+		"Name" : "Recipe: Candied Sweet Potato",
+		"NameRU" : "Рецепт: засахаренный батат"
+	},
+	{
+		"ID" : 46806,
+		"Level" : 220,
+		"Name" : "Recipe: Candied Sweet Potato",
+		"NameRU" : "Рецепт: засахаренный батат"
+	},
+	{
+		"ID" : 13939,
+		"Level" : 225,
+		"Name" : "Recipe: Spotted Yellowtail",
+		"NameRU" : "Рецепт: пятнистый желтохвост"
+	},
+	{
+		"ID" : 13940,
+		"Level" : 225,
+		"Name" : "Recipe: Cooked Glossy Mightfish",
+		"NameRU" : "Рецепт: мощь-рыба в кляре"
+	},
+	{
+		"ID" : 13941,
+		"Level" : 225,
+		"Name" : "Recipe: Filet of Redgill",
+		"NameRU" : "Рецепт: филе краснобородки"
+	},
+	{
+		"ID" : 16110,
+		"Level" : 225,
+		"Name" : "Recipe: Monster Omelet",
+		"NameRU" : "Рецепт: чудовищный омлет"
+	},
+	{
+		"ID" : 16111,
+		"Level" : 225,
+		"Name" : "Recipe: Spiced Chili Crab",
+		"NameRU" : "Рецепт: острое крабовое чили"
+	},
+	{
+		"ID" : 16767,
+		"Level" : 225,
+		"Name" : "Recipe: Undermine Clam Chowder",
+		"NameRU" : "Рецепт: шахтерская похлебка из моллюсков"
+	},
+	{
+		"ID" : 18046,
+		"Level" : 225,
+		"Name" : "Recipe: Tender Wolf Steak",
+		"NameRU" : "Рецепт: нежный стейк из волчатины"
+	},
+	{
+		"ID" : 13942,
+		"Level" : 240,
+		"Name" : "Recipe: Grilled Squid",
+		"NameRU" : "Рецепт: кальмар-гриль"
+	},
+	{
+		"ID" : 13943,
+		"Level" : 240,
+		"Name" : "Recipe: Hot Smoked Bass",
+		"NameRU" : "Рецепт: окунь горячего копчения"
+	},
+	{
+		"ID" : 13945,
+		"Level" : 250,
+		"Name" : "Recipe: Nightfin Soup",
+		"NameRU" : "Рецепт: суп из ночного луциана"
+	},
+	{
+		"ID" : 13946,
+		"Level" : 250,
+		"Name" : "Recipe: Poached Sunscale Salmon",
+		"NameRU" : "Рецепт: вареный солнечный лосось"
+	},
+	{
+		"ID" : 35566,
+		"Level" : 250,
+		"Name" : "Recipe: Juicy Bear Burger",
+		"NameRU" : "Рецепт: сочная котлета из медвежатины"
+	},
+	{
+		"ID" : 35564,
+		"Level" : 250,
+		"Name" : "Recipe: Charred Bear Kabobs",
+		"NameRU" : "Рецепт: кебаб из медвежатины на углях"
+	},
+	{
+		"ID" : 13947,
+		"Level" : 275,
+		"Name" : "Recipe: Lobster Stew",
+		"NameRU" : "Рецепт: похлебка из омаров"
+	},
+	{
+		"ID" : 13948,
+		"Level" : 275,
+		"Name" : "Recipe: Mightfish Steak",
+		"NameRU" : "Рецепт: стейк из мощь-рыбы"
+	},
+	{
+		"ID" : 13949,
+		"Level" : 275,
+		"Name" : "Recipe: Baked Salmon",
+		"NameRU" : "Рецепт: печеный лосось"
+	},
+	{
+		"ID" : 18267,
+		"Level" : 275,
+		"Name" : "Recipe: Runn Tum Tuber Surprise",
+		"NameRU" : "Рецепт: десерт из корня Рун-Тум"
+	},
+	{
+		"ID" : 44861,
+		"Level" : 280,
+		"Name" : "Recipe: Slow-Roasted Turkey",
+		"NameRU" : "Рецепт: запеченная индейка"
+	},
+	{
+		"ID" : 46807,
+		"Level" : 280,
+		"Name" : "Recipe: Slow-Roasted Turkey",
+		"NameRU" : "Рецепт: запеченная индейка"
+	},
+	{
+		"ID" : 21025,
+		"Level" : 300,
+		"Name" : "Recipe: Dirge's Kickin' Chimaerok Chops",
+		"NameRU" : "Рецепт: зажигательные химеровые отбивные Могиля"
+	},
+	{
+		"ID" : 27688,
+		"Level" : 300,
+		"Name" : "Recipe: Ravager Dog",
+		"NameRU" : "Рецепт: сосиска из мяса опустошителя"
+	},
+	{
+		"ID" : 27684,
+		"Level" : 300,
+		"Name" : "Recipe: Buzzard Bites",
+		"NameRU" : "Рецепт: закуска из канюка"
+	},
+	{
+		"ID" : 27694,
+		"Level" : 300,
+		"Name" : "Recipe: Blackened Trout",
+		"NameRU" : "Рецепт: копченая форель"
+	},
+	{
+		"ID" : 27695,
+		"Level" : 300,
+		"Name" : "Recipe: Feltail Delight",
+		"NameRU" : "Рецепт: лакомство из сквернохвоста"
+	},
+	{
+		"ID" : 27736,
+		"Level" : 300,
+		"Name" : "Master Cookbook",
+		"NameRU" : "Поварская книга"
+	},
+	{
+		"ID" : 30156,
+		"Level" : 300,
+		"Name" : "Recipe: Clam Bar",
+		"NameRU" : "Рецепт: батончик из мяса моллюска"
+	},
+	{
+		"ID" : 33869,
+		"Level" : 300,
+		"Name" : "Recipe: Broiled Bloodfin",
+		"NameRU" : "Рецепт: зажаренный на открытом огне афиохаракс"
+	},
+	{
+		"ID" : 33871,
+		"Level" : 300,
+		"Name" : "Recipe: Stormchops",
+		"NameRU" : "Рецепт: буреветчина"
+	},
+	{
+		"ID" : 33875,
+		"Level" : 300,
+		"Name" : "Recipe: Kibler's Bits",
+		"NameRU" : "Рецепт: \"Кит и кот\""
+	},
+	{
+		"ID" : 27696,
+		"Level" : 310,
+		"Name" : "Recipe: Blackened Sporefish",
+		"NameRU" : "Рецепт: копченый спороус"
+	},
+	{
+		"ID" : 27689,
+		"Level" : 310,
+		"Name" : "Recipe: Sporeling Snack",
+		"NameRU" : "Рецепт: закуска спорлингов"
+	},
+	{
+		"ID" : 27690,
+		"Level" : 315,
+		"Name" : "Recipe: Blackened Basilisk",
+		"NameRU" : "Рецепт: копченый василиск"
+	},
+	{
+		"ID" : 27697,
+		"Level" : 320,
+		"Name" : "Recipe: Grilled Mudfish",
+		"NameRU" : "Рецепт: жареная ильница"
+	},
+	{
+		"ID" : 27698,
+		"Level" : 320,
+		"Name" : "Recipe: Poached Bluefish",
+		"NameRU" : "Рецепт: вареный луфарь"
+	},
+	{
+		"ID" : 27699,
+		"Level" : 325,
+		"Name" : "Recipe: Golden Fish Sticks",
+		"NameRU" : "Рецепт: палочки из золотой рыбки"
+	},
+	{
+		"ID" : 27692,
+		"Level" : 325,
+		"Name" : "Recipe: Warp Burger",
+		"NameRU" : "Рецепт: котлета из прыгуаны"
+	},
+	{
+		"ID" : 27691,
+		"Level" : 325,
+		"Name" : "Recipe: Roasted Clefthoof",
+		"NameRU" : "Рецепт: жареное мясо копытня"
+	},
+	{
+		"ID" : 27693,
+		"Level" : 325,
+		"Name" : "Recipe: Talbuk Steak",
+		"NameRU" : "Рецепт: стейк из талбука"
+	},
+	{
+		"ID" : 33873,
+		"Level" : 325,
+		"Name" : "Recipe: Spicy Hot Talbuk",
+		"NameRU" : "Рецепт: острый стейк из талбука"
+	},
+	{
+		"ID" : 33870,
+		"Level" : 325,
+		"Name" : "Recipe: Skullfish Soup",
+		"NameRU" : "Рецепт: суп из рыбы-черепа"
+	},
+	{
+		"ID" : 34413,
+		"Level" : 325,
+		"Name" : "Recipe: Hot Apple Cider",
+		"NameRU" : "Рецепт: горячий яблочный сидр"
+	},
+	{
+		"ID" : 31674,
+		"Level" : 335,
+		"Name" : "Recipe: Crunchy Serpent",
+		"NameRU" : "Рецепт: поджаристый змей"
+	},
+	{
+		"ID" : 31675,
+		"Level" : 335,
+		"Name" : "Recipe: Mok'Nathal Shortribs",
+		"NameRU" : "Рецепт: ребрышки Мок'Натала"
+	},
+	{
+		"ID" : 27700,
+		"Level" : 350,
+		"Name" : "Recipe: Spicy Crawdad",
+		"NameRU" : "Рецепт: рак с пряностями"
+	},
+	{
+		"ID" : 34126,
+		"Level" : 350,
+		"Name" : "Recipe: Shoveltusk Soup",
+		"NameRU" : "Рецепт: Суп из черпорога"
+	},
+	{
+		"ID" : 39692,
+		"Level" : 350,
+		"Name" : "Recipe: Succulent Orca Stew",
+		"NameRU" : "Рецепт: Наваристая похлебка из косатки"
+	},
+	{
+		"ID" : 43507,
+		"Level" : 350,
+		"Name" : "Recipe: Tasty Cupcake",
+		"NameRU" : "Рецепт: аппетитный кекс"
+	},
+	{
+		"ID" : 43508,
+		"Level" : 350,
+		"Name" : "Recipe: Last Week's Mammoth",
+		"NameRU" : "Рецепт: мамонтятина не первой свежести"
+	},
+	{
+		"ID" : 43509,
+		"Level" : 350,
+		"Name" : "Recipe: Bad Clams",
+		"NameRU" : "Рецепт: испорченные моллюски"
+	},
+	{
+		"ID" : 43510,
+		"Level" : 350,
+		"Name" : "Recipe: Haunted Herring",
+		"NameRU" : "Рецепт: эфемерная селедка"
+	},
+	{
+		"ID" : 39644,
+		"Level" : 375,
+		"Name" : "Recipe: Kungaloosh",
+		"NameRU" : "Рецепт: Кунгалуш"
+	},
+	{
+		"ID" : 43018,
+		"Level" : 400,
+		"Name" : "Recipe: Mega Mammoth Meal",
+		"NameRU" : "Рецепт: сытное кушанье из мамонта"
+	},
+	{
+		"ID" : 43019,
+		"Level" : 400,
+		"Name" : "Recipe: Tender Shoveltusk Steak",
+		"NameRU" : "Рецепт: нежный стейк из черпорога"
+	},
+	{
+		"ID" : 43020,
+		"Level" : 400,
+		"Name" : "Recipe: Spiced Worm Burger",
+		"NameRU" : "Рецепт: котлета из змея с пряностями"
+	},
+	{
+		"ID" : 43021,
+		"Level" : 400,
+		"Name" : "Recipe: Very Burnt Worg",
+		"NameRU" : "Рецепт: пережаренное мясо ворга"
+	},
+	{
+		"ID" : 43022,
+		"Level" : 400,
+		"Name" : "Recipe: Mighty Rhino Dogs",
+		"NameRU" : "Рецепт: сочные сосиски из люторога"
+	},
+	{
+		"ID" : 43023,
+		"Level" : 400,
+		"Name" : "Recipe: Poached Northern Sculpin",
+		"NameRU" : "Рецепт: вареный северный подкаменщик"
+	},
+	{
+		"ID" : 43024,
+		"Level" : 400,
+		"Name" : "Recipe: Firecracker Salmon",
+		"NameRU" : "Рецепт: лосось с дымком"
+	},
+	{
+		"ID" : 43025,
+		"Level" : 400,
+		"Name" : "Recipe: Spicy Blue Nettlefish",
+		"NameRU" : "Рецепт: синяя медуза с пряностями"
+	},
+	{
+		"ID" : 43026,
+		"Level" : 400,
+		"Name" : "Recipe: Imperial Manta Steak",
+		"NameRU" : "Рецепт: стейк из королевского ската"
+	},
+	{
+		"ID" : 43027,
+		"Level" : 400,
+		"Name" : "Recipe: Spicy Fried Herring",
+		"NameRU" : "Рецепт: острая жареная сельдь"
+	},
+	{
+		"ID" : 43028,
+		"Level" : 400,
+		"Name" : "Recipe: Rhinolicious Wormsteak",
+		"NameRU" : "Рецепт: люторожий змеестейк"
+	},
+	{
+		"ID" : 43029,
+		"Level" : 400,
+		"Name" : "Recipe: Critter Bites",
+		"NameRU" : "Рецепт: корм для зверька"
+	},
+	{
+		"ID" : 43030,
+		"Level" : 400,
+		"Name" : "Recipe: Hearty Rhino",
+		"NameRU" : "Рецепт: сочное мясо люторога"
+	},
+	{
+		"ID" : 43031,
+		"Level" : 400,
+		"Name" : "Recipe: Snapper Extreme",
+		"NameRU" : "Рецепт: луциан особого приготовления"
+	},
+	{
+		"ID" : 43032,
+		"Level" : 400,
+		"Name" : "Recipe: Blackened Worg Steak",
+		"NameRU" : "Рецепт: подкопченный стейк из ворга"
+	},
+	{
+		"ID" : 43033,
+		"Level" : 400,
+		"Name" : "Recipe: Cuttlesteak",
+		"NameRU" : "Рецепт: стейк из каракатицы"
+	},
+	{
+		"ID" : 43034,
+		"Level" : 400,
+		"Name" : "Recipe: Spiced Mammoth Treats",
+		"NameRU" : "Рецепт: пряное лакомство из мамонта"
+	},
+	{
+		"ID" : 43035,
+		"Level" : 400,
+		"Name" : "Recipe: Blackened Dragonfin",
+		"NameRU" : "Рецепт: подкопченная дракоперая рыба-ангел"
+	},
+	{
+		"ID" : 43036,
+		"Level" : 400,
+		"Name" : "Recipe: Dragonfin Filet",
+		"NameRU" : "Рецепт: филе дракоперой рыбы-ангела"
+	},
+	{
+		"ID" : 43037,
+		"Level" : 400,
+		"Name" : "Recipe: Tracker Snacks",
+		"NameRU" : "Рецепт: завтрак следопыта"
+	},
+	{
+		"ID" : 44954,
+		"Level" : 400,
+		"Name" : "Recipe: Worg Tartare",
+		"NameRU" : "Рецепт: карпаччо из ворга"
+	},
+	{
+		"ID" : 43505,
+		"Level" : 425,
+		"Name" : "Recipe: Gigantic Feast",
+		"NameRU" : "Рецепт: пир для великанов"
+	},
+	{
+		"ID" : 43506,
+		"Level" : 425,
+		"Name" : "Recipe: Small Feast",
+		"NameRU" : "Рецепт: пир для карликов"
+	},
+	{
+		"ID" : 43017,
+		"Level" : 450,
+		"Name" : "Recipe: Fish Feast",
+		"NameRU" : "Рецепт: рыбный пир"
+	}
+]

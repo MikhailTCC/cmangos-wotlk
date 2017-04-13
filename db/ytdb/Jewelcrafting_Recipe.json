@@ -1,0 +1,2816 @@
+[
+	{
+		"ID" : 20854,
+		"Level" : 110,
+		"Name" : "Design: Amulet of the Moon",
+		"NameRU" : "Эскиз: амулет Луны"
+	},
+	{
+		"ID" : 20970,
+		"Level" : 120,
+		"Name" : "Design: Pendant of the Agate Shield",
+		"NameRU" : "Эскиз: подвеска Агатового Щита"
+	},
+	{
+		"ID" : 20971,
+		"Level" : 125,
+		"Name" : "Design: Heavy Iron Knuckles",
+		"NameRU" : "Эскиз: тяжелый железный кастет"
+	},
+	{
+		"ID" : 20855,
+		"Level" : 125,
+		"Name" : "Design: Wicked Moonstone Ring",
+		"NameRU" : "Эскиз: гибельное кольцо лунного камня"
+	},
+	{
+		"ID" : 20856,
+		"Level" : 150,
+		"Name" : "Design: Heavy Golden Necklace of Battle",
+		"NameRU" : "Эскиз: тяжелое золотое ожерелье битвы"
+	},
+	{
+		"ID" : 20973,
+		"Level" : 150,
+		"Name" : "Design: Blazing Citrine Ring",
+		"NameRU" : "Эскиз: пылающее цитриновое кольцо"
+	},
+	{
+		"ID" : 20974,
+		"Level" : 160,
+		"Name" : "Design: Jade Pendant of Blasting",
+		"NameRU" : "Эскиз: нефритовая подвеска взрыва"
+	},
+	{
+		"ID" : 20975,
+		"Level" : 170,
+		"Name" : "Design: The Jade Eye",
+		"NameRU" : "Эскиз: нефритовое око"
+	},
+	{
+		"ID" : 20976,
+		"Level" : 190,
+		"Name" : "Design: Citrine Pendant of Golden Healing",
+		"NameRU" : "Эскиз: цитриновая подвеска исцеления"
+	},
+	{
+		"ID" : 21940,
+		"Level" : 200,
+		"Name" : "Design: Golden Hare",
+		"NameRU" : "Эскиз: золотой заяц"
+	},
+	{
+		"ID" : 21941,
+		"Level" : 215,
+		"Name" : "Design: Black Pearl Panther",
+		"NameRU" : "Эскиз: пантера из черного жемчуга"
+	},
+	{
+		"ID" : 21942,
+		"Level" : 225,
+		"Name" : "Design: Ruby Crown of Restoration",
+		"NameRU" : "Эскиз: рубиновая корона восстановления"
+	},
+	{
+		"ID" : 21943,
+		"Level" : 225,
+		"Name" : "Design: Truesilver Crab",
+		"NameRU" : "Эскиз: краб из истинного серебра"
+	},
+	{
+		"ID" : 21944,
+		"Level" : 235,
+		"Name" : "Design: Truesilver Boar",
+		"NameRU" : "Эскиз: вепрь из истинного серебра"
+	},
+	{
+		"ID" : 21945,
+		"Level" : 245,
+		"Name" : "Design: The Aquamarine Ward",
+		"NameRU" : "Эскиз: аквамариновый оберег"
+	},
+	{
+		"ID" : 21948,
+		"Level" : 250,
+		"Name" : "Design: Opal Necklace of Impact",
+		"NameRU" : "Эскиз: опаловое ожерелье столкновения"
+	},
+	{
+		"ID" : 21947,
+		"Level" : 250,
+		"Name" : "Design: Gem Studded Band",
+		"NameRU" : "Эскиз: украшенное самоцветами кольцо"
+	},
+	{
+		"ID" : 21949,
+		"Level" : 260,
+		"Name" : "Design: Ruby Serpent",
+		"NameRU" : "Эскиз: рубиновая змея"
+	},
+	{
+		"ID" : 21952,
+		"Level" : 275,
+		"Name" : "Design: Emerald Crown of Destruction",
+		"NameRU" : "Эскиз: изумрудная корона разрушения"
+	},
+	{
+		"ID" : 21953,
+		"Level" : 285,
+		"Name" : "Design: Emerald Owl",
+		"NameRU" : "Эскиз: изумрудная сова"
+	},
+	{
+		"ID" : 21954,
+		"Level" : 285,
+		"Name" : "Design: Ring of Bitter Shadows",
+		"NameRU" : "Эскиз: кольцо жестоких теней"
+	},
+	{
+		"ID" : 21955,
+		"Level" : 300,
+		"Name" : "Design: Black Diamond Crab",
+		"NameRU" : "Эскиз: черный алмазный краб"
+	},
+	{
+		"ID" : 21956,
+		"Level" : 300,
+		"Name" : "Design: Dark Iron Scorpid",
+		"NameRU" : "Эскиз: скорпид из черного железа"
+	},
+	{
+		"ID" : 23130,
+		"Level" : 300,
+		"Name" : "Design: Teardrop Blood Garnet",
+		"NameRU" : "Эскиз: каплевидный кровавый гранат"
+	},
+	{
+		"ID" : 23135,
+		"Level" : 300,
+		"Name" : "Design: Inscribed Flame Spessarite",
+		"NameRU" : "Эскиз: покрытый письменами пламенный спессарит"
+	},
+	{
+		"ID" : 23140,
+		"Level" : 300,
+		"Name" : "Design: Radiant Deep Peridot",
+		"NameRU" : "Эскиз: светозарный хризолит"
+	},
+	{
+		"ID" : 23144,
+		"Level" : 300,
+		"Name" : "Design: Glowing Shadow Draenite",
+		"NameRU" : "Эскиз: светящийся сумеречный дренит"
+	},
+	{
+		"ID" : 23148,
+		"Level" : 300,
+		"Name" : "Design: Brilliant Golden Draenite",
+		"NameRU" : "Эскиз: сверкающий золотой дренит"
+	},
+	{
+		"ID" : 23152,
+		"Level" : 300,
+		"Name" : "Design: Solid Azure Moonstone",
+		"NameRU" : "Эскиз: твердый лазурный лунный камень"
+	},
+	{
+		"ID" : 23145,
+		"Level" : 305,
+		"Name" : "Design: Royal Shadow Draenite",
+		"NameRU" : "Эскиз: королевский сумрачный дренит"
+	},
+	{
+		"ID" : 23149,
+		"Level" : 305,
+		"Name" : "Design: Gleaming Golden Draenite",
+		"NameRU" : "Эскиз: искристый золотой дренит"
+	},
+	{
+		"ID" : 21957,
+		"Level" : 305,
+		"Name" : "Design: Necklace of the Diamond Tower",
+		"NameRU" : "Эскиз: ожерелье Адамантовой башни"
+	},
+	{
+		"ID" : 28596,
+		"Level" : 305,
+		"Name" : "Design: Bright Blood Garnet",
+		"NameRU" : "Эскиз: яркий кровавый гранат"
+	},
+	{
+		"ID" : 23136,
+		"Level" : 305,
+		"Name" : "Design: Luminous Flame Spessarite",
+		"NameRU" : "Эскиз: светоносный пламенный спессарит"
+	},
+	{
+		"ID" : 23131,
+		"Level" : 305,
+		"Name" : "Design: Bold Blood Garnet",
+		"NameRU" : "Эскиз: рельефный кровавый гранат"
+	},
+	{
+		"ID" : 23141,
+		"Level" : 305,
+		"Name" : "Design: Jagged Deep Peridot",
+		"NameRU" : "Эскиз: зазубренный хризолит"
+	},
+	{
+		"ID" : 23153,
+		"Level" : 305,
+		"Name" : "Design: Sparkling Azure Moonstone",
+		"NameRU" : "Эскиз: искрящийся лазурный лунный камень"
+	},
+	{
+		"ID" : 23133,
+		"Level" : 315,
+		"Name" : "Design: Runed Blood Garnet",
+		"NameRU" : "Эскиз: рунический кровавый гранат"
+	},
+	{
+		"ID" : 31359,
+		"Level" : 315,
+		"Name" : "Design: Enduring Deep Peridot",
+		"NameRU" : "Эскиз: отверделый хризолит"
+	},
+	{
+		"ID" : 23150,
+		"Level" : 315,
+		"Name" : "Design: Thick Golden Draenite",
+		"NameRU" : "Эскиз: матовый золотой дренит"
+	},
+	{
+		"ID" : 23146,
+		"Level" : 315,
+		"Name" : "Design: Shifting Shadow Draenite",
+		"NameRU" : "Эскиз: изменчивый сумрачный дренит"
+	},
+	{
+		"ID" : 23154,
+		"Level" : 315,
+		"Name" : "Design: Stormy Azure Moonstone",
+		"NameRU" : "Эскиз: грозовой лазурный лунный камень"
+	},
+	{
+		"ID" : 23137,
+		"Level" : 315,
+		"Name" : "Design: Glinting Flame Spessarite",
+		"NameRU" : "Эскиз: блистающий пламенный спессарит"
+	},
+	{
+		"ID" : 23142,
+		"Level" : 315,
+		"Name" : "Design: Enduring Deep Peridot",
+		"NameRU" : "Эскиз: отверделый хризолит"
+	},
+	{
+		"ID" : 31874,
+		"Level" : 325,
+		"Name" : "Design: Wicked Flame Spessarite",
+		"NameRU" : "Эскиз: гибельный пламенный спессарит"
+	},
+	{
+		"ID" : 31873,
+		"Level" : 325,
+		"Name" : "Design: Veiled Flame Spessarite",
+		"NameRU" : "Эскиз: сокрытый пламенный спессарит"
+	},
+	{
+		"ID" : 31872,
+		"Level" : 325,
+		"Name" : "Design: Infused Shadow Draenite",
+		"NameRU" : "Эскиз: заряженный сумеречный дренит"
+	},
+	{
+		"ID" : 23143,
+		"Level" : 325,
+		"Name" : "Design: Dazzling Deep Peridot",
+		"NameRU" : "Эскиз: ослепительный хризолит"
+	},
+	{
+		"ID" : 28291,
+		"Level" : 325,
+		"Name" : "Design: Smooth Golden Draenite",
+		"NameRU" : "Эскиз: гладкий золотой дренит"
+	},
+	{
+		"ID" : 23155,
+		"Level" : 325,
+		"Name" : "Design: Lustrous Azure Moonstone",
+		"NameRU" : "Эскиз: блестящий лазурный лунный камень"
+	},
+	{
+		"ID" : 23134,
+		"Level" : 325,
+		"Name" : "Design: Delicate Blood Garnet",
+		"NameRU" : "Эскиз: изысканный кровавый гранат"
+	},
+	{
+		"ID" : 23138,
+		"Level" : 325,
+		"Name" : "Design: Potent Flame Spessarite",
+		"NameRU" : "Эскиз: могущественный пламенный спессарит"
+	},
+	{
+		"ID" : 23147,
+		"Level" : 325,
+		"Name" : "Design: Sovereign Shadow Draenite",
+		"NameRU" : "Эскиз: царственный сумеречный дренит"
+	},
+	{
+		"ID" : 23151,
+		"Level" : 325,
+		"Name" : "Design: Rigid Golden Draenite",
+		"NameRU" : "Эскиз: твердый золотой дренит"
+	},
+	{
+		"ID" : 31870,
+		"Level" : 325,
+		"Name" : "Design: Great Golden Draenite",
+		"NameRU" : "Эскиз: большой золотой дренит"
+	},
+	{
+		"ID" : 31871,
+		"Level" : 325,
+		"Name" : "Design: Balanced Shadow Draenite",
+		"NameRU" : "Эскиз: сбалансированный сумрачный дренит"
+	},
+	{
+		"ID" : 24163,
+		"Level" : 345,
+		"Name" : "Design: Heavy Felsteel Ring",
+		"NameRU" : "Эскиз: тяжелое кольцо из оскверненной стали"
+	},
+	{
+		"ID" : 24216,
+		"Level" : 350,
+		"Name" : "Design: Glinting Noble Topaz",
+		"NameRU" : "Эскиз: блистающий благородный топаз"
+	},
+	{
+		"ID" : 24214,
+		"Level" : 350,
+		"Name" : "Design: Potent Noble Topaz",
+		"NameRU" : "Эскиз: могущественный благородный топаз"
+	},
+	{
+		"ID" : 24209,
+		"Level" : 350,
+		"Name" : "Design: Sovereign Nightseye",
+		"NameRU" : "Эскиз: царственное око ночи"
+	},
+	{
+		"ID" : 24205,
+		"Level" : 350,
+		"Name" : "Design: Rigid Dawnstone",
+		"NameRU" : "Эскиз: прочный зоревик"
+	},
+	{
+		"ID" : 24200,
+		"Level" : 350,
+		"Name" : "Design: Sparkling Star of Elune",
+		"NameRU" : "Эскиз: искрящаяся звезда Элуны"
+	},
+	{
+		"ID" : 24199,
+		"Level" : 350,
+		"Name" : "Design: Solid Star of Elune",
+		"NameRU" : "Эскиз: цельная звезда Элуны"
+	},
+	{
+		"ID" : 24193,
+		"Level" : 350,
+		"Name" : "Design: Bold Living Ruby",
+		"NameRU" : "Эскиз: рельефный животворный рубин"
+	},
+	{
+		"ID" : 24202,
+		"Level" : 350,
+		"Name" : "Design: Stormy Star of Elune",
+		"NameRU" : "Эскиз: грозовая Звезда Элуны"
+	},
+	{
+		"ID" : 24197,
+		"Level" : 350,
+		"Name" : "Design: Subtle Living Ruby",
+		"NameRU" : "Эскиз: изящный животворный рубин"
+	},
+	{
+		"ID" : 24211,
+		"Level" : 350,
+		"Name" : "Design: Glowing Nightseye",
+		"NameRU" : "Эскиз: светящееся око ночи"
+	},
+	{
+		"ID" : 24195,
+		"Level" : 350,
+		"Name" : "Design: Teardrop Living Ruby",
+		"NameRU" : "Эскиз: каплевидный животворящий рубин"
+	},
+	{
+		"ID" : 24192,
+		"Level" : 350,
+		"Name" : "Design: Bright Living Ruby",
+		"NameRU" : "Эскиз: яркий животворный рубин"
+	},
+	{
+		"ID" : 24207,
+		"Level" : 350,
+		"Name" : "Design: Thick Dawnstone",
+		"NameRU" : "Эскиз: матовый зоревик"
+	},
+	{
+		"ID" : 24158,
+		"Level" : 350,
+		"Name" : "Design: Khorium Band of Shadows",
+		"NameRU" : "Эскиз: кориевое кольцо Теней"
+	},
+	{
+		"ID" : 24194,
+		"Level" : 350,
+		"Name" : "Design: Delicate Living Ruby",
+		"NameRU" : "Эскиз: изысканный животворный рубин"
+	},
+	{
+		"ID" : 24196,
+		"Level" : 350,
+		"Name" : "Design: Runed Living Ruby",
+		"NameRU" : "Эскиз: рунический животворный рубин"
+	},
+	{
+		"ID" : 24198,
+		"Level" : 350,
+		"Name" : "Design: Flashing Living Ruby",
+		"NameRU" : "Эскиз: блистательный животворный рубин"
+	},
+	{
+		"ID" : 24201,
+		"Level" : 350,
+		"Name" : "Design: Lustrous Star of Elune",
+		"NameRU" : "Эскиз: блестящая Звезда Элуны"
+	},
+	{
+		"ID" : 24203,
+		"Level" : 350,
+		"Name" : "Design: Brilliant Dawnstone",
+		"NameRU" : "Эскиз: сверкающий зоревик"
+	},
+	{
+		"ID" : 24204,
+		"Level" : 350,
+		"Name" : "Design: Smooth Dawnstone",
+		"NameRU" : "Эскиз: гладкий зоревик"
+	},
+	{
+		"ID" : 24206,
+		"Level" : 350,
+		"Name" : "Design: Gleaming Dawnstone",
+		"NameRU" : "Эскиз: искристый зоревик"
+	},
+	{
+		"ID" : 24210,
+		"Level" : 350,
+		"Name" : "Design: Shifting Nightseye",
+		"NameRU" : "Эскиз: изменчивое око ночи"
+	},
+	{
+		"ID" : 24212,
+		"Level" : 350,
+		"Name" : "Design: Royal Nightseye",
+		"NameRU" : "Эскиз: королевское око ночи"
+	},
+	{
+		"ID" : 24213,
+		"Level" : 350,
+		"Name" : "Design: Inscribed Noble Topaz",
+		"NameRU" : "Эскиз: покрытый письменами благородный топаз"
+	},
+	{
+		"ID" : 24215,
+		"Level" : 350,
+		"Name" : "Design: Luminous Noble Topaz",
+		"NameRU" : "Эскиз: светоносный благородный топаз"
+	},
+	{
+		"ID" : 24217,
+		"Level" : 350,
+		"Name" : "Design: Enduring Talasite",
+		"NameRU" : "Эскиз: отверделый талассит"
+	},
+	{
+		"ID" : 24218,
+		"Level" : 350,
+		"Name" : "Design: Radiant Talasite",
+		"NameRU" : "Эскиз: светозарный талассит"
+	},
+	{
+		"ID" : 24219,
+		"Level" : 350,
+		"Name" : "Design: Dazzling Talasite",
+		"NameRU" : "Эскиз: ослепительный талассит"
+	},
+	{
+		"ID" : 24220,
+		"Level" : 350,
+		"Name" : "Design: Jagged Talasite",
+		"NameRU" : "Эскиз: зазубренный талассит"
+	},
+	{
+		"ID" : 31875,
+		"Level" : 350,
+		"Name" : "Design: Great Dawnstone",
+		"NameRU" : "Эскиз: большой зоревик"
+	},
+	{
+		"ID" : 31876,
+		"Level" : 350,
+		"Name" : "Design: Balanced Nightseye",
+		"NameRU" : "Эскиз: сбалансированное око ночи"
+	},
+	{
+		"ID" : 31877,
+		"Level" : 350,
+		"Name" : "Design: Infused Nightseye",
+		"NameRU" : "Эскиз: заряженное око ночи"
+	},
+	{
+		"ID" : 31878,
+		"Level" : 350,
+		"Name" : "Design: Veiled Noble Topaz",
+		"NameRU" : "Эскиз: сокрытый благородный топаз"
+	},
+	{
+		"ID" : 31879,
+		"Level" : 350,
+		"Name" : "Design: Wicked Noble Topaz",
+		"NameRU" : "Эскиз: гибельный благородный топаз"
+	},
+	{
+		"ID" : 24208,
+		"Level" : 350,
+		"Name" : "Design: Mystic Dawnstone",
+		"NameRU" : "Эскиз: мистический зоревик"
+	},
+	{
+		"ID" : 33783,
+		"Level" : 350,
+		"Name" : "Design: Steady Talasite",
+		"NameRU" : "Эскиз: неизменный талассит"
+	},
+	{
+		"ID" : 35708,
+		"Level" : 350,
+		"Name" : "Design: Regal Nightseye",
+		"NameRU" : "Эскиз: монаршее око ночи"
+	},
+	{
+		"ID" : 35306,
+		"Level" : 350,
+		"Name" : "Design: Bright Living Ruby",
+		"NameRU" : "Эскиз: яркий животворный рубин"
+	},
+	{
+		"ID" : 35305,
+		"Level" : 350,
+		"Name" : "Design: Runed Living Ruby",
+		"NameRU" : "Эскиз: рунический животворный рубин"
+	},
+	{
+		"ID" : 35307,
+		"Level" : 350,
+		"Name" : "Design: Rigid Dawnstone",
+		"NameRU" : "Эскиз: твердый зоревик"
+	},
+	{
+		"ID" : 35304,
+		"Level" : 350,
+		"Name" : "Design: Solid Star of Elune",
+		"NameRU" : "Эскиз: безупречная Звезда Элуны"
+	},
+	{
+		"ID" : 35323,
+		"Level" : 350,
+		"Name" : "Design: Reckless Noble Topaz",
+		"NameRU" : "Эскиз: тревожный благородный топаз"
+	},
+	{
+		"ID" : 35322,
+		"Level" : 350,
+		"Name" : "Design: Quick Dawnstone",
+		"NameRU" : "Эскиз: мягкий зоревик"
+	},
+	{
+		"ID" : 35325,
+		"Level" : 350,
+		"Name" : "Design: Forceful Talasite",
+		"NameRU" : "Эскиз: мощный талассит"
+	},
+	{
+		"ID" : 41559,
+		"Level" : 350,
+		"Name" : "Design: Mystic Sun Crystal",
+		"NameRU" : "Эскиз: мистический солнечный хрусталь"
+	},
+	{
+		"ID" : 41560,
+		"Level" : 350,
+		"Name" : "Design: Stormy Chalcedony",
+		"NameRU" : "Эскиз: грозовой кальцедоний"
+	},
+	{
+		"ID" : 41561,
+		"Level" : 350,
+		"Name" : "Design: Reckless Huge Citrine",
+		"NameRU" : "Эскиз: тревожный огромный цитрин"
+	},
+	{
+		"ID" : 41562,
+		"Level" : 350,
+		"Name" : "Design: Deadly Huge Citrine",
+		"NameRU" : "Эскиз: смертоносный огромный цитрин"
+	},
+	{
+		"ID" : 41563,
+		"Level" : 350,
+		"Name" : "Design: Durable Huge Citrine",
+		"NameRU" : "Эскиз: надежный огромный цитрин"
+	},
+	{
+		"ID" : 41564,
+		"Level" : 350,
+		"Name" : "Design: Empowered Huge Citrine",
+		"NameRU" : "Эскиз: наделенный силой огромный цитрин"
+	},
+	{
+		"ID" : 41565,
+		"Level" : 350,
+		"Name" : "Design: Lucent Huge Citrine",
+		"NameRU" : "Эскиз: прозрачный огромный цитрин"
+	},
+	{
+		"ID" : 41566,
+		"Level" : 350,
+		"Name" : "Design: Resplendent Huge Citrine",
+		"NameRU" : "Эскиз: глянцевый огромный цитрин"
+	},
+	{
+		"ID" : 41567,
+		"Level" : 350,
+		"Name" : "Design: Vivid Dark Jade",
+		"NameRU" : "Эскиз: насыщенный темный нефрит"
+	},
+	{
+		"ID" : 41568,
+		"Level" : 350,
+		"Name" : "Design: Seer's Dark Jade",
+		"NameRU" : "Эскиз: темный нефрит провидца"
+	},
+	{
+		"ID" : 41569,
+		"Level" : 350,
+		"Name" : "Design: Shattered Dark Jade",
+		"NameRU" : "Эскиз: раздробленный темный нефрит"
+	},
+	{
+		"ID" : 41570,
+		"Level" : 350,
+		"Name" : "Design: Tense Dark Jade",
+		"NameRU" : "Эскиз: плотный темный нефрит"
+	},
+	{
+		"ID" : 41571,
+		"Level" : 350,
+		"Name" : "Design: Turbid Dark Jade",
+		"NameRU" : "Эскиз: померкший темный нефрит"
+	},
+	{
+		"ID" : 41572,
+		"Level" : 350,
+		"Name" : "Design: Steady Dark Jade",
+		"NameRU" : "Эскиз: неизменный темный нефрит"
+	},
+	{
+		"ID" : 41573,
+		"Level" : 350,
+		"Name" : "Design: Opaque Dark Jade",
+		"NameRU" : "Эскиз: непрозрачный темный нефрит"
+	},
+	{
+		"ID" : 41574,
+		"Level" : 350,
+		"Name" : "Design: Defender's Shadow Crystal",
+		"NameRU" : "Эскиз: сумрачный кристалл защитника"
+	},
+	{
+		"ID" : 41575,
+		"Level" : 350,
+		"Name" : "Design: Mysterious Shadow Crystal",
+		"NameRU" : "Эскиз: таинственный сумрачный кристалл"
+	},
+	{
+		"ID" : 24167,
+		"Level" : 355,
+		"Name" : "Design: Living Ruby Pendant",
+		"NameRU" : "Эскиз: подвеска из животворного рубина"
+	},
+	{
+		"ID" : 24159,
+		"Level" : 355,
+		"Name" : "Design: Khorium Band of Frost",
+		"NameRU" : "Эскиз: кориевое кольцо льда"
+	},
+	{
+		"ID" : 24160,
+		"Level" : 355,
+		"Name" : "Design: Khorium Inferno Band",
+		"NameRU" : "Эскиз: инфернальное кориевое кольцо"
+	},
+	{
+		"ID" : 24164,
+		"Level" : 355,
+		"Name" : "Design: Delicate Eternium Ring",
+		"NameRU" : "Эскиз: изысканное этерниевое кольцо"
+	},
+	{
+		"ID" : 24166,
+		"Level" : 355,
+		"Name" : "Design: Thick Felsteel Necklace",
+		"NameRU" : "Эскиз: толстое ожерелье из оскверненной стали"
+	},
+	{
+		"ID" : 24177,
+		"Level" : 360,
+		"Name" : "Design: Pendant of Shadow's End",
+		"NameRU" : "Эскиз: подвеска края теней"
+	},
+	{
+		"ID" : 24176,
+		"Level" : 360,
+		"Name" : "Design: Pendant of Withering",
+		"NameRU" : "Эскиз: подвеска увядания"
+	},
+	{
+		"ID" : 24168,
+		"Level" : 360,
+		"Name" : "Design: Braided Eternium Chain",
+		"NameRU" : "Эскиз: оплетенная этерниевая кольчуга"
+	},
+	{
+		"ID" : 24169,
+		"Level" : 360,
+		"Name" : "Design: Eye of the Night",
+		"NameRU" : "Эскиз: Око ночи"
+	},
+	{
+		"ID" : 30826,
+		"Level" : 360,
+		"Name" : "Design: Ring of Arcane Shielding",
+		"NameRU" : "Эскиз: кольцо чародейской защиты"
+	},
+	{
+		"ID" : 24178,
+		"Level" : 360,
+		"Name" : "Design: Pendant of the Null Rune",
+		"NameRU" : "Эскиз: подвеска пустой руны"
+	},
+	{
+		"ID" : 24175,
+		"Level" : 360,
+		"Name" : "Design: Pendant of Thawing",
+		"NameRU" : "Эскиз: подвеска Оттепели"
+	},
+	{
+		"ID" : 24161,
+		"Level" : 360,
+		"Name" : "Design: Khorium Band of Leaves",
+		"NameRU" : "Эскиз: кориевое кольцо Листвы"
+	},
+	{
+		"ID" : 24174,
+		"Level" : 360,
+		"Name" : "Design: Pendant of Frozen Flame",
+		"NameRU" : "Эскиз: подвеска замерзшего пламени"
+	},
+	{
+		"ID" : 33155,
+		"Level" : 360,
+		"Name" : "Design: Kailee's Rose",
+		"NameRU" : "Эскиз: роза Кайли"
+	},
+	{
+		"ID" : 33156,
+		"Level" : 360,
+		"Name" : "Design: Crimson Sun",
+		"NameRU" : "Эскиз: пунцовое солнце"
+	},
+	{
+		"ID" : 33157,
+		"Level" : 360,
+		"Name" : "Design: Falling Star",
+		"NameRU" : "Эскиз: Падающая звезда"
+	},
+	{
+		"ID" : 33158,
+		"Level" : 360,
+		"Name" : "Design: Stone of Blades",
+		"NameRU" : "Эскиз: камень клинков"
+	},
+	{
+		"ID" : 33159,
+		"Level" : 360,
+		"Name" : "Design: Blood of Amber",
+		"NameRU" : "Эскиз: янтарная кровь"
+	},
+	{
+		"ID" : 33160,
+		"Level" : 360,
+		"Name" : "Design: Facet of Eternity",
+		"NameRU" : "Эскиз: грань вечности"
+	},
+	{
+		"ID" : 33305,
+		"Level" : 360,
+		"Name" : "Design: Don Julio's Heart",
+		"NameRU" : "Эскиз: сердце дона Хулио"
+	},
+	{
+		"ID" : 24171,
+		"Level" : 365,
+		"Name" : "Design: Chain of the Twilight Owl",
+		"NameRU" : "Эскиз: цепь Сумеречной Совы"
+	},
+	{
+		"ID" : 25904,
+		"Level" : 365,
+		"Name" : "Design: Insightful Earthstorm Diamond",
+		"NameRU" : "Эскиз: провидческий алмаз земной бури"
+	},
+	{
+		"ID" : 25905,
+		"Level" : 365,
+		"Name" : "Design: Tenacious Earthstorm Diamond",
+		"NameRU" : "Эскиз: крепкий алмаз земной бури"
+	},
+	{
+		"ID" : 25906,
+		"Level" : 365,
+		"Name" : "Design: Brutal Earthstorm Diamond",
+		"NameRU" : "Эскиз: грубый алмаз земной бури"
+	},
+	{
+		"ID" : 25907,
+		"Level" : 365,
+		"Name" : "Design: Destructive Skyfire Diamond",
+		"NameRU" : "Эскиз: разрушительный алмаз небесного огня"
+	},
+	{
+		"ID" : 25908,
+		"Level" : 365,
+		"Name" : "Design: Swift Skyfire Diamond",
+		"NameRU" : "Эскиз: стремительный алмаз небесного огня"
+	},
+	{
+		"ID" : 25909,
+		"Level" : 365,
+		"Name" : "Design: Mystical Skyfire Diamond",
+		"NameRU" : "Эскиз: мистический алмаз небесного огня"
+	},
+	{
+		"ID" : 25910,
+		"Level" : 365,
+		"Name" : "Design: Enigmatic Skyfire Diamond",
+		"NameRU" : "Эскиз: загадочный алмаз небесного огня"
+	},
+	{
+		"ID" : 24170,
+		"Level" : 365,
+		"Name" : "Design: Embrace of the Dawn",
+		"NameRU" : "Эскиз: объятия рассвета"
+	},
+	{
+		"ID" : 24165,
+		"Level" : 365,
+		"Name" : "Design: Blazing Eternium Band",
+		"NameRU" : "Эскиз: пылающее этерниевое кольцо"
+	},
+	{
+		"ID" : 24162,
+		"Level" : 365,
+		"Name" : "Design: Arcane Khorium Band",
+		"NameRU" : "Эскиз: кориевое кольцо Чародейства"
+	},
+	{
+		"ID" : 25902,
+		"Level" : 365,
+		"Name" : "Design: Powerful Earthstorm Diamond",
+		"NameRU" : "Эскиз: могущественный алмаз земной бури"
+	},
+	{
+		"ID" : 25903,
+		"Level" : 365,
+		"Name" : "Design: Bracing Earthstorm Diamond",
+		"NameRU" : "Эскиз: нерушимый алмаз земной бури"
+	},
+	{
+		"ID" : 32411,
+		"Level" : 365,
+		"Name" : "Design: Thundering Skyfire Diamond",
+		"NameRU" : "Эскиз: громовой алмаз небесного огня"
+	},
+	{
+		"ID" : 32412,
+		"Level" : 365,
+		"Name" : "Design: Relentless Earthstorm Diamond",
+		"NameRU" : "Эскиз: жестокий алмаз земной бури"
+	},
+	{
+		"ID" : 33622,
+		"Level" : 365,
+		"Name" : "Design: Relentless Earthstorm Diamond",
+		"NameRU" : "Эскиз: алмаз жестокой земной бури"
+	},
+	{
+		"ID" : 34221,
+		"Level" : 365,
+		"Name" : "Design: Chaotic Skyfire Diamond",
+		"NameRU" : "Эскиз: хаотический алмаз небесного огня"
+	},
+	{
+		"ID" : 34689,
+		"Level" : 365,
+		"Name" : "Design: Chaotic Skyfire Diamond",
+		"NameRU" : "Эскиз: хаотический алмаз небесного огня"
+	},
+	{
+		"ID" : 35198,
+		"Level" : 365,
+		"Name" : "Design: Loop of Forged Power",
+		"NameRU" : "Схема: линза могущественного целителя-9000"
+	},
+	{
+		"ID" : 35199,
+		"Level" : 365,
+		"Name" : "Design: Ring of Flowing Life",
+		"NameRU" : "Эскиз: кольцо Стремительной Жизни"
+	},
+	{
+		"ID" : 35200,
+		"Level" : 365,
+		"Name" : "Design: Hard Khorium Band",
+		"NameRU" : "Эскиз: кольцо из закаленного кория"
+	},
+	{
+		"ID" : 35201,
+		"Level" : 365,
+		"Name" : "Design: Pendant of Sunfire",
+		"NameRU" : "Эскиз: подвеска Солнечного огня"
+	},
+	{
+		"ID" : 35202,
+		"Level" : 365,
+		"Name" : "Design: Amulet of Flowing Life",
+		"NameRU" : "Эскиз: амулет Течения жизни"
+	},
+	{
+		"ID" : 35203,
+		"Level" : 365,
+		"Name" : "Design: Hard Khorium Choker",
+		"NameRU" : "Эскиз: колье из закаленного кория"
+	},
+	{
+		"ID" : 35533,
+		"Level" : 365,
+		"Name" : "Design: Amulet of Flowing Life",
+		"NameRU" : "Эскиз: Амулет бьющего ключа"
+	},
+	{
+		"ID" : 35535,
+		"Level" : 365,
+		"Name" : "Design: Hard Khorium Choker",
+		"NameRU" : "Эскиз: Колье из закаленного кория"
+	},
+	{
+		"ID" : 35537,
+		"Level" : 365,
+		"Name" : "Design: Pendant of Sunfire",
+		"NameRU" : "Эскиз: Подвеска солнечного огня"
+	},
+	{
+		"ID" : 35538,
+		"Level" : 365,
+		"Name" : "Design: Ring of Flowing Life",
+		"NameRU" : "Эскиз: Кольцо бьющего ключа"
+	},
+	{
+		"ID" : 24183,
+		"Level" : 370,
+		"Name" : "Design: Nightseye Panther",
+		"NameRU" : "Эскиз: пантера из ока ночи"
+	},
+	{
+		"ID" : 31358,
+		"Level" : 370,
+		"Name" : "Design: Dawnstone Crab",
+		"NameRU" : "Эскиз: краб из зоревика"
+	},
+	{
+		"ID" : 24182,
+		"Level" : 370,
+		"Name" : "Design: Talasite Owl",
+		"NameRU" : "Эскиз: таласситовая сова"
+	},
+	{
+		"ID" : 24179,
+		"Level" : 370,
+		"Name" : "Design: Felsteel Boar",
+		"NameRU" : "Эскиз: Вепрь из оскверненной стали"
+	},
+	{
+		"ID" : 24172,
+		"Level" : 370,
+		"Name" : "Design: Coronet of Verdant Flame",
+		"NameRU" : "Эскиз: венок Зеленого Пламени"
+	},
+	{
+		"ID" : 24173,
+		"Level" : 370,
+		"Name" : "Design: Circlet of Arcane Might",
+		"NameRU" : "Эскиз: венец Чародейской мощи"
+	},
+	{
+		"ID" : 24180,
+		"Level" : 370,
+		"Name" : "Design: Dawnstone Crab",
+		"NameRU" : "Эскиз: краб из зоревика"
+	},
+	{
+		"ID" : 24181,
+		"Level" : 370,
+		"Name" : "Design: Living Ruby Serpent",
+		"NameRU" : "Эскиз: змея из животворного рубина"
+	},
+	{
+		"ID" : 35505,
+		"Level" : 370,
+		"Name" : "Design: Ember Skyfire Diamond",
+		"NameRU" : "Эскиз: угасающий алмаз небесного огня"
+	},
+	{
+		"ID" : 35502,
+		"Level" : 370,
+		"Name" : "Design: Eternal Earthstorm Diamond",
+		"NameRU" : "Эскиз: вечный алмаз земной бури"
+	},
+	{
+		"ID" : 42298,
+		"Level" : 370,
+		"Name" : "Design: Bold Dragon's Eye",
+		"NameRU" : "Эскиз: рельефное Око дракона"
+	},
+	{
+		"ID" : 42299,
+		"Level" : 370,
+		"Name" : "Design: Bright Dragon's Eye",
+		"NameRU" : "Эскиз: яркое Око дракона"
+	},
+	{
+		"ID" : 42300,
+		"Level" : 370,
+		"Name" : "Design: Brilliant Dragon's Eye",
+		"NameRU" : "Эскиз: сверкающее Око дракона"
+	},
+	{
+		"ID" : 42301,
+		"Level" : 370,
+		"Name" : "Design: Delicate Dragon's Eye",
+		"NameRU" : "Эскиз: изысканное Око дракона"
+	},
+	{
+		"ID" : 42302,
+		"Level" : 370,
+		"Name" : "Design: Flashing Dragon's Eye",
+		"NameRU" : "Эскиз: блистательное Око дракона"
+	},
+	{
+		"ID" : 42303,
+		"Level" : 370,
+		"Name" : "Design: Fractured Dragon's Eye",
+		"NameRU" : "Эскиз: растрескавшееся Око дракона"
+	},
+	{
+		"ID" : 42304,
+		"Level" : 370,
+		"Name" : "Design: Lustrous Dragon's Eye",
+		"NameRU" : "Эскиз: блестящее Око дракона"
+	},
+	{
+		"ID" : 42305,
+		"Level" : 370,
+		"Name" : "Design: Mystic Dragon's Eye",
+		"NameRU" : "Эскиз: мистическое Око дракона"
+	},
+	{
+		"ID" : 42306,
+		"Level" : 370,
+		"Name" : "Design: Precise Dragon's Eye",
+		"NameRU" : "Эскиз: ясное Око дракона"
+	},
+	{
+		"ID" : 42307,
+		"Level" : 370,
+		"Name" : "Design: Quick Dragon's Eye",
+		"NameRU" : "Эскиз: мягкое Око дракона"
+	},
+	{
+		"ID" : 42308,
+		"Level" : 370,
+		"Name" : "Design: Rigid Dragon's Eye",
+		"NameRU" : "Эскиз: прочное Око дракона"
+	},
+	{
+		"ID" : 42309,
+		"Level" : 370,
+		"Name" : "Design: Runed Dragon's Eye",
+		"NameRU" : "Эскиз: руническое Око дракона"
+	},
+	{
+		"ID" : 42310,
+		"Level" : 370,
+		"Name" : "Design: Smooth Dragon's Eye",
+		"NameRU" : "Эскиз: гладкое Око дракона"
+	},
+	{
+		"ID" : 42311,
+		"Level" : 370,
+		"Name" : "Design: Solid Dragon's Eye",
+		"NameRU" : "Эскиз: цельное Око дракона"
+	},
+	{
+		"ID" : 42312,
+		"Level" : 370,
+		"Name" : "Design: Sparkling Dragon's Eye",
+		"NameRU" : "Эскиз: искрящееся Око дракона"
+	},
+	{
+		"ID" : 42313,
+		"Level" : 370,
+		"Name" : "Design: Stormy Dragon's Eye",
+		"NameRU" : "Эскиз: грозовое Око дракона"
+	},
+	{
+		"ID" : 42314,
+		"Level" : 370,
+		"Name" : "Design: Subtle Dragon's Eye",
+		"NameRU" : "Эскиз: изящное Око дракона"
+	},
+	{
+		"ID" : 42315,
+		"Level" : 370,
+		"Name" : "Design: Thick Dragon's Eye",
+		"NameRU" : "Эскиз: матовое Око дракона"
+	},
+	{
+		"ID" : 32307,
+		"Level" : 375,
+		"Name" : "Design: Veiled Pyrestone",
+		"NameRU" : "Эскиз: сокрытый огнекамень"
+	},
+	{
+		"ID" : 31401,
+		"Level" : 375,
+		"Name" : "Design: The Frozen Eye",
+		"NameRU" : "Эскиз: застывшее око"
+	},
+	{
+		"ID" : 31402,
+		"Level" : 375,
+		"Name" : "Design: The Natural Ward",
+		"NameRU" : "Эскиз: природный оберег"
+	},
+	{
+		"ID" : 32303,
+		"Level" : 375,
+		"Name" : "Design: Inscribed Pyrestone",
+		"NameRU" : "Эскиз: покрытый письменами огнекамень"
+	},
+	{
+		"ID" : 32295,
+		"Level" : 375,
+		"Name" : "Design: Mystic Lionseye",
+		"NameRU" : "Эскиз: мистический львиный глаз"
+	},
+	{
+		"ID" : 32285,
+		"Level" : 375,
+		"Name" : "Design: Flashing Crimson Spinel",
+		"NameRU" : "Эскиз: блистательная пунцовая шпинель"
+	},
+	{
+		"ID" : 32292,
+		"Level" : 375,
+		"Name" : "Design: Rigid Lionseye",
+		"NameRU" : "Эскиз: прочный львиный глаз"
+	},
+	{
+		"ID" : 32297,
+		"Level" : 375,
+		"Name" : "Design: Sovereign Shadowsong Amethyst",
+		"NameRU" : "Эскиз: царственный аметист Песни Теней"
+	},
+	{
+		"ID" : 32289,
+		"Level" : 375,
+		"Name" : "Design: Stormy Empyrean Sapphire",
+		"NameRU" : "Эскиз: грозовой неземной сапфир"
+	},
+	{
+		"ID" : 32308,
+		"Level" : 375,
+		"Name" : "Design: Wicked Pyrestone",
+		"NameRU" : "Эскиз: гибельный огнекамень"
+	},
+	{
+		"ID" : 32306,
+		"Level" : 375,
+		"Name" : "Design: Glinting Pyrestone",
+		"NameRU" : "Эскиз: блистающий огнекамень"
+	},
+	{
+		"ID" : 32294,
+		"Level" : 375,
+		"Name" : "Design: Thick Lionseye",
+		"NameRU" : "Эскиз: матовый львиный глаз"
+	},
+	{
+		"ID" : 32293,
+		"Level" : 375,
+		"Name" : "Design: Gleaming Lionseye",
+		"NameRU" : "Эскиз: искристый львиный глаз"
+	},
+	{
+		"ID" : 32291,
+		"Level" : 375,
+		"Name" : "Design: Smooth Lionseye",
+		"NameRU" : "Эскиз: гладкий львиный глаз"
+	},
+	{
+		"ID" : 32287,
+		"Level" : 375,
+		"Name" : "Design: Sparkling Empyrean Sapphire",
+		"NameRU" : "Эскиз: искрящийся неземной сапфир"
+	},
+	{
+		"ID" : 32284,
+		"Level" : 375,
+		"Name" : "Design: Subtle Crimson Spinel",
+		"NameRU" : "Эскиз: изящная пунцовая шпинель"
+	},
+	{
+		"ID" : 32282,
+		"Level" : 375,
+		"Name" : "Design: Runed Crimson Spinel",
+		"NameRU" : "Эскиз: руническая пунцовая шпинель"
+	},
+	{
+		"ID" : 32281,
+		"Level" : 375,
+		"Name" : "Design: Teardrop Crimson Spinel",
+		"NameRU" : "Эскиз: каплевидная пунцовая шпинель"
+	},
+	{
+		"ID" : 32277,
+		"Level" : 375,
+		"Name" : "Design: Delicate Crimson Spinel",
+		"NameRU" : "Эскиз: изысканная пунцовая шпинель"
+	},
+	{
+		"ID" : 32274,
+		"Level" : 375,
+		"Name" : "Design: Bold Crimson Spinel",
+		"NameRU" : "Эскиз: рельефная пунцовая шпинель"
+	},
+	{
+		"ID" : 32311,
+		"Level" : 375,
+		"Name" : "Design: Dazzling Seaspray Emerald",
+		"NameRU" : "Эскиз: ослепительный морской изумруд"
+	},
+	{
+		"ID" : 32286,
+		"Level" : 375,
+		"Name" : "Design: Solid Empyrean Sapphire",
+		"NameRU" : "Эскиз: цельный неземной сапфир"
+	},
+	{
+		"ID" : 32309,
+		"Level" : 375,
+		"Name" : "Design: Enduring Seaspray Emerald",
+		"NameRU" : "Эскиз: отверделый морской изумруд"
+	},
+	{
+		"ID" : 32305,
+		"Level" : 375,
+		"Name" : "Design: Luminous Pyrestone",
+		"NameRU" : "Эскиз: светоносный огнекамень"
+	},
+	{
+		"ID" : 32304,
+		"Level" : 375,
+		"Name" : "Design: Potent Pyrestone",
+		"NameRU" : "Эскиз: могущественный огнекамень"
+	},
+	{
+		"ID" : 32302,
+		"Level" : 375,
+		"Name" : "Design: Royal Shadowsong Amethyst",
+		"NameRU" : "Эскиз: королевский аметист Песни Теней"
+	},
+	{
+		"ID" : 32301,
+		"Level" : 375,
+		"Name" : "Design: Glowing Shadowsong Amethyst",
+		"NameRU" : "Эскиз: светящийся аметист Песни Теней"
+	},
+	{
+		"ID" : 32299,
+		"Level" : 375,
+		"Name" : "Design: Balanced Shadowsong Amethyst",
+		"NameRU" : "Эскиз: сбалансированный аметист Песни Теней"
+	},
+	{
+		"ID" : 32288,
+		"Level" : 375,
+		"Name" : "Design: Lustrous Empyrean Sapphire",
+		"NameRU" : "Эскиз: блестящий неземной сапфир"
+	},
+	{
+		"ID" : 32312,
+		"Level" : 375,
+		"Name" : "Design: Jagged Seaspray Emerald",
+		"NameRU" : "Эскиз: зазубренный морской изумруд"
+	},
+	{
+		"ID" : 32310,
+		"Level" : 375,
+		"Name" : "Design: Radiant Seaspray Emerald",
+		"NameRU" : "Эскиз: светозарный морской изумруд"
+	},
+	{
+		"ID" : 32290,
+		"Level" : 375,
+		"Name" : "Design: Brilliant Lionseye",
+		"NameRU" : "Эскиз: сверкающий львиный глаз"
+	},
+	{
+		"ID" : 32283,
+		"Level" : 375,
+		"Name" : "Design: Bright Crimson Spinel",
+		"NameRU" : "Эскиз: яркая пунцовая шпинель"
+	},
+	{
+		"ID" : 32296,
+		"Level" : 375,
+		"Name" : "Design: Great Lionseye",
+		"NameRU" : "Эскиз: великий львиный глаз"
+	},
+	{
+		"ID" : 32298,
+		"Level" : 375,
+		"Name" : "Design: Shifting Shadowsong Amethyst",
+		"NameRU" : "Эскиз: изменчивый аметист Песни Теней"
+	},
+	{
+		"ID" : 32300,
+		"Level" : 375,
+		"Name" : "Design: Infused Shadowsong Amethyst",
+		"NameRU" : "Эскиз: заряженный аметист Песни Теней"
+	},
+	{
+		"ID" : 35769,
+		"Level" : 375,
+		"Name" : "Design: Forceful Seaspray Emerald",
+		"NameRU" : "Эскиз: мощный морской изумруд"
+	},
+	{
+		"ID" : 35768,
+		"Level" : 375,
+		"Name" : "Design: Quick Lionseye",
+		"NameRU" : "Эскиз: мягкий львиный глаз"
+	},
+	{
+		"ID" : 35767,
+		"Level" : 375,
+		"Name" : "Design: Reckless Pyrestone",
+		"NameRU" : "Эскиз: тревожный огнекамень"
+	},
+	{
+		"ID" : 35766,
+		"Level" : 375,
+		"Name" : "Design: Steady Seaspray Emerald",
+		"NameRU" : "Эскиз: неизменный морской изумруд"
+	},
+	{
+		"ID" : 35765,
+		"Level" : 375,
+		"Name" : "Design: Forceful Seaspray Emerald",
+		"NameRU" : "Эскиз: мощный морской изумруд"
+	},
+	{
+		"ID" : 35764,
+		"Level" : 375,
+		"Name" : "Design: Steady Seaspray Emerald",
+		"NameRU" : "Эскиз: неизменный морской изумруд"
+	},
+	{
+		"ID" : 35763,
+		"Level" : 375,
+		"Name" : "Design: Quick Lionseye",
+		"NameRU" : "Эскиз: мягкий львиный глаз"
+	},
+	{
+		"ID" : 35762,
+		"Level" : 375,
+		"Name" : "Design: Reckless Pyrestone",
+		"NameRU" : "Эскиз: тревожный огнекамень"
+	},
+	{
+		"ID" : 35699,
+		"Level" : 375,
+		"Name" : "Design: Figurine - Seaspray Albatross",
+		"NameRU" : "Эскиз: статуэтка морского альбатроса"
+	},
+	{
+		"ID" : 35698,
+		"Level" : 375,
+		"Name" : "Design: Figurine - Shadowsong Panther",
+		"NameRU" : "Эскиз: статуэтка пантеры Песни Теней"
+	},
+	{
+		"ID" : 35697,
+		"Level" : 375,
+		"Name" : "Design: Figurine - Crimson Serpent",
+		"NameRU" : "Эскиз: статуэтка багровой змейки"
+	},
+	{
+		"ID" : 35696,
+		"Level" : 375,
+		"Name" : "Design: Figurine - Khorium Boar",
+		"NameRU" : "Эскиз: статуэтка кориевого вепря"
+	},
+	{
+		"ID" : 35695,
+		"Level" : 375,
+		"Name" : "Design: Figurine - Empyrean Tortoise",
+		"NameRU" : "Эскиз: статуэтка неземной черепахи"
+	},
+	{
+		"ID" : 35244,
+		"Level" : 375,
+		"Name" : "Design: Bold Crimson Spinel",
+		"NameRU" : "Эскиз: рельефная пунцовая шпинель"
+	},
+	{
+		"ID" : 35254,
+		"Level" : 375,
+		"Name" : "Design: Radiant Seaspray Emerald",
+		"NameRU" : "Эскиз: светозарный морской изумруд"
+	},
+	{
+		"ID" : 35255,
+		"Level" : 375,
+		"Name" : "Design: Brilliant Lionseye",
+		"NameRU" : "Эскиз: сверкающий львиный глаз"
+	},
+	{
+		"ID" : 35246,
+		"Level" : 375,
+		"Name" : "Design: Delicate Crimson Spinel",
+		"NameRU" : "Эскиз: изысканная пунцовая шпинель"
+	},
+	{
+		"ID" : 35256,
+		"Level" : 375,
+		"Name" : "Design: Gleaming Lionseye",
+		"NameRU" : "Эскиз: искристый львиный глаз"
+	},
+	{
+		"ID" : 35262,
+		"Level" : 375,
+		"Name" : "Design: Lustrous Empyrean Sapphire",
+		"NameRU" : "Эскиз: блестящий неземной сапфир"
+	},
+	{
+		"ID" : 35260,
+		"Level" : 375,
+		"Name" : "Design: Smooth Lionseye",
+		"NameRU" : "Эскиз: гладкий львиный глаз"
+	},
+	{
+		"ID" : 35263,
+		"Level" : 375,
+		"Name" : "Design: Solid Empyrean Sapphire",
+		"NameRU" : "Эскиз: цельный неземной сапфир"
+	},
+	{
+		"ID" : 35264,
+		"Level" : 375,
+		"Name" : "Design: Sparkling Empyrean Sapphire",
+		"NameRU" : "Эскиз: искрящийся неземной сапфир"
+	},
+	{
+		"ID" : 35249,
+		"Level" : 375,
+		"Name" : "Design: Subtle Crimson Spinel",
+		"NameRU" : "Эскиз: изящная пунцовая шпинель"
+	},
+	{
+		"ID" : 35261,
+		"Level" : 375,
+		"Name" : "Design: Thick Lionseye",
+		"NameRU" : "Эскиз: матовый львиный глаз"
+	},
+	{
+		"ID" : 35250,
+		"Level" : 375,
+		"Name" : "Design: Teardrop Crimson Spinel",
+		"NameRU" : "Эскиз: каплевидная пунцовая шпинель"
+	},
+	{
+		"ID" : 35248,
+		"Level" : 375,
+		"Name" : "Design: Runed Crimson Spinel",
+		"NameRU" : "Эскиз: руническая пунцовая шпинель"
+	},
+	{
+		"ID" : 35269,
+		"Level" : 375,
+		"Name" : "Design: Potent Pyrestone",
+		"NameRU" : "Эскиз: могущественный огнекамень"
+	},
+	{
+		"ID" : 35268,
+		"Level" : 375,
+		"Name" : "Design: Luminous Pyrestone",
+		"NameRU" : "Эскиз: светоносный огнекамень"
+	},
+	{
+		"ID" : 35253,
+		"Level" : 375,
+		"Name" : "Design: Jagged Seaspray Emerald",
+		"NameRU" : "Эскиз: зазубренный морской изумруд"
+	},
+	{
+		"ID" : 35240,
+		"Level" : 375,
+		"Name" : "Design: Infused Shadowsong Amethyst",
+		"NameRU" : "Эскиз: заряженный аметист Песни Теней"
+	},
+	{
+		"ID" : 35239,
+		"Level" : 375,
+		"Name" : "Design: Glowing Shadowsong Amethyst",
+		"NameRU" : "Эскиз: светящийся аметист Песни Теней"
+	},
+	{
+		"ID" : 35266,
+		"Level" : 375,
+		"Name" : "Design: Glinting Pyrestone",
+		"NameRU" : "Эскиз: блистающий огнекамень"
+	},
+	{
+		"ID" : 35251,
+		"Level" : 375,
+		"Name" : "Design: Dazzling Seaspray Emerald",
+		"NameRU" : "Эскиз: ослепительный морской изумруд"
+	},
+	{
+		"ID" : 35238,
+		"Level" : 375,
+		"Name" : "Design: Balanced Shadowsong Amethyst",
+		"NameRU" : "Эскиз: сбалансированный аметист Песни Теней"
+	},
+	{
+		"ID" : 35271,
+		"Level" : 375,
+		"Name" : "Design: Wicked Pyrestone",
+		"NameRU" : "Эскиз: гибельный огнекамень"
+	},
+	{
+		"ID" : 35241,
+		"Level" : 375,
+		"Name" : "Design: Royal Shadowsong Amethyst",
+		"NameRU" : "Эскиз: королевский аметист Песни Теней"
+	},
+	{
+		"ID" : 35259,
+		"Level" : 375,
+		"Name" : "Design: Rigid Lionseye",
+		"NameRU" : "Эскиз: прочный львиный глаз"
+	},
+	{
+		"ID" : 35252,
+		"Level" : 375,
+		"Name" : "Design: Enduring Seaspray Emerald",
+		"NameRU" : "Эскиз: отверделый морской изумруд"
+	},
+	{
+		"ID" : 35257,
+		"Level" : 375,
+		"Name" : "Design: Great Lionseye",
+		"NameRU" : "Эскиз: великий львиный глаз"
+	},
+	{
+		"ID" : 35247,
+		"Level" : 375,
+		"Name" : "Design: Flashing Crimson Spinel",
+		"NameRU" : "Эскиз: блистательная пунцовая шпинель"
+	},
+	{
+		"ID" : 35267,
+		"Level" : 375,
+		"Name" : "Design: Inscribed Pyrestone",
+		"NameRU" : "Эскиз: покрытый письменами огнекамень"
+	},
+	{
+		"ID" : 35258,
+		"Level" : 375,
+		"Name" : "Design: Mystic Lionseye",
+		"NameRU" : "Эскиз: мистический львиный глаз"
+	},
+	{
+		"ID" : 35242,
+		"Level" : 375,
+		"Name" : "Design: Shifting Shadowsong Amethyst",
+		"NameRU" : "Эскиз: изменчивый аметист Песни Теней"
+	},
+	{
+		"ID" : 35243,
+		"Level" : 375,
+		"Name" : "Design: Sovereign Shadowsong Amethyst",
+		"NameRU" : "Эскиз: царственный аметист Песни Теней"
+	},
+	{
+		"ID" : 35265,
+		"Level" : 375,
+		"Name" : "Design: Stormy Empyrean Sapphire",
+		"NameRU" : "Эскиз: грозовой неземной сапфир"
+	},
+	{
+		"ID" : 35270,
+		"Level" : 375,
+		"Name" : "Design: Veiled Pyrestone",
+		"NameRU" : "Эскиз: сокрытый огнекамень"
+	},
+	{
+		"ID" : 35245,
+		"Level" : 375,
+		"Name" : "Design: Bright Crimson Spinel",
+		"NameRU" : "Эскиз: яркая пунцовая шпинель"
+	},
+	{
+		"ID" : 37504,
+		"Level" : 375,
+		"Name" : "Design: Purified Shadowsong Amethyst",
+		"NameRU" : "Эскиз: очищенный аметист Песни Теней"
+	},
+	{
+		"ID" : 41576,
+		"Level" : 390,
+		"Name" : "Design: Bold Scarlet Ruby",
+		"NameRU" : "Эскиз: рельефный алый рубин"
+	},
+	{
+		"ID" : 41577,
+		"Level" : 390,
+		"Name" : "Design: Delicate Scarlet Ruby",
+		"NameRU" : "Эскиз: изысканный алый рубин"
+	},
+	{
+		"ID" : 41578,
+		"Level" : 390,
+		"Name" : "Design: Flashing Scarlet Ruby",
+		"NameRU" : "Эскиз: блистательный алый рубин"
+	},
+	{
+		"ID" : 41579,
+		"Level" : 390,
+		"Name" : "Design: Quick Autumn's Glow",
+		"NameRU" : "Эскиз: мягкое сияние осени"
+	},
+	{
+		"ID" : 41580,
+		"Level" : 390,
+		"Name" : "Design: Rigid Autumn's Glow",
+		"NameRU" : "Эскиз: прочное сияние осени"
+	},
+	{
+		"ID" : 41581,
+		"Level" : 390,
+		"Name" : "Design: Lustrous Sky Sapphire",
+		"NameRU" : "Эскиз: блестящий небесный сапфир"
+	},
+	{
+		"ID" : 41582,
+		"Level" : 390,
+		"Name" : "Design: Glinting Monarch Topaz",
+		"NameRU" : "Эскиз: блистающий императорский топаз"
+	},
+	{
+		"ID" : 41686,
+		"Level" : 390,
+		"Name" : "Design: Potent Monarch Topaz",
+		"NameRU" : "Эскиз: могущественный императорский топаз"
+	},
+	{
+		"ID" : 41687,
+		"Level" : 390,
+		"Name" : "Design: Stark Monarch Topaz",
+		"NameRU" : "Эскиз: застывший императорский топаз"
+	},
+	{
+		"ID" : 41688,
+		"Level" : 390,
+		"Name" : "Design: Veiled Monarch Topaz",
+		"NameRU" : "Эскиз: сокрытый императорский топаз"
+	},
+	{
+		"ID" : 41689,
+		"Level" : 390,
+		"Name" : "Design: Luminous Monarch Topaz",
+		"NameRU" : "Эскиз: светоносный императорский топаз"
+	},
+	{
+		"ID" : 41690,
+		"Level" : 390,
+		"Name" : "Design: Reckless Monarch Topaz",
+		"NameRU" : "Эскиз: тревожный императорский топаз"
+	},
+	{
+		"ID" : 41692,
+		"Level" : 390,
+		"Name" : "Design: Energized Forest Emerald",
+		"NameRU" : "Эскиз: усиленный лесной изумруд"
+	},
+	{
+		"ID" : 41693,
+		"Level" : 390,
+		"Name" : "Design: Forceful Forest Emerald",
+		"NameRU" : "Эскиз: мощный лесной изумруд"
+	},
+	{
+		"ID" : 41694,
+		"Level" : 390,
+		"Name" : "Design: Intricate Forest Emerald",
+		"NameRU" : "Эскиз: замысловатый лесной изумруд"
+	},
+	{
+		"ID" : 41696,
+		"Level" : 390,
+		"Name" : "Design: Lambent Forest Emerald",
+		"NameRU" : "Эскиз: лучистый лесной изумруд"
+	},
+	{
+		"ID" : 41697,
+		"Level" : 390,
+		"Name" : "Design: Enduring Forest Emerald",
+		"NameRU" : "Эскиз: отверделый лесной изумруд"
+	},
+	{
+		"ID" : 41698,
+		"Level" : 390,
+		"Name" : "Design: Vivid Forest Emerald",
+		"NameRU" : "Эскиз: насыщенный лесной изумруд"
+	},
+	{
+		"ID" : 41699,
+		"Level" : 390,
+		"Name" : "Design: Seer's Forest Emerald",
+		"NameRU" : "Эскиз: лесной изумруд провидца"
+	},
+	{
+		"ID" : 41701,
+		"Level" : 390,
+		"Name" : "Design: Royal Twilight Opal",
+		"NameRU" : "Эскиз: королевский сумеречный опал"
+	},
+	{
+		"ID" : 41702,
+		"Level" : 390,
+		"Name" : "Design: Puissant Twilight Opal",
+		"NameRU" : "Эскиз: всевластный сумеречный опал"
+	},
+	{
+		"ID" : 41703,
+		"Level" : 390,
+		"Name" : "Design: Regal Twilight Opal",
+		"NameRU" : "Эскиз: монарший сумеречный опал"
+	},
+	{
+		"ID" : 41718,
+		"Level" : 390,
+		"Name" : "Design: Runed Scarlet Ruby",
+		"NameRU" : "Эскиз: рунический алый рубин"
+	},
+	{
+		"ID" : 41720,
+		"Level" : 390,
+		"Name" : "Design: Smooth Autumn's Glow",
+		"NameRU" : "Эскиз: гладкое сияние осени"
+	},
+	{
+		"ID" : 41721,
+		"Level" : 390,
+		"Name" : "Design: Wicked Monarch Topaz",
+		"NameRU" : "Эскиз: гибельный императорский топаз"
+	},
+	{
+		"ID" : 41722,
+		"Level" : 390,
+		"Name" : "Design: Glimmering Monarch Topaz",
+		"NameRU" : "Эскиз: мерцающий императорский топаз"
+	},
+	{
+		"ID" : 41723,
+		"Level" : 390,
+		"Name" : "Design: Jagged Forest Emerald",
+		"NameRU" : "Эскиз: зазубренный лесной изумруд"
+	},
+	{
+		"ID" : 41724,
+		"Level" : 390,
+		"Name" : "Design: Sundered Forest Emerald",
+		"NameRU" : "Эскиз: расколотый лесной изумруд"
+	},
+	{
+		"ID" : 41725,
+		"Level" : 390,
+		"Name" : "Design: Glowing Twilight Opal",
+		"NameRU" : "Эскиз: светящийся сумеречный опал"
+	},
+	{
+		"ID" : 41726,
+		"Level" : 390,
+		"Name" : "Design: Guardian's Twilight Opal",
+		"NameRU" : "Эскиз: сумеречный опал стража"
+	},
+	{
+		"ID" : 41727,
+		"Level" : 390,
+		"Name" : "Design: Mystic Autumn's Glow",
+		"NameRU" : "Эскиз: мистическое сияние осени"
+	},
+	{
+		"ID" : 41728,
+		"Level" : 390,
+		"Name" : "Design: Stormy Sky Sapphire",
+		"NameRU" : "Эскиз: грозовой небесный сапфир"
+	},
+	{
+		"ID" : 41730,
+		"Level" : 390,
+		"Name" : "Design: Durable Monarch Topaz",
+		"NameRU" : "Эскиз: надежный императорский топаз"
+	},
+	{
+		"ID" : 41732,
+		"Level" : 390,
+		"Name" : "Design: Empowered Monarch Topaz",
+		"NameRU" : "Эскиз: наделенный силой императорский топаз"
+	},
+	{
+		"ID" : 41733,
+		"Level" : 390,
+		"Name" : "Design: Lucent Monarch Topaz",
+		"NameRU" : "Эскиз: прозрачный императорский топаз"
+	},
+	{
+		"ID" : 41734,
+		"Level" : 390,
+		"Name" : "Design: Resplendent Monarch Topaz",
+		"NameRU" : "Эскиз: глянцевый императорский топаз"
+	},
+	{
+		"ID" : 41735,
+		"Level" : 390,
+		"Name" : "Design: Shattered Forest Emerald",
+		"NameRU" : "Эскиз: раздробленный лесной изумруд"
+	},
+	{
+		"ID" : 41736,
+		"Level" : 390,
+		"Name" : "Design: Tense Forest Emerald",
+		"NameRU" : "Эскиз: плотный лесной изумруд"
+	},
+	{
+		"ID" : 41737,
+		"Level" : 390,
+		"Name" : "Design: Turbid Forest Emerald",
+		"NameRU" : "Эскиз: померкший лесной изумруд"
+	},
+	{
+		"ID" : 41738,
+		"Level" : 390,
+		"Name" : "Design: Steady Forest Emerald",
+		"NameRU" : "Эскиз: неизменный лесной изумруд"
+	},
+	{
+		"ID" : 41739,
+		"Level" : 390,
+		"Name" : "Design: Opaque Forest Emerald",
+		"NameRU" : "Эскиз: непрозрачный лесной изумруд"
+	},
+	{
+		"ID" : 41740,
+		"Level" : 390,
+		"Name" : "Design: Mysterious Twilight Opal",
+		"NameRU" : "Эскиз: таинственный сумеречный опал"
+	},
+	{
+		"ID" : 41790,
+		"Level" : 390,
+		"Name" : "Design: Precise Scarlet Ruby",
+		"NameRU" : "Эскиз: ясный алый рубин"
+	},
+	{
+		"ID" : 41791,
+		"Level" : 390,
+		"Name" : "Design: Thick Autumn's Glow",
+		"NameRU" : "Эскиз: матовое сияние осени"
+	},
+	{
+		"ID" : 41792,
+		"Level" : 390,
+		"Name" : "Design: Deft Monarch Topaz",
+		"NameRU" : "Эскиз: императорский топаз проворства"
+	},
+	{
+		"ID" : 41793,
+		"Level" : 390,
+		"Name" : "Design: Fierce Monarch Topaz",
+		"NameRU" : "Эскиз: броский императорский топаз"
+	},
+	{
+		"ID" : 41794,
+		"Level" : 390,
+		"Name" : "Design: Deadly Monarch Topaz",
+		"NameRU" : "Эскиз: смертоносный императорский топаз"
+	},
+	{
+		"ID" : 41795,
+		"Level" : 390,
+		"Name" : "Design: Timeless Forest Emerald",
+		"NameRU" : "Эскиз: вневременной лесной изумруд"
+	},
+	{
+		"ID" : 41796,
+		"Level" : 390,
+		"Name" : "Design: Infused Twilight Opal",
+		"NameRU" : "Эскиз: заряженный сумеречный опал"
+	},
+	{
+		"ID" : 41817,
+		"Level" : 390,
+		"Name" : "Design: Fractured Scarlet Ruby",
+		"NameRU" : "Эскиз: растрескавшийся алый рубин"
+	},
+	{
+		"ID" : 41818,
+		"Level" : 390,
+		"Name" : "Design: Accurate Monarch Topaz",
+		"NameRU" : "Эскиз: идеально ограненный императорский топаз"
+	},
+	{
+		"ID" : 41819,
+		"Level" : 390,
+		"Name" : "Design: Radiant Forest Emerald",
+		"NameRU" : "Эскиз: светозарный лесной изумруд"
+	},
+	{
+		"ID" : 41820,
+		"Level" : 390,
+		"Name" : "Design: Defender's Twilight Opal",
+		"NameRU" : "Эскиз: сумеречный опал защитника"
+	},
+	{
+		"ID" : 42138,
+		"Level" : 390,
+		"Name" : "Design: Solid Sky Sapphire",
+		"NameRU" : "Эскиз: цельный небесный сапфир"
+	},
+	{
+		"ID" : 41781,
+		"Level" : 390,
+		"Name" : "Design: Misty Forest Emerald",
+		"NameRU" : "Эскиз: смутный лесной изумруд"
+	},
+	{
+		"ID" : 41778,
+		"Level" : 390,
+		"Name" : "Design: Resolute Monarch Topaz",
+		"NameRU" : "Эскиз: затвердевший императорский топаз"
+	},
+	{
+		"ID" : 41780,
+		"Level" : 390,
+		"Name" : "Design: Champion's Monarch Topaz",
+		"NameRU" : "Эскиз: императорский топаз воителя"
+	},
+	{
+		"ID" : 41777,
+		"Level" : 390,
+		"Name" : "Design: Etched Monarch Topaz",
+		"NameRU" : "Эскиз: гравированный императорский топаз"
+	},
+	{
+		"ID" : 41783,
+		"Level" : 390,
+		"Name" : "Design: Purified Twilight Opal",
+		"NameRU" : "Эскиз: очищенный сумеречный опал"
+	},
+	{
+		"ID" : 41782,
+		"Level" : 390,
+		"Name" : "Design: Shining Forest Emerald",
+		"NameRU" : "Эскиз: сияющий лесной изумруд"
+	},
+	{
+		"ID" : 41785,
+		"Level" : 390,
+		"Name" : "Design: Tenuous Twilight Opal",
+		"NameRU" : "Эскиз: непрочный сумеречный опал"
+	},
+	{
+		"ID" : 41784,
+		"Level" : 390,
+		"Name" : "Design: Sovereign Twilight Opal",
+		"NameRU" : "Эскиз: царственный сумеречный опал"
+	},
+	{
+		"ID" : 41779,
+		"Level" : 390,
+		"Name" : "Design: Stalwart Monarch Topaz",
+		"NameRU" : "Эскиз: стойкий императорский топаз"
+	},
+	{
+		"ID" : 41789,
+		"Level" : 390,
+		"Name" : "Design: Inscribed Monarch Topaz",
+		"NameRU" : "Эскиз: покрытый письменами императорский топаз"
+	},
+	{
+		"ID" : 41719,
+		"Level" : 390,
+		"Name" : "Design: Subtle Scarlet Ruby",
+		"NameRU" : "Эскиз: изящный алый рубин"
+	},
+	{
+		"ID" : 41747,
+		"Level" : 390,
+		"Name" : "Design: Shifting Twilight Opal",
+		"NameRU" : "Эскиз: изменчивый сумеречный опал"
+	},
+	{
+		"ID" : 41704,
+		"Level" : 420,
+		"Name" : "Design: Chaotic Skyflare Diamond",
+		"NameRU" : "Эскиз: хаотический алмаз небесного сияния"
+	},
+	{
+		"ID" : 41705,
+		"Level" : 420,
+		"Name" : "Design: Effulgent Skyflare Diamond",
+		"NameRU" : "Эскиз: лучезарный алмаз небесного сияния"
+	},
+	{
+		"ID" : 41706,
+		"Level" : 420,
+		"Name" : "Design: Ember Skyflare Diamond",
+		"NameRU" : "Эскиз: угасающий алмаз небесного сияния"
+	},
+	{
+		"ID" : 41707,
+		"Level" : 420,
+		"Name" : "Design: Revitalizing Skyflare Diamond",
+		"NameRU" : "Эскиз: оживляющий алмаз небесного сияния"
+	},
+	{
+		"ID" : 41708,
+		"Level" : 420,
+		"Name" : "Design: Insightful Earthsiege Diamond",
+		"NameRU" : "Эскиз: провидческий алмаз землеправителя"
+	},
+	{
+		"ID" : 41709,
+		"Level" : 420,
+		"Name" : "Design: Invigorating Earthsiege Diamond",
+		"NameRU" : "Эскиз: живительный алмаз землеправителя"
+	},
+	{
+		"ID" : 41710,
+		"Level" : 420,
+		"Name" : "Design: Relentless Earthsiege Diamond",
+		"NameRU" : "Эскиз: алмаз жестокого землеправителя"
+	},
+	{
+		"ID" : 41711,
+		"Level" : 420,
+		"Name" : "Design: Trenchant Earthsiege Diamond",
+		"NameRU" : "Эскиз: заостренный алмаз землеправителя"
+	},
+	{
+		"ID" : 41742,
+		"Level" : 420,
+		"Name" : "Design: Enigmatic Skyflare Diamond",
+		"NameRU" : "Эскиз: загадочный алмаз небесного сияния"
+	},
+	{
+		"ID" : 41743,
+		"Level" : 420,
+		"Name" : "Design: Forlorn Skyflare Diamond",
+		"NameRU" : "Эскиз: жалкий алмаз небесного сияния"
+	},
+	{
+		"ID" : 41744,
+		"Level" : 420,
+		"Name" : "Design: Impassive Skyflare Diamond",
+		"NameRU" : "Эскиз: бездушный алмаз небесного сияния"
+	},
+	{
+		"ID" : 41797,
+		"Level" : 420,
+		"Name" : "Design: Austere Earthsiege Diamond",
+		"NameRU" : "Эскиз: алмаз строгого землеправителя"
+	},
+	{
+		"ID" : 41798,
+		"Level" : 420,
+		"Name" : "Design: Bracing Earthsiege Diamond",
+		"NameRU" : "Эскиз: нерушимый алмаз землеправителя"
+	},
+	{
+		"ID" : 41799,
+		"Level" : 420,
+		"Name" : "Design: Eternal Earthsiege Diamond",
+		"NameRU" : "Эскиз: вечный алмаз землеправителя"
+	},
+	{
+		"ID" : 43317,
+		"Level" : 420,
+		"Name" : "Design: Ring of Earthen Might",
+		"NameRU" : "Эскиз: кольцо силы земли"
+	},
+	{
+		"ID" : 43318,
+		"Level" : 420,
+		"Name" : "Design: Ring of Scarlet Shadows",
+		"NameRU" : "Эскиз: кольцо алых теней"
+	},
+	{
+		"ID" : 43319,
+		"Level" : 420,
+		"Name" : "Design: Windfire Band",
+		"NameRU" : "Эскиз: кольцо огненного ветра"
+	},
+	{
+		"ID" : 43320,
+		"Level" : 420,
+		"Name" : "Design: Ring of Northern Tears",
+		"NameRU" : "Эскиз: кольцо хладных слез"
+	},
+	{
+		"ID" : 43485,
+		"Level" : 420,
+		"Name" : "Design: Savage Titanium Ring",
+		"NameRU" : "Эскиз: титановое кольцо свирепости"
+	},
+	{
+		"ID" : 43497,
+		"Level" : 420,
+		"Name" : "Design: Savage Titanium Band",
+		"NameRU" : "Эскиз: титановая печатка свирепости"
+	},
+	{
+		"ID" : 43597,
+		"Level" : 420,
+		"Name" : "Design: Titanium Frostguard Ring",
+		"NameRU" : "Эскиз: титановое кольцо ледяного стража"
+	},
+	{
+		"ID" : 41788,
+		"Level" : 420,
+		"Name" : "Design: Beaming Earthsiege Diamond",
+		"NameRU" : "Эскиз: лучащийся алмаз землеправителя"
+	},
+	{
+		"ID" : 41787,
+		"Level" : 420,
+		"Name" : "Design: Thundering Skyflare Diamond",
+		"NameRU" : "Эскиз: громовой алмаз небесного сияния"
+	},
+	{
+		"ID" : 41786,
+		"Level" : 420,
+		"Name" : "Design: Destructive Skyflare Diamond",
+		"NameRU" : "Эскиз: разрушительный алмаз небесного сияния"
+	},
+	{
+		"ID" : 42648,
+		"Level" : 430,
+		"Name" : "Design: Titanium Impact Band",
+		"NameRU" : "Эскиз: титановое кольцо сотрясения"
+	},
+	{
+		"ID" : 42649,
+		"Level" : 430,
+		"Name" : "Design: Titanium Earthguard Ring",
+		"NameRU" : "Эскиз: титановое кольцо стража земли"
+	},
+	{
+		"ID" : 42650,
+		"Level" : 430,
+		"Name" : "Design: Titanium Spellshock Ring",
+		"NameRU" : "Эскиз: титановое кольцо чародейского удара"
+	},
+	{
+		"ID" : 42651,
+		"Level" : 440,
+		"Name" : "Design: Titanium Impact Choker",
+		"NameRU" : "Эскиз: титановое колье сотрясения"
+	},
+	{
+		"ID" : 42652,
+		"Level" : 440,
+		"Name" : "Design: Titanium Earthguard Chain",
+		"NameRU" : "Эскиз: титановая цепь стража земли"
+	},
+	{
+		"ID" : 42653,
+		"Level" : 440,
+		"Name" : "Design: Titanium Spellshock Necklace",
+		"NameRU" : "Эскиз: титановое ожерелье чародейского удара"
+	},
+	{
+		"ID" : 41403,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Insightful Earthsiege Diamond",
+		"NameRU" : "ZZOLD Design: Insightful Earthsiege Diamond"
+	},
+	{
+		"ID" : 41404,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Bracing Earthsiege Diamond",
+		"NameRU" : "ZZOLD Design: Bracing Earthsiege Diamond"
+	},
+	{
+		"ID" : 41405,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Eternal Earthsiege Diamond",
+		"NameRU" : "ZZOLD Design: Eternal Earthsiege Diamond"
+	},
+	{
+		"ID" : 41406,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Powerful Earthsiege Diamond",
+		"NameRU" : "ZZOLD Design: Powerful Earthsiege Diamond"
+	},
+	{
+		"ID" : 41407,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Relentless Earthsiege Diamond",
+		"NameRU" : "ZZOLD Design: Relentless Earthsiege Diamond"
+	},
+	{
+		"ID" : 41408,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Austere Earthsiege Diamond",
+		"NameRU" : "ZZOLD Design: Austere Earthsiege Diamond"
+	},
+	{
+		"ID" : 41409,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Persistent Earthsiege Diamond",
+		"NameRU" : "ZZOLD Design: Persistent Earthsiege Diamond"
+	},
+	{
+		"ID" : 41410,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Trenchant Earthsiege Diamond",
+		"NameRU" : "ZZOLD Design: Trenchant Earthsiege Diamond"
+	},
+	{
+		"ID" : 41411,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Invigorating Earthsiege Diamond",
+		"NameRU" : "ZZOLD Design: Invigorating Earthsiege Diamond"
+	},
+	{
+		"ID" : 41412,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Beaming Earthsiege Diamond",
+		"NameRU" : "ZZOLD Design: Beaming Earthsiege Diamond"
+	},
+	{
+		"ID" : 41413,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Revitalizing Skyflare Diamond",
+		"NameRU" : "ZZOLD Design: Revitalizing Skyflare Diamond"
+	},
+	{
+		"ID" : 41414,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Effulgent Skyflare Diamond",
+		"NameRU" : "ZZOLD Design: Effulgent Skyflare Diamond"
+	},
+	{
+		"ID" : 41415,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Tireless Skyflare Diamond",
+		"NameRU" : "ZZOLD Design: Tireless Skyflare Diamond"
+	},
+	{
+		"ID" : 41416,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Forlorn Skyflare Diamond",
+		"NameRU" : "ZZOLD Design: Forlorn Skyflare Diamond"
+	},
+	{
+		"ID" : 41417,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Impassive Skyflare Diamond",
+		"NameRU" : "ZZOLD Design: Impassive Skyflare Diamond"
+	},
+	{
+		"ID" : 41418,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Chaotic Skyflare Diamond",
+		"NameRU" : "ZZOLD Design: Chaotic Skyflare Diamond"
+	},
+	{
+		"ID" : 41419,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Destructive Skyflare Diamond",
+		"NameRU" : "ZZOLD Design: Destructive Skyflare Diamond"
+	},
+	{
+		"ID" : 41420,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Ember Skyflare Diamond",
+		"NameRU" : "ZZOLD Design: Ember Skyflare Diamond"
+	},
+	{
+		"ID" : 41421,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Enigmatic Skyflare Diamond",
+		"NameRU" : "ZZOLD Design: Enigmatic Skyflare Diamond"
+	},
+	{
+		"ID" : 41422,
+		"Level" : 440,
+		"Name" : "ZZOLD Design: Swift Skyflare Diamond",
+		"NameRU" : "ZZOLD Design: Swift Skyflare Diamond"
+	},
+	{
+		"ID" : 41423,
+		"Level" : 440,
+		"Name" : "ZZOLDDesign: Thundering Skyflare Diamond",
+		"NameRU" : "ZZOLDDesign: Thundering Skyflare Diamond"
+	},
+	{
+		"ID" : 46940,
+		"Level" : 450,
+		"Name" : "Design: Regal Dreadstone",
+		"NameRU" : "Эскиз: монарший страхолит"
+	},
+	{
+		"ID" : 46897,
+		"Level" : 450,
+		"Name" : "Design: Enduring Eye of Zul",
+		"NameRU" : "Эскиз: отверделое Око Зула"
+	},
+	{
+		"ID" : 46898,
+		"Level" : 450,
+		"Name" : "Design: Steady Eye of Zul",
+		"NameRU" : "Эскиз: неизменное Око Зула"
+	},
+	{
+		"ID" : 46899,
+		"Level" : 450,
+		"Name" : "Design: Vivid Eye of Zul",
+		"NameRU" : "Эскиз: насыщенное Око Зула"
+	},
+	{
+		"ID" : 46900,
+		"Level" : 450,
+		"Name" : "Design: Dazzling Eye of Zul",
+		"NameRU" : "Эскиз: ослепительное Око Зула"
+	},
+	{
+		"ID" : 46901,
+		"Level" : 450,
+		"Name" : "Design: Jagged Eye of Zul",
+		"NameRU" : "Эскиз: зазубренное Око Зула"
+	},
+	{
+		"ID" : 46902,
+		"Level" : 450,
+		"Name" : "Design: Timeless Eye of Zul",
+		"NameRU" : "Эскиз: вневременное Око Зула"
+	},
+	{
+		"ID" : 46903,
+		"Level" : 450,
+		"Name" : "Design: Seer's Eye of Zul",
+		"NameRU" : "Эскиз: Око Зула провидца"
+	},
+	{
+		"ID" : 46904,
+		"Level" : 450,
+		"Name" : "Design: Forceful Eye of Zul",
+		"NameRU" : "Эскиз: мощное Око Зула"
+	},
+	{
+		"ID" : 46905,
+		"Level" : 450,
+		"Name" : "Design: Misty Eye of Zul",
+		"NameRU" : "Эскиз: смутное Око Зула"
+	},
+	{
+		"ID" : 46906,
+		"Level" : 450,
+		"Name" : "Design: Sundered Eye of Zul",
+		"NameRU" : "Эскиз: расколотое Око Зула"
+	},
+	{
+		"ID" : 46907,
+		"Level" : 450,
+		"Name" : "Design: Shining Eye of Zul",
+		"NameRU" : "Эскиз: сияющее Око Зула"
+	},
+	{
+		"ID" : 46908,
+		"Level" : 450,
+		"Name" : "Design: Tense Eye of Zul",
+		"NameRU" : "Эскиз: плотное Око Зула"
+	},
+	{
+		"ID" : 46909,
+		"Level" : 450,
+		"Name" : "Design: Lambent Eye of Zul",
+		"NameRU" : "Эскиз: лучистое Око Зула"
+	},
+	{
+		"ID" : 46910,
+		"Level" : 450,
+		"Name" : "Design: Intricate Eye of Zul",
+		"NameRU" : "Эскиз: замысловатое Око Зула"
+	},
+	{
+		"ID" : 46911,
+		"Level" : 450,
+		"Name" : "Design: Radiant Eye of Zul",
+		"NameRU" : "Эскиз: светозарное Око Зула"
+	},
+	{
+		"ID" : 46912,
+		"Level" : 450,
+		"Name" : "Design: Energized Eye of Zul",
+		"NameRU" : "Эскиз: усиленное Око Зула"
+	},
+	{
+		"ID" : 46913,
+		"Level" : 450,
+		"Name" : "Design: Shattered Eye of Zul",
+		"NameRU" : "Эскиз: раздробленное Око Зула"
+	},
+	{
+		"ID" : 46914,
+		"Level" : 450,
+		"Name" : "Design: Opaque Eye of Zul",
+		"NameRU" : "Эскиз: непрозрачное Око Зула"
+	},
+	{
+		"ID" : 46915,
+		"Level" : 450,
+		"Name" : "Design: Turbid Eye of Zul",
+		"NameRU" : "Эскиз: померкшее Око Зула"
+	},
+	{
+		"ID" : 46916,
+		"Level" : 450,
+		"Name" : "Design: Runed Cardinal Ruby",
+		"NameRU" : "Эскиз: рунический багровый рубин"
+	},
+	{
+		"ID" : 46917,
+		"Level" : 450,
+		"Name" : "Design: Bold Cardinal Ruby",
+		"NameRU" : "Эскиз: рельефный багровый рубин"
+	},
+	{
+		"ID" : 46918,
+		"Level" : 450,
+		"Name" : "Design: Delicate Cardinal Ruby",
+		"NameRU" : "Эскиз: изысканный багровый рубин"
+	},
+	{
+		"ID" : 46919,
+		"Level" : 450,
+		"Name" : "Design: Bright Cardinal Ruby",
+		"NameRU" : "Эскиз: яркий багровый рубин"
+	},
+	{
+		"ID" : 46920,
+		"Level" : 450,
+		"Name" : "Design: Precise Cardinal Ruby",
+		"NameRU" : "Эскиз: ясный багровый рубин"
+	},
+	{
+		"ID" : 46921,
+		"Level" : 450,
+		"Name" : "Design: Fractured Cardinal Ruby",
+		"NameRU" : "Эскиз: растрескавшийся багровый рубин"
+	},
+	{
+		"ID" : 46922,
+		"Level" : 450,
+		"Name" : "Design: Subtle Cardinal Ruby",
+		"NameRU" : "Эскиз: изящный багровый рубин"
+	},
+	{
+		"ID" : 46923,
+		"Level" : 450,
+		"Name" : "Design: Flashing Cardinal Ruby",
+		"NameRU" : "Эскиз: блистательный багровый рубин"
+	},
+	{
+		"ID" : 46924,
+		"Level" : 450,
+		"Name" : "Design: Solid Majestic Zircon",
+		"NameRU" : "Эскиз: цельный величественный циркон"
+	},
+	{
+		"ID" : 46925,
+		"Level" : 450,
+		"Name" : "Design: Sparkling Majestic Zircon",
+		"NameRU" : "Эскиз: искрящийся величественный циркон"
+	},
+	{
+		"ID" : 46926,
+		"Level" : 450,
+		"Name" : "Design: Stormy Majestic Zircon",
+		"NameRU" : "Эскиз: грозовой величественный циркон"
+	},
+	{
+		"ID" : 46927,
+		"Level" : 450,
+		"Name" : "Design: Lustrous Majestic Zircon",
+		"NameRU" : "Эскиз: блестящий величественный циркон"
+	},
+	{
+		"ID" : 46928,
+		"Level" : 450,
+		"Name" : "Design: Rigid King's Amber",
+		"NameRU" : "Эскиз: прочный царский янтарь"
+	},
+	{
+		"ID" : 46929,
+		"Level" : 450,
+		"Name" : "Design: Smooth King's Amber",
+		"NameRU" : "Эскиз: гладкий царский янтарь"
+	},
+	{
+		"ID" : 46930,
+		"Level" : 450,
+		"Name" : "Design: Brilliant King's Amber",
+		"NameRU" : "Эскиз: сверкающий царский янтарь"
+	},
+	{
+		"ID" : 46931,
+		"Level" : 450,
+		"Name" : "Design: Thick King's Amber",
+		"NameRU" : "Эскиз: матовый царский янтарь"
+	},
+	{
+		"ID" : 46932,
+		"Level" : 450,
+		"Name" : "Design: Mystic King's Amber",
+		"NameRU" : "Эскиз: мистический царский янтарь"
+	},
+	{
+		"ID" : 46933,
+		"Level" : 450,
+		"Name" : "Design: Quick King's Amber",
+		"NameRU" : "Эскиз: мягкий царский янтарь"
+	},
+	{
+		"ID" : 46934,
+		"Level" : 450,
+		"Name" : "Design: Balanced Dreadstone",
+		"NameRU" : "Эскиз: сбалансированный страхолит"
+	},
+	{
+		"ID" : 46935,
+		"Level" : 450,
+		"Name" : "Design: Sovereign Dreadstone",
+		"NameRU" : "Эскиз: царственный страхолит"
+	},
+	{
+		"ID" : 46936,
+		"Level" : 450,
+		"Name" : "Design: Glowing Dreadstone",
+		"NameRU" : "Эскиз: светящийся страхолит"
+	},
+	{
+		"ID" : 46937,
+		"Level" : 450,
+		"Name" : "Design: Purified Dreadstone",
+		"NameRU" : "Эскиз: очищенный страхолит"
+	},
+	{
+		"ID" : 46938,
+		"Level" : 450,
+		"Name" : "Design: Shifting Dreadstone",
+		"NameRU" : "Эскиз: изменчивый страхолит"
+	},
+	{
+		"ID" : 46939,
+		"Level" : 450,
+		"Name" : "Design: Royal Dreadstone",
+		"NameRU" : "Эскиз: королевский страхолит"
+	},
+	{
+		"ID" : 46941,
+		"Level" : 450,
+		"Name" : "Design: Defender's Dreadstone",
+		"NameRU" : "Эскиз: страхолит защитника"
+	},
+	{
+		"ID" : 46942,
+		"Level" : 450,
+		"Name" : "Design: Guardian's Dreadstone",
+		"NameRU" : "Эскиз: страхолит стража"
+	},
+	{
+		"ID" : 46943,
+		"Level" : 450,
+		"Name" : "Design: Mysterious Dreadstone",
+		"NameRU" : "Эскиз: таинственный страхолит"
+	},
+	{
+		"ID" : 46944,
+		"Level" : 450,
+		"Name" : "Design: Puissant Dreadstone",
+		"NameRU" : "Эскиз: всевластный страхолит"
+	},
+	{
+		"ID" : 46945,
+		"Level" : 450,
+		"Name" : "Design: Infused Dreadstone",
+		"NameRU" : "Эскиз: заряженный страхолит"
+	},
+	{
+		"ID" : 46946,
+		"Level" : 450,
+		"Name" : "Design: Tenuous Dreadstone",
+		"NameRU" : "Эскиз: непрочный страхолит"
+	},
+	{
+		"ID" : 46947,
+		"Level" : 450,
+		"Name" : "Design: Luminous Ametrine",
+		"NameRU" : "Эскиз: светоносный аметрин"
+	},
+	{
+		"ID" : 46948,
+		"Level" : 450,
+		"Name" : "Design: Inscribed Ametrine",
+		"NameRU" : "Эскиз: покрытый письменами аметрин"
+	},
+	{
+		"ID" : 46949,
+		"Level" : 450,
+		"Name" : "Design: Deadly Ametrine",
+		"NameRU" : "Эскиз: смертоносный аметрин"
+	},
+	{
+		"ID" : 46950,
+		"Level" : 450,
+		"Name" : "Design: Potent Ametrine",
+		"NameRU" : "Эскиз: могущественный аметрин"
+	},
+	{
+		"ID" : 46951,
+		"Level" : 450,
+		"Name" : "Design: Veiled Ametrine",
+		"NameRU" : "Эскиз: сокрытый аметрин"
+	},
+	{
+		"ID" : 46952,
+		"Level" : 450,
+		"Name" : "Design: Durable Ametrine",
+		"NameRU" : "Эскиз: надежный аметрин"
+	},
+	{
+		"ID" : 46953,
+		"Level" : 450,
+		"Name" : "Design: Etched Ametrine",
+		"NameRU" : "Эскиз: гравированный аметрин"
+	},
+	{
+		"ID" : 46956,
+		"Level" : 450,
+		"Name" : "Design: Pristine Ametrine",
+		"NameRU" : "Эскиз: нетронутый аметрин"
+	},
+	{
+		"ID" : 47007,
+		"Level" : 450,
+		"Name" : "Design: Reckless Ametrine",
+		"NameRU" : "Эскиз: тревожный аметрин"
+	},
+	{
+		"ID" : 47008,
+		"Level" : 450,
+		"Name" : "Design: Glinting Ametrine",
+		"NameRU" : "Эскиз: блистающий аметрин"
+	},
+	{
+		"ID" : 47010,
+		"Level" : 450,
+		"Name" : "Design: Accurate Ametrine",
+		"NameRU" : "Эскиз: идеально ограненный аметрин"
+	},
+	{
+		"ID" : 47011,
+		"Level" : 450,
+		"Name" : "Design: Wicked Ametrine",
+		"NameRU" : "Эскиз: гибельный аметрин"
+	},
+	{
+		"ID" : 47012,
+		"Level" : 450,
+		"Name" : "Design: Glimmering Ametrine",
+		"NameRU" : "Эскиз: мерцающий аметрин"
+	},
+	{
+		"ID" : 47015,
+		"Level" : 450,
+		"Name" : "Design: Champion's Ametrine",
+		"NameRU" : "Эскиз: аметрин защитника"
+	},
+	{
+		"ID" : 47016,
+		"Level" : 450,
+		"Name" : "Design: Empowered Ametrine",
+		"NameRU" : "Эскиз: наделенный силой аметрин"
+	},
+	{
+		"ID" : 47017,
+		"Level" : 450,
+		"Name" : "Design: Stalwart Ametrine",
+		"NameRU" : "Эскиз: стойкий аметрин"
+	},
+	{
+		"ID" : 47018,
+		"Level" : 450,
+		"Name" : "Design: Resplendent Ametrine",
+		"NameRU" : "Эскиз: глянцевый аметрин"
+	},
+	{
+		"ID" : 47019,
+		"Level" : 450,
+		"Name" : "Design: Fierce Ametrine",
+		"NameRU" : "Эскиз: броский аметрин"
+	},
+	{
+		"ID" : 47020,
+		"Level" : 450,
+		"Name" : "Design: Deft Ametrine",
+		"NameRU" : "Эскиз: аметрин проворства"
+	},
+	{
+		"ID" : 47021,
+		"Level" : 450,
+		"Name" : "Design: Lucent Ametrine",
+		"NameRU" : "Эскиз: прозрачный аметрин"
+	},
+	{
+		"ID" : 47022,
+		"Level" : 450,
+		"Name" : "Design: Resolute Ametrine",
+		"NameRU" : "Эскиз: затвердевший аметрин"
+	},
+	{
+		"ID" : 47023,
+		"Level" : 450,
+		"Name" : "Design: Stark Ametrine",
+		"NameRU" : "Эскиз: застывший аметрин"
+	},
+	{
+		"ID" : 49112,
+		"Level" : 450,
+		"Name" : "Design: Nightmare Tear",
+		"NameRU" : "Эскиз: слеза кошмаров"
+	}
+]

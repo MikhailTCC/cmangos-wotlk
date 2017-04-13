@@ -1,0 +1,287 @@
+[
+	{
+		"ID" : 6217,
+		"Name" : "Copper Rod",
+		"NameRU" : "Медный жезл"
+	},
+	{
+		"ID" : 6218,
+		"Name" : "Runed Copper Rod",
+		"NameRU" : "Рунический медный жезл"
+	},
+	{
+		"ID" : 6338,
+		"Name" : "Silver Rod",
+		"NameRU" : "Серебряный жезл"
+	},
+	{
+		"ID" : 6339,
+		"Name" : "Runed Silver Rod",
+		"NameRU" : "Рунический серебряный жезл"
+	},
+	{
+		"ID" : 10938,
+		"Name" : "Lesser Magic Essence",
+		"NameRU" : "Малая магическая субстанция"
+	},
+	{
+		"ID" : 10939,
+		"Name" : "Greater Magic Essence",
+		"NameRU" : "Большая магическая субстанция"
+	},
+	{
+		"ID" : 10940,
+		"Name" : "Strange Dust",
+		"NameRU" : "Странная пыль"
+	},
+	{
+		"ID" : 10978,
+		"Name" : "Small Glimmering Shard",
+		"NameRU" : "Малый мерцающий осколок"
+	},
+	{
+		"ID" : 10998,
+		"Name" : "Lesser Astral Essence",
+		"NameRU" : "Простая Астральная субстанция"
+	},
+	{
+		"ID" : 11082,
+		"Name" : "Greater Astral Essence",
+		"NameRU" : "Великая астральная субстанция"
+	},
+	{
+		"ID" : 11083,
+		"Name" : "Soul Dust",
+		"NameRU" : "Пыль духа"
+	},
+	{
+		"ID" : 11084,
+		"Name" : "Large Glimmering Shard",
+		"NameRU" : "Большой мерцающий осколок"
+	},
+	{
+		"ID" : 11128,
+		"Name" : "Golden Rod",
+		"NameRU" : "Золотой жезл"
+	},
+	{
+		"ID" : 11130,
+		"Name" : "Runed Golden Rod",
+		"NameRU" : "Рунический золотой жезл"
+	},
+	{
+		"ID" : 11134,
+		"Name" : "Lesser Mystic Essence",
+		"NameRU" : "Простая таинственная субстанция"
+	},
+	{
+		"ID" : 11135,
+		"Name" : "Greater Mystic Essence",
+		"NameRU" : "Великая таинственная субстанция"
+	},
+	{
+		"ID" : 11137,
+		"Name" : "Vision Dust",
+		"NameRU" : "Пыль провидения"
+	},
+	{
+		"ID" : 11138,
+		"Name" : "Small Glowing Shard",
+		"NameRU" : "Малый светящийся осколок"
+	},
+	{
+		"ID" : 11139,
+		"Name" : "Large Glowing Shard",
+		"NameRU" : "Большой светящийся осколок"
+	},
+	{
+		"ID" : 11144,
+		"Name" : "Truesilver Rod",
+		"NameRU" : "Жезл из истинного серебра"
+	},
+	{
+		"ID" : 11145,
+		"Name" : "Runed Truesilver Rod",
+		"NameRU" : "Рунический жезл истинного серебра"
+	},
+	{
+		"ID" : 11174,
+		"Name" : "Lesser Nether Essence",
+		"NameRU" : "Простая субстанция Пустоты"
+	},
+	{
+		"ID" : 11175,
+		"Name" : "Greater Nether Essence",
+		"NameRU" : "Великая субстанция Пустоты"
+	},
+	{
+		"ID" : 11176,
+		"Name" : "Dream Dust",
+		"NameRU" : "Сонная пыль"
+	},
+	{
+		"ID" : 11177,
+		"Name" : "Small Radiant Shard",
+		"NameRU" : "Малый светозарный осколок"
+	},
+	{
+		"ID" : 11178,
+		"Name" : "Large Radiant Shard",
+		"NameRU" : "Большой светозарный осколок"
+	},
+	{
+		"ID" : 14343,
+		"Name" : "Small Brilliant Shard",
+		"NameRU" : "Малый сверкающий осколок"
+	},
+	{
+		"ID" : 14344,
+		"Name" : "Large Brilliant Shard",
+		"NameRU" : "Большой сверкающий осколок"
+	},
+	{
+		"ID" : 16202,
+		"Name" : "Lesser Eternal Essence",
+		"NameRU" : "Простая вечная субстанция"
+	},
+	{
+		"ID" : 16203,
+		"Name" : "Greater Eternal Essence",
+		"NameRU" : "Великая вечная субстанция"
+	},
+	{
+		"ID" : 16204,
+		"Name" : "Illusion Dust",
+		"NameRU" : "Пыль иллюзий"
+	},
+	{
+		"ID" : 16206,
+		"Name" : "Arcanite Rod",
+		"NameRU" : "Арканитовый жезл"
+	},
+	{
+		"ID" : 16207,
+		"Name" : "Runed Arcanite Rod",
+		"NameRU" : "Рунический арканитовый жезл"
+	},
+	{
+		"ID" : 22445,
+		"Name" : "Arcane Dust",
+		"NameRU" : "Чародейная пыль"
+	},
+	{
+		"ID" : 20725,
+		"Name" : "Nexus Crystal",
+		"NameRU" : "Кристалл-источник"
+	},
+	{
+		"ID" : 22449,
+		"Name" : "Large Prismatic Shard",
+		"NameRU" : "Большой радужный осколок"
+	},
+	{
+		"ID" : 22448,
+		"Name" : "Small Prismatic Shard",
+		"NameRU" : "Малый радужный осколок"
+	},
+	{
+		"ID" : 22447,
+		"Name" : "Lesser Planar Essence",
+		"NameRU" : "Простая планарная субстанция"
+	},
+	{
+		"ID" : 22446,
+		"Name" : "Greater Planar Essence",
+		"NameRU" : "Великая планарная субстанция"
+	},
+	{
+		"ID" : 25845,
+		"Name" : "Eternium Rod",
+		"NameRU" : "Этерниевый жезл"
+	},
+	{
+		"ID" : 25843,
+		"Name" : "Fel Iron Rod",
+		"NameRU" : "Жезл из оскверненного железа"
+	},
+	{
+		"ID" : 25844,
+		"Name" : "Adamantite Rod",
+		"NameRU" : "Адамантитовый жезл"
+	},
+	{
+		"ID" : 22461,
+		"Name" : "Runed Fel Iron Rod",
+		"NameRU" : "Рунический жезл из оскверненного железа"
+	},
+	{
+		"ID" : 22450,
+		"Name" : "Void Crystal",
+		"NameRU" : "Кристалл Бездны"
+	},
+	{
+		"ID" : 22463,
+		"Name" : "Runed Eternium Rod",
+		"NameRU" : "Рунический этерниевый жезл"
+	},
+	{
+		"ID" : 22462,
+		"Name" : "Runed Adamantite Rod",
+		"NameRU" : "Рунический адамантитовый жезл"
+	},
+	{
+		"ID" : 34052,
+		"Name" : "Dream Shard",
+		"NameRU" : "Осколок грез"
+	},
+	{
+		"ID" : 34053,
+		"Name" : "Small Dream Shard",
+		"NameRU" : "Маленький осколок грез"
+	},
+	{
+		"ID" : 34054,
+		"Name" : "Infinite Dust",
+		"NameRU" : "Абсолютная пыль"
+	},
+	{
+		"ID" : 34056,
+		"Name" : "Lesser Cosmic Essence",
+		"NameRU" : "Малая космическая субстанция"
+	},
+	{
+		"ID" : 34057,
+		"Name" : "Abyss Crystal",
+		"NameRU" : "Кристалл пропасти"
+	},
+	{
+		"ID" : 41741,
+		"Name" : "Cobalt Rod",
+		"NameRU" : "Кобальтовый жезл"
+	},
+	{
+		"ID" : 41745,
+		"Name" : "Titanium Rod",
+		"NameRU" : "Титановый жезл"
+	},
+	{
+		"ID" : 44451,
+		"Name" : "Runed Cobalt Rod",
+		"NameRU" : "Зачарованный Прут Кобальта"
+	},
+	{
+		"ID" : 44452,
+		"Name" : "Runed Titanium Rod",
+		"NameRU" : "Рунический титановый жезл"
+	},
+	{
+		"ID" : 46849,
+		"Name" : "Titanium Powder",
+		"NameRU" : "Титановый порошок"
+	},
+	{
+		"ID" : 49640,
+		"Name" : "Essence or Dust",
+		"NameRU" : "Сущность либо тлен"
+	}
+]

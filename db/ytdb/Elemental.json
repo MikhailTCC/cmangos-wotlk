@@ -1,0 +1,232 @@
+[
+	{
+		"ID" : 7067,
+		"Name" : "Elemental Earth",
+		"NameRU" : "Первородная земля"
+	},
+	{
+		"ID" : 7068,
+		"Name" : "Elemental Fire",
+		"NameRU" : "Первородный огонь"
+	},
+	{
+		"ID" : 7069,
+		"Name" : "Elemental Air",
+		"NameRU" : "Первородный воздух"
+	},
+	{
+		"ID" : 7070,
+		"Name" : "Elemental Water",
+		"NameRU" : "Первородная вода"
+	},
+	{
+		"ID" : 7075,
+		"Name" : "Core of Earth",
+		"NameRU" : "Ядро земли"
+	},
+	{
+		"ID" : 7076,
+		"Name" : "Essence of Earth",
+		"NameRU" : "Субстанция Земли"
+	},
+	{
+		"ID" : 7077,
+		"Name" : "Heart of Fire",
+		"NameRU" : "Сердце огня"
+	},
+	{
+		"ID" : 7078,
+		"Name" : "Essence of Fire",
+		"NameRU" : "Субстанция Огня"
+	},
+	{
+		"ID" : 7079,
+		"Name" : "Globe of Water",
+		"NameRU" : "Магическая сфера воды"
+	},
+	{
+		"ID" : 7080,
+		"Name" : "Essence of Water",
+		"NameRU" : "Субстанция Воды"
+	},
+	{
+		"ID" : 7081,
+		"Name" : "Breath of Wind",
+		"NameRU" : "Дыхание ветра"
+	},
+	{
+		"ID" : 7082,
+		"Name" : "Essence of Air",
+		"NameRU" : "Субстанция Воздуха"
+	},
+	{
+		"ID" : 7972,
+		"Name" : "Ichor of Undeath",
+		"NameRU" : "Лимфа нежити"
+	},
+	{
+		"ID" : 10286,
+		"Name" : "Heart of the Wild",
+		"NameRU" : "Сердце дикой природы"
+	},
+	{
+		"ID" : 12803,
+		"Name" : "Living Essence",
+		"NameRU" : "Субстанция Жизни"
+	},
+	{
+		"ID" : 12808,
+		"Name" : "Essence of Undeath",
+		"NameRU" : "Субстанция Нежити"
+	},
+	{
+		"ID" : 22575,
+		"Name" : "Mote of Life",
+		"NameRU" : "Частица Жизни"
+	},
+	{
+		"ID" : 22573,
+		"Name" : "Mote of Earth",
+		"NameRU" : "Частица Земли"
+	},
+	{
+		"ID" : 22572,
+		"Name" : "Mote of Air",
+		"NameRU" : "Частица Воздуха"
+	},
+	{
+		"ID" : 22451,
+		"Name" : "Primal Air",
+		"NameRU" : "Изначальный Воздух"
+	},
+	{
+		"ID" : 22456,
+		"Name" : "Primal Shadow",
+		"NameRU" : "Изначальная Тьма"
+	},
+	{
+		"ID" : 22452,
+		"Name" : "Primal Earth",
+		"NameRU" : "Изначальная Земля"
+	},
+	{
+		"ID" : 22577,
+		"Name" : "Mote of Shadow",
+		"NameRU" : "Частица Тени"
+	},
+	{
+		"ID" : 22576,
+		"Name" : "Mote of Mana",
+		"NameRU" : "Частица Маны"
+	},
+	{
+		"ID" : 22457,
+		"Name" : "Primal Mana",
+		"NameRU" : "Изначальная Мана"
+	},
+	{
+		"ID" : 21884,
+		"Name" : "Primal Fire",
+		"NameRU" : "Изначальный Огонь"
+	},
+	{
+		"ID" : 21886,
+		"Name" : "Primal Life",
+		"NameRU" : "Изначальная Жизнь"
+	},
+	{
+		"ID" : 23571,
+		"Name" : "Primal Might",
+		"NameRU" : "Изначальная мощь"
+	},
+	{
+		"ID" : 22574,
+		"Name" : "Mote of Fire",
+		"NameRU" : "Частица Огня"
+	},
+	{
+		"ID" : 22578,
+		"Name" : "Mote of Water",
+		"NameRU" : "Частица Воды"
+	},
+	{
+		"ID" : 21885,
+		"Name" : "Primal Water",
+		"NameRU" : "Изначальная Вода"
+	},
+	{
+		"ID" : 34055,
+		"Name" : "Greater Cosmic Essence",
+		"NameRU" : "Великая космическая субстанция"
+	},
+	{
+		"ID" : 35622,
+		"Name" : "Eternal Water",
+		"NameRU" : "Извечная вода"
+	},
+	{
+		"ID" : 35623,
+		"Name" : "Eternal Air",
+		"NameRU" : "Извечный воздух"
+	},
+	{
+		"ID" : 35624,
+		"Name" : "Eternal Earth",
+		"NameRU" : "Извечная земля"
+	},
+	{
+		"ID" : 35625,
+		"Name" : "Eternal Life",
+		"NameRU" : "Извечная жизнь"
+	},
+	{
+		"ID" : 35626,
+		"Name" : "Eternal Mana [PH]",
+		"NameRU" : "Вечная Мана"
+	},
+	{
+		"ID" : 35627,
+		"Name" : "Eternal Shadow",
+		"NameRU" : "Извечная тьма"
+	},
+	{
+		"ID" : 36860,
+		"Name" : "Eternal Fire",
+		"NameRU" : "Извечный огонь"
+	},
+	{
+		"ID" : 37700,
+		"Name" : "Crystallized Air",
+		"NameRU" : "Кристаллизованный воздух"
+	},
+	{
+		"ID" : 37701,
+		"Name" : "Crystallized Earth",
+		"NameRU" : "Кристаллизованная земля"
+	},
+	{
+		"ID" : 37702,
+		"Name" : "Crystallized Fire",
+		"NameRU" : "Кристаллизованный огонь"
+	},
+	{
+		"ID" : 37703,
+		"Name" : "Crystallized Shadow",
+		"NameRU" : "Кристаллизованная тьма"
+	},
+	{
+		"ID" : 37704,
+		"Name" : "Crystallized Life",
+		"NameRU" : "Кристаллизованная жизнь"
+	},
+	{
+		"ID" : 37705,
+		"Name" : "Crystallized Water",
+		"NameRU" : "Кристаллизованная вода"
+	},
+	{
+		"ID" : 40248,
+		"Name" : "Eternal Might",
+		"NameRU" : "Извечная сила"
+	}
+]

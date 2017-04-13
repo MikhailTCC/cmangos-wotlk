@@ -1,0 +1,267 @@
+[
+	{
+		"ID" : 765,
+		"Name" : "Silverleaf",
+		"NameRU" : "Сребролист"
+	},
+	{
+		"ID" : 785,
+		"Name" : "Mageroyal",
+		"NameRU" : "Магороза"
+	},
+	{
+		"ID" : 2447,
+		"Name" : "Peacebloom",
+		"NameRU" : "Мироцвет"
+	},
+	{
+		"ID" : 2449,
+		"Name" : "Earthroot",
+		"NameRU" : "Земляной корень"
+	},
+	{
+		"ID" : 2450,
+		"Name" : "Briarthorn",
+		"NameRU" : "Остротерн"
+	},
+	{
+		"ID" : 2452,
+		"Name" : "Swiftthistle",
+		"NameRU" : "Скорополох"
+	},
+	{
+		"ID" : 2453,
+		"Name" : "Bruiseweed",
+		"NameRU" : "Синячник"
+	},
+	{
+		"ID" : 3355,
+		"Name" : "Wild Steelbloom",
+		"NameRU" : "Дикий сталецвет"
+	},
+	{
+		"ID" : 3356,
+		"Name" : "Kingsblood",
+		"NameRU" : "Королевская кровь"
+	},
+	{
+		"ID" : 3357,
+		"Name" : "Liferoot",
+		"NameRU" : "Корень жизни"
+	},
+	{
+		"ID" : 3358,
+		"Name" : "Khadgar's Whisker",
+		"NameRU" : "Кадгаров ус"
+	},
+	{
+		"ID" : 3369,
+		"Name" : "Grave Moss",
+		"NameRU" : "Могильный мох"
+	},
+	{
+		"ID" : 3818,
+		"Name" : "Fadeleaf",
+		"NameRU" : "Бледнолист"
+	},
+	{
+		"ID" : 3819,
+		"Name" : "Wintersbite",
+		"NameRU" : "Морозник"
+	},
+	{
+		"ID" : 3820,
+		"Name" : "Stranglekelp",
+		"NameRU" : "Удавник"
+	},
+	{
+		"ID" : 3821,
+		"Name" : "Goldthorn",
+		"NameRU" : "Златошип"
+	},
+	{
+		"ID" : 4625,
+		"Name" : "Firebloom",
+		"NameRU" : "Огнецвет"
+	},
+	{
+		"ID" : 8153,
+		"Name" : "Wildvine",
+		"NameRU" : "Дикая лоза"
+	},
+	{
+		"ID" : 8831,
+		"Name" : "Purple Lotus",
+		"NameRU" : "Лиловый лотос"
+	},
+	{
+		"ID" : 8836,
+		"Name" : "Arthas' Tears",
+		"NameRU" : "Слезы Артаса"
+	},
+	{
+		"ID" : 8838,
+		"Name" : "Sungrass",
+		"NameRU" : "Солнечник"
+	},
+	{
+		"ID" : 8839,
+		"Name" : "Blindweed",
+		"NameRU" : "Пастушья сумка"
+	},
+	{
+		"ID" : 8845,
+		"Name" : "Ghost Mushroom",
+		"NameRU" : "Призрачная поганка"
+	},
+	{
+		"ID" : 8846,
+		"Name" : "Gromsblood",
+		"NameRU" : "Кровь Грома"
+	},
+	{
+		"ID" : 13463,
+		"Name" : "Dreamfoil",
+		"NameRU" : "Снолист"
+	},
+	{
+		"ID" : 13464,
+		"Name" : "Golden Sansam",
+		"NameRU" : "Золотой сансам"
+	},
+	{
+		"ID" : 13465,
+		"Name" : "Mountain Silversage",
+		"NameRU" : "Горный серебряный шалфей"
+	},
+	{
+		"ID" : 13466,
+		"Name" : "Plaguebloom",
+		"NameRU" : "Чумоцвет"
+	},
+	{
+		"ID" : 13467,
+		"Name" : "Icecap",
+		"NameRU" : "Ледяной зев"
+	},
+	{
+		"ID" : 13468,
+		"Name" : "Black Lotus",
+		"NameRU" : "Черный лотос"
+	},
+	{
+		"ID" : 19726,
+		"Name" : "Bloodvine",
+		"NameRU" : "Кровавая лоза"
+	},
+	{
+		"ID" : 19727,
+		"Name" : "Blood Scythe",
+		"NameRU" : "Кровокос"
+	},
+	{
+		"ID" : 22794,
+		"Name" : "Fel Lotus",
+		"NameRU" : "Лотос Скверны"
+	},
+	{
+		"ID" : 22790,
+		"Name" : "Ancient Lichen",
+		"NameRU" : "Древний лишайник"
+	},
+	{
+		"ID" : 22789,
+		"Name" : "Terocone",
+		"NameRU" : "Терошишка"
+	},
+	{
+		"ID" : 22787,
+		"Name" : "Ragveil",
+		"NameRU" : "Кисейница"
+	},
+	{
+		"ID" : 22786,
+		"Name" : "Dreaming Glory",
+		"NameRU" : "Сияние грез"
+	},
+	{
+		"ID" : 22785,
+		"Name" : "Felweed",
+		"NameRU" : "Сквернопля"
+	},
+	{
+		"ID" : 22710,
+		"Name" : "Bloodthistle",
+		"NameRU" : "Кровопийка"
+	},
+	{
+		"ID" : 22788,
+		"Name" : "Flame Cap",
+		"NameRU" : "Огненный зев"
+	},
+	{
+		"ID" : 22791,
+		"Name" : "Netherbloom",
+		"NameRU" : "Пустоцвет"
+	},
+	{
+		"ID" : 22792,
+		"Name" : "Nightmare Vine",
+		"NameRU" : "Ползучий кошмарник"
+	},
+	{
+		"ID" : 22793,
+		"Name" : "Mana Thistle",
+		"NameRU" : "Манаполох"
+	},
+	{
+		"ID" : 22797,
+		"Name" : "Nightmare Seed",
+		"NameRU" : "Зерно кошмарника"
+	},
+	{
+		"ID" : 36901,
+		"Name" : "Goldclover",
+		"NameRU" : "Золотой клевер"
+	},
+	{
+		"ID" : 36902,
+		"Name" : "Constrictor Grass",
+		"NameRU" : "Удушающая трава"
+	},
+	{
+		"ID" : 36903,
+		"Name" : "Adder's Tongue",
+		"NameRU" : "Язык аспида"
+	},
+	{
+		"ID" : 36904,
+		"Name" : "Tiger Lily",
+		"NameRU" : "Тигровая лилия"
+	},
+	{
+		"ID" : 36905,
+		"Name" : "Lichbloom",
+		"NameRU" : "Личецвет"
+	},
+	{
+		"ID" : 36906,
+		"Name" : "Icethorn",
+		"NameRU" : "Ледошип"
+	},
+	{
+		"ID" : 36907,
+		"Name" : "Talandra's Rose",
+		"NameRU" : "Роза Таландры"
+	},
+	{
+		"ID" : 36908,
+		"Name" : "Frost Lotus",
+		"NameRU" : "Северный лотос"
+	},
+	{
+		"ID" : 37921,
+		"Name" : "Deadnettle",
+		"NameRU" : "Яснотка"
+	}
+]

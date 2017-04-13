@@ -1,270 +1,337 @@
 [
 	{
-		"entry" : 783,
-		"name" : "Light Hide"
+		"ID" : 783,
+		"Name" : "Light Hide",
+		"NameRU" : "Легкая шкура"
 	},
 	{
-		"entry" : 2318,
-		"name" : "Light Leather"
+		"ID" : 2318,
+		"Name" : "Light Leather",
+		"NameRU" : "Тонкая кожа"
 	},
 	{
-		"entry" : 2319,
-		"name" : "Medium Leather"
+		"ID" : 2319,
+		"Name" : "Medium Leather",
+		"NameRU" : "Жесткая кожа"
 	},
 	{
-		"entry" : 2934,
-		"name" : "Ruined Leather Scraps"
+		"ID" : 2934,
+		"Name" : "Ruined Leather Scraps",
+		"NameRU" : "Обрывки кожи"
 	},
 	{
-		"entry" : 4231,
-		"name" : "Cured Light Hide"
+		"ID" : 4231,
+		"Name" : "Cured Light Hide",
+		"NameRU" : "Обработанная легкая шкура"
 	},
 	{
-		"entry" : 4232,
-		"name" : "Medium Hide"
+		"ID" : 4232,
+		"Name" : "Medium Hide",
+		"NameRU" : "Средняя шкура"
 	},
 	{
-		"entry" : 4233,
-		"name" : "Cured Medium Hide"
+		"ID" : 4233,
+		"Name" : "Cured Medium Hide",
+		"NameRU" : "Обработанная средняя шкура"
 	},
 	{
-		"entry" : 4234,
-		"name" : "Heavy Leather"
+		"ID" : 4234,
+		"Name" : "Heavy Leather",
+		"NameRU" : "Толстая кожа"
 	},
 	{
-		"entry" : 4235,
-		"name" : "Heavy Hide"
+		"ID" : 4235,
+		"Name" : "Heavy Hide",
+		"NameRU" : "Тяжелая шкура"
 	},
 	{
-		"entry" : 4236,
-		"name" : "Cured Heavy Hide"
+		"ID" : 4236,
+		"Name" : "Cured Heavy Hide",
+		"NameRU" : "Обработанная тяжелая шкура"
 	},
 	{
-		"entry" : 4289,
-		"name" : "Salt"
+		"ID" : 4289,
+		"Name" : "Salt",
+		"NameRU" : "Соль"
 	},
 	{
-		"entry" : 4304,
-		"name" : "Thick Leather"
+		"ID" : 4304,
+		"Name" : "Thick Leather",
+		"NameRU" : "Плотная кожа"
 	},
 	{
-		"entry" : 4461,
-		"name" : "Raptor Hide"
+		"ID" : 4461,
+		"Name" : "Raptor Hide",
+		"NameRU" : "Шкура ящера"
 	},
 	{
-		"entry" : 5082,
-		"name" : "Thin Kodo Leather"
+		"ID" : 5082,
+		"Name" : "Thin Kodo Leather",
+		"NameRU" : "Тонкая кожа кодо"
 	},
 	{
-		"entry" : 5116,
-		"name" : "Long Tail Feather"
+		"ID" : 5116,
+		"Name" : "Long Tail Feather",
+		"NameRU" : "Длинное хвостовое перо"
 	},
 	{
-		"entry" : 5784,
-		"name" : "Slimy Murloc Scale"
+		"ID" : 5784,
+		"Name" : "Slimy Murloc Scale",
+		"NameRU" : "Склизкая чешуя мурлока"
 	},
 	{
-		"entry" : 5785,
-		"name" : "Thick Murloc Scale"
+		"ID" : 5785,
+		"Name" : "Thick Murloc Scale",
+		"NameRU" : "Толстая чешуя мурлока"
 	},
 	{
-		"entry" : 6470,
-		"name" : "Deviate Scale"
+		"ID" : 6470,
+		"Name" : "Deviate Scale",
+		"NameRU" : "Искаженная чешуя"
 	},
 	{
-		"entry" : 6471,
-		"name" : "Perfect Deviate Scale"
+		"ID" : 6471,
+		"Name" : "Perfect Deviate Scale",
+		"NameRU" : "Идеальная искаженная чешуя"
 	},
 	{
-		"entry" : 7286,
-		"name" : "Black Whelp Scale"
+		"ID" : 7286,
+		"Name" : "Black Whelp Scale",
+		"NameRU" : "Чешуя черного дракончика"
 	},
 	{
-		"entry" : 7392,
-		"name" : "Green Whelp Scale"
+		"ID" : 7392,
+		"Name" : "Green Whelp Scale",
+		"NameRU" : "Чешуя зеленого дракончика"
 	},
 	{
-		"entry" : 8150,
-		"name" : "Deeprock Salt"
+		"ID" : 8150,
+		"Name" : "Deeprock Salt",
+		"NameRU" : "Глубокоскальная соль"
 	},
 	{
-		"entry" : 8154,
-		"name" : "Scorpid Scale"
+		"ID" : 8154,
+		"Name" : "Scorpid Scale",
+		"NameRU" : "Чешуя скорпида"
 	},
 	{
-		"entry" : 8165,
-		"name" : "Worn Dragonscale"
+		"ID" : 8165,
+		"Name" : "Worn Dragonscale",
+		"NameRU" : "Потертая драконья чешуя"
 	},
 	{
-		"entry" : 8167,
-		"name" : "Turtle Scale"
+		"ID" : 8167,
+		"Name" : "Turtle Scale",
+		"NameRU" : "Черепаший панцирь"
 	},
 	{
-		"entry" : 8168,
-		"name" : "Jet Black Feather"
+		"ID" : 8168,
+		"Name" : "Jet Black Feather",
+		"NameRU" : "Гагатовое черное перо"
 	},
 	{
-		"entry" : 8169,
-		"name" : "Thick Hide"
+		"ID" : 8169,
+		"Name" : "Thick Hide",
+		"NameRU" : "Плотная шкура"
 	},
 	{
-		"entry" : 8170,
-		"name" : "Rugged Leather"
+		"ID" : 8170,
+		"Name" : "Rugged Leather",
+		"NameRU" : "Грубая кожа"
 	},
 	{
-		"entry" : 8171,
-		"name" : "Rugged Hide"
+		"ID" : 8171,
+		"Name" : "Rugged Hide",
+		"NameRU" : "Грубая шкура"
 	},
 	{
-		"entry" : 8172,
-		"name" : "Cured Thick Hide"
+		"ID" : 8172,
+		"Name" : "Cured Thick Hide",
+		"NameRU" : "Обработанная плотная шкура"
 	},
 	{
-		"entry" : 12810,
-		"name" : "Enchanted Leather"
+		"ID" : 12810,
+		"Name" : "Enchanted Leather",
+		"NameRU" : "Зачарованная кожа"
 	},
 	{
-		"entry" : 15407,
-		"name" : "Cured Rugged Hide"
+		"ID" : 15407,
+		"Name" : "Cured Rugged Hide",
+		"NameRU" : "Обработанная грубая шкура"
 	},
 	{
-		"entry" : 15408,
-		"name" : "Heavy Scorpid Scale"
+		"ID" : 15408,
+		"Name" : "Heavy Scorpid Scale",
+		"NameRU" : "Толстая чешуя скорпида"
 	},
 	{
-		"entry" : 15409,
-		"name" : "Refined Deeprock Salt"
+		"ID" : 15409,
+		"Name" : "Refined Deeprock Salt",
+		"NameRU" : "Очищенная глубокоскальная соль"
 	},
 	{
-		"entry" : 15410,
-		"name" : "Scale of Onyxia"
+		"ID" : 15410,
+		"Name" : "Scale of Onyxia",
+		"NameRU" : "Чешуя Ониксии"
 	},
 	{
-		"entry" : 15412,
-		"name" : "Green Dragonscale"
+		"ID" : 15412,
+		"Name" : "Green Dragonscale",
+		"NameRU" : "Чешуя зеленого дракона"
 	},
 	{
-		"entry" : 15414,
-		"name" : "Red Dragonscale"
+		"ID" : 15414,
+		"Name" : "Red Dragonscale",
+		"NameRU" : "Чешуя красного дракона"
 	},
 	{
-		"entry" : 15415,
-		"name" : "Blue Dragonscale"
+		"ID" : 15415,
+		"Name" : "Blue Dragonscale",
+		"NameRU" : "Чешуя синего дракона"
 	},
 	{
-		"entry" : 15416,
-		"name" : "Black Dragonscale"
+		"ID" : 15416,
+		"Name" : "Black Dragonscale",
+		"NameRU" : "Чешуя черного дракона"
 	},
 	{
-		"entry" : 15417,
-		"name" : "Devilsaur Leather"
+		"ID" : 15417,
+		"Name" : "Devilsaur Leather",
+		"NameRU" : "Кожа дьявозавра"
 	},
 	{
-		"entry" : 15419,
-		"name" : "Warbear Leather"
+		"ID" : 15419,
+		"Name" : "Warbear Leather",
+		"NameRU" : "Кожа боевого медведя"
 	},
 	{
-		"entry" : 17012,
-		"name" : "Core Leather"
+		"ID" : 17012,
+		"Name" : "Core Leather",
+		"NameRU" : "Кожа Недр"
 	},
 	{
-		"entry" : 19767,
-		"name" : "Primal Bat Leather"
+		"ID" : 19767,
+		"Name" : "Primal Bat Leather",
+		"NameRU" : "Кожа древней летучей мыши"
 	},
 	{
-		"entry" : 19768,
-		"name" : "Primal Tiger Leather"
+		"ID" : 19768,
+		"Name" : "Primal Tiger Leather",
+		"NameRU" : "Кожа древнего тигра"
 	},
 	{
-		"entry" : 20381,
-		"name" : "Dreamscale"
+		"ID" : 20381,
+		"Name" : "Dreamscale",
+		"NameRU" : "Чешуя сна"
 	},
 	{
-		"entry" : 20500,
-		"name" : "Light Silithid Carapace"
+		"ID" : 20500,
+		"Name" : "Light Silithid Carapace",
+		"NameRU" : "Легкий силитидский панцирь"
 	},
 	{
-		"entry" : 20501,
-		"name" : "Heavy Silithid Carapace"
+		"ID" : 20501,
+		"Name" : "Heavy Silithid Carapace",
+		"NameRU" : "Тяжелый силитидский панцирь"
 	},
 	{
-		"entry" : 25707,
-		"name" : "Fel Hide"
+		"ID" : 25707,
+		"Name" : "Fel Hide",
+		"NameRU" : "Скверношкура"
 	},
 	{
-		"entry" : 25649,
-		"name" : "Knothide Leather Scraps"
+		"ID" : 25649,
+		"Name" : "Knothide Leather Scraps",
+		"NameRU" : "Обрывки узловатой кожи"
 	},
 	{
-		"entry" : 20498,
-		"name" : "Silithid Chitin"
+		"ID" : 20498,
+		"Name" : "Silithid Chitin",
+		"NameRU" : "Хитин силитида"
 	},
 	{
-		"entry" : 23793,
-		"name" : "Heavy Knothide Leather"
+		"ID" : 23793,
+		"Name" : "Heavy Knothide Leather",
+		"NameRU" : "Толстая узловатая кожа"
 	},
 	{
-		"entry" : 25708,
-		"name" : "Thick Clefthoof Leather"
+		"ID" : 25708,
+		"Name" : "Thick Clefthoof Leather",
+		"NameRU" : "Плотная кожа копытня"
 	},
 	{
-		"entry" : 25700,
-		"name" : "Fel Scales"
+		"ID" : 25700,
+		"Name" : "Fel Scales",
+		"NameRU" : "Скверночешуя"
 	},
 	{
-		"entry" : 21887,
-		"name" : "Knothide Leather"
+		"ID" : 21887,
+		"Name" : "Knothide Leather",
+		"NameRU" : "Узловатая кожа"
 	},
 	{
-		"entry" : 25699,
-		"name" : "Crystal Infused Leather"
+		"ID" : 25699,
+		"Name" : "Crystal Infused Leather",
+		"NameRU" : "Пронизанная кристаллами кожа"
 	},
 	{
-		"entry" : 29539,
-		"name" : "Cobra Scales"
+		"ID" : 29539,
+		"Name" : "Cobra Scales",
+		"NameRU" : "Чешуя кобры"
 	},
 	{
-		"entry" : 29547,
-		"name" : "Wind Scales"
+		"ID" : 29547,
+		"Name" : "Wind Scales",
+		"NameRU" : "Чешуя ветра"
 	},
 	{
-		"entry" : 29548,
-		"name" : "Nether Dragonscales"
+		"ID" : 29548,
+		"Name" : "Nether Dragonscales",
+		"NameRU" : "Чешуя дракона Пустоты"
 	},
 	{
-		"entry" : 17967,
-		"name" : "Refined Scale of Onyxia"
+		"ID" : 17967,
+		"Name" : "Refined Scale of Onyxia",
+		"NameRU" : "Утонченная чешуя Ониксии"
 	},
 	{
-		"entry" : 33567,
-		"name" : "Borean Leather Scraps"
+		"ID" : 33567,
+		"Name" : "Borean Leather Scraps",
+		"NameRU" : "Обрывки борейской кожи"
 	},
 	{
-		"entry" : 33568,
-		"name" : "Borean Leather"
+		"ID" : 33568,
+		"Name" : "Borean Leather",
+		"NameRU" : "Борейская кожа"
 	},
 	{
-		"entry" : 38425,
-		"name" : "Heavy Borean Leather"
+		"ID" : 38425,
+		"Name" : "Heavy Borean Leather",
+		"NameRU" : "Толстая борейская кожа"
 	},
 	{
-		"entry" : 38557,
-		"name" : "Icy Dragonscale"
+		"ID" : 38557,
+		"Name" : "Icy Dragonscale",
+		"NameRU" : "Мерзлая чешуя дракона"
 	},
 	{
-		"entry" : 38558,
-		"name" : "Nerubian Chitin"
+		"ID" : 38558,
+		"Name" : "Nerubian Chitin",
+		"NameRU" : "Нерубский хитин"
 	},
 	{
-		"entry" : 38561,
-		"name" : "Jormungar Scale"
+		"ID" : 38561,
+		"Name" : "Jormungar Scale",
+		"NameRU" : "Чешуя йормунгара"
 	},
 	{
-		"entry" : 44128,
-		"name" : "Arctic Fur"
+		"ID" : 44128,
+		"Name" : "Arctic Fur",
+		"NameRU" : "Арктический мех"
 	},
 	{
-		"entry" : 49334,
-		"name" : "Scale of Onyxia 2.0"
+		"ID" : 49334,
+		"Name" : "Scale of Onyxia 2.0",
+		"NameRU" : "Чешуя Ониксии 2.0"
 	}
 ]

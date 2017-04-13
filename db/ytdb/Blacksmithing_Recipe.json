@@ -1,0 +1,1634 @@
+[
+	{
+		"ID" : 3609,
+		"Level" : 35,
+		"Name" : "Plans: Copper Chain Vest",
+		"NameRU" : "Чертеж: медный плетеный нагрудник"
+	},
+	{
+		"ID" : 33792,
+		"Level" : 35,
+		"Name" : "Plans: Heavy Copper Longsword",
+		"NameRU" : "Чертеж: тяжелый медный длинный меч"
+	},
+	{
+		"ID" : 3610,
+		"Level" : 60,
+		"Name" : "Plans: Gemmed Copper Gauntlets",
+		"NameRU" : "Чертеж: украшенные медные рукавицы"
+	},
+	{
+		"ID" : 2881,
+		"Level" : 80,
+		"Name" : "Plans: Runed Copper Breastplate",
+		"NameRU" : "Чертеж: руническая медная кираса"
+	},
+	{
+		"ID" : 6735,
+		"Level" : 100,
+		"Name" : "Plans: Ironforge Breastplate",
+		"NameRU" : "Чертеж: стальгорнская кираса"
+	},
+	{
+		"ID" : 2882,
+		"Level" : 125,
+		"Name" : "Plans: Silvered Bronze Shoulders",
+		"NameRU" : "Чертеж: посеребренные бронзовые наплечники"
+	},
+	{
+		"ID" : 2883,
+		"Level" : 125,
+		"Name" : "Plans: Deadly Bronze Poniard",
+		"NameRU" : "Чертеж: смертоносный бронзовый короткий кинжал"
+	},
+	{
+		"ID" : 5578,
+		"Level" : 130,
+		"Name" : "Plans: Silvered Bronze Breastplate",
+		"NameRU" : "Чертеж: посеребренная бронзовая кираса"
+	},
+	{
+		"ID" : 5543,
+		"Level" : 140,
+		"Name" : "Plans: Iridescent Hammer",
+		"NameRU" : "Чертеж: радужный молот"
+	},
+	{
+		"ID" : 3608,
+		"Level" : 145,
+		"Name" : "Plans: Mighty Iron Hammer",
+		"NameRU" : "Чертеж: тяжелый железный молот"
+	},
+	{
+		"ID" : 3611,
+		"Level" : 145,
+		"Name" : "Plans: Green Iron Boots",
+		"NameRU" : "Чертеж: зеленые железные сапоги"
+	},
+	{
+		"ID" : 3612,
+		"Level" : 150,
+		"Name" : "Plans: Green Iron Gauntlets",
+		"NameRU" : "Чертеж: зеленые железные рукавицы"
+	},
+	{
+		"ID" : 6044,
+		"Level" : 150,
+		"Name" : "Plans: Iron Shield Spike",
+		"NameRU" : "Чертеж: железный шип для щита"
+	},
+	{
+		"ID" : 10424,
+		"Level" : 155,
+		"Name" : "Plans: Silvered Bronze Leggings",
+		"NameRU" : "Чертеж: посеребренные бронзовые поножи"
+	},
+	{
+		"ID" : 10858,
+		"Level" : 155,
+		"Name" : "Plans: Solid Iron Maul",
+		"NameRU" : "Чертеж: прочная железная кувалда"
+	},
+	{
+		"ID" : 3870,
+		"Level" : 160,
+		"Name" : "Plans: Green Iron Shoulders",
+		"NameRU" : "Чертеж: зеленые железные наплечники"
+	},
+	{
+		"ID" : 7978,
+		"Level" : 160,
+		"Name" : "Plans: Barbaric Iron Shoulders",
+		"NameRU" : "Чертеж: варварские железные наплечники"
+	},
+	{
+		"ID" : 7979,
+		"Level" : 160,
+		"Name" : "Plans: Barbaric Iron Breastplate",
+		"NameRU" : "Чертеж: варварская железная кираса"
+	},
+	{
+		"ID" : 12162,
+		"Level" : 160,
+		"Name" : "Plans: Hardened Iron Shortsword",
+		"NameRU" : "Чертеж: закаленный железный короткий меч"
+	},
+	{
+		"ID" : 6045,
+		"Level" : 165,
+		"Name" : "Plans: Iron Counterweight",
+		"NameRU" : "Чертеж: железный противовес"
+	},
+	{
+		"ID" : 3867,
+		"Level" : 170,
+		"Name" : "Plans: Golden Iron Destroyer",
+		"NameRU" : "Чертеж: позолоченный железный разрушитель"
+	},
+	{
+		"ID" : 3872,
+		"Level" : 170,
+		"Name" : "Plans: Golden Scale Leggings",
+		"NameRU" : "Чертеж: золотые чешуйчатые поножи"
+	},
+	{
+		"ID" : 3866,
+		"Level" : 175,
+		"Name" : "Plans: Jade Serpentblade",
+		"NameRU" : "Чертеж: нефритовый змеиный клинок"
+	},
+	{
+		"ID" : 3871,
+		"Level" : 175,
+		"Name" : "Plans: Golden Scale Shoulders",
+		"NameRU" : "Чертеж: золотые чешуйчатые наплечники"
+	},
+	{
+		"ID" : 7980,
+		"Level" : 175,
+		"Name" : "Plans: Barbaric Iron Helm",
+		"NameRU" : "Чертеж: варварский железный шлем"
+	},
+	{
+		"ID" : 7981,
+		"Level" : 180,
+		"Name" : "Plans: Barbaric Iron Boots",
+		"NameRU" : "Чертеж: варварские железные сапоги"
+	},
+	{
+		"ID" : 12163,
+		"Level" : 180,
+		"Name" : "Plans: Moonsteel Broadsword",
+		"NameRU" : "Чертеж: палаш лунной стали"
+	},
+	{
+		"ID" : 3874,
+		"Level" : 185,
+		"Name" : "Plans: Polished Steel Boots",
+		"NameRU" : "Чертеж: полированные стальные сапоги"
+	},
+	{
+		"ID" : 7982,
+		"Level" : 185,
+		"Name" : "Plans: Barbaric Iron Gloves",
+		"NameRU" : "Чертеж: варварские железные перчатки"
+	},
+	{
+		"ID" : 12164,
+		"Level" : 185,
+		"Name" : "Plans: Massive Iron Axe",
+		"NameRU" : "Чертеж: массивный железный топор"
+	},
+	{
+		"ID" : 6046,
+		"Level" : 190,
+		"Name" : "Plans: Steel Weapon Chain",
+		"NameRU" : "Чертеж: стальная цепь для оружия"
+	},
+	{
+		"ID" : 6047,
+		"Level" : 190,
+		"Name" : "Plans: Golden Scale Coif",
+		"NameRU" : "Чертеж: золотой чешуйчатый капюшон"
+	},
+	{
+		"ID" : 12261,
+		"Level" : 190,
+		"Name" : "Plans: Searing Golden Blade",
+		"NameRU" : "Чертеж: пылающий золотой клинок"
+	},
+	{
+		"ID" : 17706,
+		"Level" : 190,
+		"Name" : "Plans: Edge of Winter",
+		"NameRU" : "Чертеж: Кромка Зимы"
+	},
+	{
+		"ID" : 3873,
+		"Level" : 195,
+		"Name" : "Plans: Golden Scale Cuirass",
+		"NameRU" : "Чертеж: золотой чешуйчатый панцирь"
+	},
+	{
+		"ID" : 3868,
+		"Level" : 200,
+		"Name" : "Plans: Frost Tiger Blade",
+		"NameRU" : "Чертеж: клинок ледяного тигра"
+	},
+	{
+		"ID" : 3869,
+		"Level" : 200,
+		"Name" : "Plans: Shadow Crescent Axe",
+		"NameRU" : "Чертеж: серповидная секира тени"
+	},
+	{
+		"ID" : 3875,
+		"Level" : 200,
+		"Name" : "Plans: Golden Scale Boots",
+		"NameRU" : "Чертеж: золотые чешуйчатые сапоги"
+	},
+	{
+		"ID" : 10713,
+		"Level" : 200,
+		"Name" : "Plans: Inlaid Mithril Cylinder",
+		"NameRU" : "Чертеж: инкрустированный мифриловый цилиндр"
+	},
+	{
+		"ID" : 9367,
+		"Level" : 205,
+		"Name" : "Plans: Golden Scale Gauntlets",
+		"NameRU" : "Чертеж: золотые чешуйчатые рукавицы"
+	},
+	{
+		"ID" : 7975,
+		"Level" : 210,
+		"Name" : "Plans: Heavy Mithril Pants",
+		"NameRU" : "Чертеж: тяжелые мифриловые штаны"
+	},
+	{
+		"ID" : 7976,
+		"Level" : 215,
+		"Name" : "Plans: Mithril Shield Spike",
+		"NameRU" : "Чертеж: мифриловый шип для щита"
+	},
+	{
+		"ID" : 7995,
+		"Level" : 215,
+		"Name" : "Plans: Mithril Scale Bracers",
+		"NameRU" : "Чертеж: мифриловые чешуйчатые наручи"
+	},
+	{
+		"ID" : 7983,
+		"Level" : 220,
+		"Name" : "Plans: Ornate Mithril Pants",
+		"NameRU" : "Чертеж: изысканные мифриловые штаны"
+	},
+	{
+		"ID" : 7984,
+		"Level" : 220,
+		"Name" : "Plans: Ornate Mithril Gloves",
+		"NameRU" : "Чертеж: изысканные мифриловые перчатки"
+	},
+	{
+		"ID" : 7992,
+		"Level" : 220,
+		"Name" : "Plans: Blue Glittering Axe",
+		"NameRU" : "Чертеж: синий блистающий топор"
+	},
+	{
+		"ID" : 7985,
+		"Level" : 225,
+		"Name" : "Plans: Ornate Mithril Shoulder",
+		"NameRU" : "Чертеж: изысканный мифриловый наплечник"
+	},
+	{
+		"ID" : 8029,
+		"Level" : 225,
+		"Name" : "Plans: Wicked Mithril Blade",
+		"NameRU" : "Чертеж: гибельный мифриловый клинок"
+	},
+	{
+		"ID" : 7994,
+		"Level" : 230,
+		"Name" : "Plans: Orcish War Leggings",
+		"NameRU" : "Чертеж: орочьи боевые поножи"
+	},
+	{
+		"ID" : 7989,
+		"Level" : 235,
+		"Name" : "Plans: Mithril Spurs",
+		"NameRU" : "Чертеж: мифриловые шпоры"
+	},
+	{
+		"ID" : 7991,
+		"Level" : 235,
+		"Name" : "Plans: Mithril Scale Shoulders",
+		"NameRU" : "Чертеж: мифриловые чешуйчатые наплечники"
+	},
+	{
+		"ID" : 7993,
+		"Level" : 240,
+		"Name" : "Plans: Dazzling Mithril Rapier",
+		"NameRU" : "Чертеж: ослепительная мифриловая рапира"
+	},
+	{
+		"ID" : 7986,
+		"Level" : 240,
+		"Name" : "Plans: Ornate Mithril Breastplate",
+		"NameRU" : "Чертеж: изысканная мифриловая кираса"
+	},
+	{
+		"ID" : 7990,
+		"Level" : 245,
+		"Name" : "Plans: Heavy Mithril Helm",
+		"NameRU" : "Чертеж: тяжелый мифриловый шлем"
+	},
+	{
+		"ID" : 8028,
+		"Level" : 245,
+		"Name" : "Plans: Runed Mithril Hammer",
+		"NameRU" : "Чертеж: рунический мифриловый молот"
+	},
+	{
+		"ID" : 7987,
+		"Level" : 245,
+		"Name" : "Plans: Ornate Mithril Helm",
+		"NameRU" : "Чертеж: изысканный мифриловый шлем"
+	},
+	{
+		"ID" : 7988,
+		"Level" : 245,
+		"Name" : "Plans: Ornate Mithril Boots",
+		"NameRU" : "Чертеж: изысканные мифриловые сапоги"
+	},
+	{
+		"ID" : 12682,
+		"Level" : 250,
+		"Name" : "Plans: Thorium Armor",
+		"NameRU" : "Чертеж: ториевая броня"
+	},
+	{
+		"ID" : 12683,
+		"Level" : 250,
+		"Name" : "Plans: Thorium Belt",
+		"NameRU" : "Чертеж: ториевый пояс"
+	},
+	{
+		"ID" : 8030,
+		"Level" : 255,
+		"Name" : "Plans: Ebon Shiv",
+		"NameRU" : "Чертеж: эбеновый нож"
+	},
+	{
+		"ID" : 12684,
+		"Level" : 255,
+		"Name" : "Plans: Thorium Bracers",
+		"NameRU" : "Чертеж: ториевые наручи"
+	},
+	{
+		"ID" : 12685,
+		"Level" : 260,
+		"Name" : "Plans: Radiant Belt",
+		"NameRU" : "Чертеж: светозарный пояс"
+	},
+	{
+		"ID" : 11610,
+		"Level" : 265,
+		"Name" : "Plans: Dark Iron Pulverizer",
+		"NameRU" : "Чертеж: распылитель из черного железа"
+	},
+	{
+		"ID" : 12687,
+		"Level" : 265,
+		"Name" : "Plans: Imperial Plate Shoulders",
+		"NameRU" : "Чертеж: императорские латные наплечники"
+	},
+	{
+		"ID" : 12688,
+		"Level" : 265,
+		"Name" : "Plans: Imperial Plate Belt",
+		"NameRU" : "Чертеж: императорский латный пояс"
+	},
+	{
+		"ID" : 11614,
+		"Level" : 270,
+		"Name" : "Plans: Dark Iron Mail",
+		"NameRU" : "Чертеж: кольчуга из черного железа"
+	},
+	{
+		"ID" : 12689,
+		"Level" : 270,
+		"Name" : "Plans: Radiant Breastplate",
+		"NameRU" : "Чертеж: светозарная кираса"
+	},
+	{
+		"ID" : 12690,
+		"Level" : 270,
+		"Name" : "Plans: Imperial Plate Bracers",
+		"NameRU" : "Чертеж: императорские латные наручи"
+	},
+	{
+		"ID" : 12691,
+		"Level" : 270,
+		"Name" : "Plans: Wildthorn Mail",
+		"NameRU" : "Чертеж: доспех дикого терна"
+	},
+	{
+		"ID" : 11611,
+		"Level" : 275,
+		"Name" : "Plans: Dark Iron Sunderer",
+		"NameRU" : "Чертеж: рассекатель из черного железа"
+	},
+	{
+		"ID" : 12692,
+		"Level" : 275,
+		"Name" : "Plans: Thorium Shield Spike",
+		"NameRU" : "Чертеж: ториевый шип для щита"
+	},
+	{
+		"ID" : 12819,
+		"Level" : 275,
+		"Name" : "Plans: Ornate Thorium Handaxe",
+		"NameRU" : "Чертеж: изысканный ториевый одноручный топор"
+	},
+	{
+		"ID" : 12821,
+		"Level" : 275,
+		"Name" : "Plans: Dawn's Edge",
+		"NameRU" : "Чертеж: Лезвие Рассвета"
+	},
+	{
+		"ID" : 11615,
+		"Level" : 280,
+		"Name" : "Plans: Dark Iron Shoulders",
+		"NameRU" : "Чертеж: наплечники из черного железа"
+	},
+	{
+		"ID" : 12693,
+		"Level" : 280,
+		"Name" : "Plans: Thorium Boots",
+		"NameRU" : "Чертеж: ториевые сапоги"
+	},
+	{
+		"ID" : 12694,
+		"Level" : 280,
+		"Name" : "Plans: Thorium Helm",
+		"NameRU" : "Чертеж: ториевый шлем"
+	},
+	{
+		"ID" : 12823,
+		"Level" : 280,
+		"Name" : "Plans: Huge Thorium Battleaxe",
+		"NameRU" : "Чертеж: огромный ториевый боевой топор"
+	},
+	{
+		"ID" : 12824,
+		"Level" : 280,
+		"Name" : "Plans: Enchanted Battlehammer",
+		"NameRU" : "Чертеж: зачарованный боевой молот"
+	},
+	{
+		"ID" : 12825,
+		"Level" : 280,
+		"Name" : "Plans: Blazing Rapier",
+		"NameRU" : "Чертеж: пылающая рапира"
+	},
+	{
+		"ID" : 11612,
+		"Level" : 285,
+		"Name" : "Plans: Dark Iron Plate",
+		"NameRU" : "Чертеж: латы из черного железа"
+	},
+	{
+		"ID" : 12695,
+		"Level" : 285,
+		"Name" : "Plans: Radiant Gloves",
+		"NameRU" : "Чертеж: светозарные перчатки"
+	},
+	{
+		"ID" : 12696,
+		"Level" : 285,
+		"Name" : "Plans: Demon Forged Breastplate",
+		"NameRU" : "Чертеж: выкованная демоном кираса"
+	},
+	{
+		"ID" : 12827,
+		"Level" : 285,
+		"Name" : "Plans: Serenity",
+		"NameRU" : "Чертеж: Безмятежность"
+	},
+	{
+		"ID" : 12697,
+		"Level" : 290,
+		"Name" : "Plans: Radiant Boots",
+		"NameRU" : "Чертеж: светозарные сапоги"
+	},
+	{
+		"ID" : 12699,
+		"Level" : 290,
+		"Name" : "Plans: Fiery Plate Gauntlets",
+		"NameRU" : "Чертеж: огненные латные рукавицы"
+	},
+	{
+		"ID" : 12828,
+		"Level" : 290,
+		"Name" : "Plans: Volcanic Hammer",
+		"NameRU" : "Чертеж: вулканический молот"
+	},
+	{
+		"ID" : 12830,
+		"Level" : 290,
+		"Name" : "Plans: Corruption",
+		"NameRU" : "Чертеж: Порча"
+	},
+	{
+		"ID" : 19202,
+		"Level" : 290,
+		"Name" : "Plans: Heavy Timbermaw Belt",
+		"NameRU" : "Чертеж: тяжелый пояс Древобрюхов"
+	},
+	{
+		"ID" : 19203,
+		"Level" : 290,
+		"Name" : "Plans: Girdle of the Dawn",
+		"NameRU" : "Чертеж: ремень рассвета"
+	},
+	{
+		"ID" : 12698,
+		"Level" : 290,
+		"Name" : "Plans: Dawnbringer Shoulders",
+		"NameRU" : "Чертеж: наплечники Вестника Рассвета"
+	},
+	{
+		"ID" : 12700,
+		"Level" : 295,
+		"Name" : "Plans: Imperial Plate Boots",
+		"NameRU" : "Чертеж: императорские латные сапоги"
+	},
+	{
+		"ID" : 12701,
+		"Level" : 295,
+		"Name" : "Plans: Imperial Plate Helm",
+		"NameRU" : "Чертеж: императорский латный шлем"
+	},
+	{
+		"ID" : 12702,
+		"Level" : 295,
+		"Name" : "Plans: Radiant Circlet",
+		"NameRU" : "Чертеж: светозарный венец"
+	},
+	{
+		"ID" : 12703,
+		"Level" : 295,
+		"Name" : "Plans: Storm Gauntlets",
+		"NameRU" : "Чертеж: рукавицы Бури"
+	},
+	{
+		"ID" : 17049,
+		"Level" : 295,
+		"Name" : "Plans: Fiery Chain Girdle",
+		"NameRU" : "Чертеж: пламенный плетеный ремень"
+	},
+	{
+		"ID" : 17051,
+		"Level" : 295,
+		"Name" : "Plans: Dark Iron Bracers",
+		"NameRU" : "Чертеж: наручи из черного железа"
+	},
+	{
+		"ID" : 12704,
+		"Level" : 300,
+		"Name" : "Plans: Thorium Leggings",
+		"NameRU" : "Чертеж: ториевые поножи"
+	},
+	{
+		"ID" : 12705,
+		"Level" : 300,
+		"Name" : "Plans: Imperial Plate Chest",
+		"NameRU" : "Чертеж: императорское зерцало"
+	},
+	{
+		"ID" : 12706,
+		"Level" : 300,
+		"Name" : "Plans: Runic Plate Shoulders",
+		"NameRU" : "Чертеж: рунические латные наплечники"
+	},
+	{
+		"ID" : 12707,
+		"Level" : 300,
+		"Name" : "Plans: Runic Plate Boots",
+		"NameRU" : "Чертеж: рунические латные сапоги"
+	},
+	{
+		"ID" : 12711,
+		"Level" : 300,
+		"Name" : "Plans: Whitesoul Helm",
+		"NameRU" : "Чертеж: шлем чистой души"
+	},
+	{
+		"ID" : 12713,
+		"Level" : 300,
+		"Name" : "Plans: Radiant Leggings",
+		"NameRU" : "Чертеж: светозарные поножи"
+	},
+	{
+		"ID" : 12714,
+		"Level" : 300,
+		"Name" : "Plans: Runic Plate Helm",
+		"NameRU" : "Чертеж: рунический латный шлем"
+	},
+	{
+		"ID" : 12715,
+		"Level" : 300,
+		"Name" : "Plans: Imperial Plate Leggings",
+		"NameRU" : "Чертеж: императорские латные поножи"
+	},
+	{
+		"ID" : 12716,
+		"Level" : 300,
+		"Name" : "Plans: Helm of the Great Chief",
+		"NameRU" : "Чертеж: шлем Великого Вождя"
+	},
+	{
+		"ID" : 12717,
+		"Level" : 300,
+		"Name" : "Plans: Lionheart Helm",
+		"NameRU" : "Чертеж: шлем Львиного сердца"
+	},
+	{
+		"ID" : 12718,
+		"Level" : 300,
+		"Name" : "Plans: Runic Breastplate",
+		"NameRU" : "Чертеж: руническая кираса"
+	},
+	{
+		"ID" : 12719,
+		"Level" : 300,
+		"Name" : "Plans: Runic Plate Leggings",
+		"NameRU" : "Чертеж: рунические латные поножи"
+	},
+	{
+		"ID" : 12720,
+		"Level" : 300,
+		"Name" : "Plans: Stronghold Gauntlets",
+		"NameRU" : "Чертеж: рукавицы Цитадели"
+	},
+	{
+		"ID" : 12725,
+		"Level" : 300,
+		"Name" : "Plans: Enchanted Thorium Helm",
+		"NameRU" : "Чертеж: зачарованный ториевый шлем"
+	},
+	{
+		"ID" : 12726,
+		"Level" : 300,
+		"Name" : "Plans: Enchanted Thorium Leggings",
+		"NameRU" : "Чертеж: зачарованные ториевые поножи"
+	},
+	{
+		"ID" : 12727,
+		"Level" : 300,
+		"Name" : "Plans: Enchanted Thorium Breastplate",
+		"NameRU" : "Чертеж: зачарованная ториевая кираса"
+	},
+	{
+		"ID" : 12728,
+		"Level" : 300,
+		"Name" : "Plans: Invulnerable Mail",
+		"NameRU" : "Чертеж: неуязвимый доспех"
+	},
+	{
+		"ID" : 12833,
+		"Level" : 300,
+		"Name" : "Plans: Hammer of the Titans",
+		"NameRU" : "Чертеж: молот титанов"
+	},
+	{
+		"ID" : 12834,
+		"Level" : 300,
+		"Name" : "Plans: Arcanite Champion",
+		"NameRU" : "Чертеж: арканитовый защитник"
+	},
+	{
+		"ID" : 12835,
+		"Level" : 300,
+		"Name" : "Plans: Annihilator",
+		"NameRU" : "Чертеж: аннигилятор"
+	},
+	{
+		"ID" : 12836,
+		"Level" : 300,
+		"Name" : "Plans: Frostguard",
+		"NameRU" : "Чертеж: ледяной страж"
+	},
+	{
+		"ID" : 12837,
+		"Level" : 300,
+		"Name" : "Plans: Masterwork Stormhammer",
+		"NameRU" : "Чертеж: молот бури искусной работы"
+	},
+	{
+		"ID" : 12838,
+		"Level" : 300,
+		"Name" : "Plans: Arcanite Reaper",
+		"NameRU" : "Чертеж: арканитовый жнец"
+	},
+	{
+		"ID" : 12839,
+		"Level" : 300,
+		"Name" : "Plans: Heartseeker",
+		"NameRU" : "Чертеж: пронзатель сердец"
+	},
+	{
+		"ID" : 17052,
+		"Level" : 300,
+		"Name" : "Plans: Dark Iron Leggings",
+		"NameRU" : "Чертеж: поножи из черного железа"
+	},
+	{
+		"ID" : 17053,
+		"Level" : 300,
+		"Name" : "Plans: Fiery Chain Shoulders",
+		"NameRU" : "Чертеж: пламенные плетеные наплечники"
+	},
+	{
+		"ID" : 17059,
+		"Level" : 300,
+		"Name" : "Plans: Dark Iron Reaver",
+		"NameRU" : "Чертеж: разоритель из черного железа"
+	},
+	{
+		"ID" : 17060,
+		"Level" : 300,
+		"Name" : "Plans: Dark Iron Destroyer",
+		"NameRU" : "Чертеж: разрушитель из черного железа"
+	},
+	{
+		"ID" : 18264,
+		"Level" : 300,
+		"Name" : "Plans: Elemental Sharpening Stone",
+		"NameRU" : "Чертеж: точило стихий"
+	},
+	{
+		"ID" : 18592,
+		"Level" : 300,
+		"Name" : "Plans: Sulfuron Hammer",
+		"NameRU" : "Чертеж: сульфуронский молот"
+	},
+	{
+		"ID" : 19204,
+		"Level" : 300,
+		"Name" : "Plans: Heavy Timbermaw Boots",
+		"NameRU" : "Чертеж: тяжелые сапоги Древобрюхов"
+	},
+	{
+		"ID" : 19205,
+		"Level" : 300,
+		"Name" : "Plans: Gloves of the Dawn",
+		"NameRU" : "Чертеж: перчатки рассвета"
+	},
+	{
+		"ID" : 19206,
+		"Level" : 300,
+		"Name" : "Plans: Dark Iron Helm",
+		"NameRU" : "Чертеж: шлем из черного железа"
+	},
+	{
+		"ID" : 19207,
+		"Level" : 300,
+		"Name" : "Plans: Dark Iron Gauntlets",
+		"NameRU" : "Чертеж: рукавицы из черного железа"
+	},
+	{
+		"ID" : 19208,
+		"Level" : 300,
+		"Name" : "Plans: Black Amnesty",
+		"NameRU" : "Чертеж: Черное прощение"
+	},
+	{
+		"ID" : 19209,
+		"Level" : 300,
+		"Name" : "Plans: Blackfury",
+		"NameRU" : "Чертеж: Черное неистовство"
+	},
+	{
+		"ID" : 19210,
+		"Level" : 300,
+		"Name" : "Plans: Ebon Hand",
+		"NameRU" : "Чертеж: эбеновая рука"
+	},
+	{
+		"ID" : 19211,
+		"Level" : 300,
+		"Name" : "Plans: Blackguard",
+		"NameRU" : "Чертеж: Черный Страж"
+	},
+	{
+		"ID" : 19212,
+		"Level" : 300,
+		"Name" : "Plans: Nightfall",
+		"NameRU" : "Чертеж: Сумерки"
+	},
+	{
+		"ID" : 19776,
+		"Level" : 300,
+		"Name" : "Plans: Bloodsoul Breastplate",
+		"NameRU" : "Чертеж: кираса кровавого духа"
+	},
+	{
+		"ID" : 19777,
+		"Level" : 300,
+		"Name" : "Plans: Bloodsoul Shoulders",
+		"NameRU" : "Чертеж: наплечники кровавого духа"
+	},
+	{
+		"ID" : 19778,
+		"Level" : 300,
+		"Name" : "Plans: Bloodsoul Gauntlets",
+		"NameRU" : "Чертеж: рукавицы кровавого духа"
+	},
+	{
+		"ID" : 19779,
+		"Level" : 300,
+		"Name" : "Plans: Darksoul Breastplate",
+		"NameRU" : "Чертеж: кираса темного духа"
+	},
+	{
+		"ID" : 19780,
+		"Level" : 300,
+		"Name" : "Plans: Darksoul Leggings",
+		"NameRU" : "Чертеж: поножи темного духа"
+	},
+	{
+		"ID" : 19781,
+		"Level" : 300,
+		"Name" : "Plans: Darksoul Shoulders",
+		"NameRU" : "Чертеж: наплечники темного духа"
+	},
+	{
+		"ID" : 20040,
+		"Level" : 300,
+		"Name" : "Plans: Dark Iron Boots",
+		"NameRU" : "Чертеж: сапоги из черного железа"
+	},
+	{
+		"ID" : 20553,
+		"Level" : 300,
+		"Name" : "Plans: Darkrune Gauntlets",
+		"NameRU" : "Чертеж: темнорунические рукавицы"
+	},
+	{
+		"ID" : 20554,
+		"Level" : 300,
+		"Name" : "Plans: Darkrune Breastplate",
+		"NameRU" : "Чертеж: темноруническая кираса"
+	},
+	{
+		"ID" : 22209,
+		"Level" : 300,
+		"Name" : "Plans: Heavy Obsidian Belt",
+		"NameRU" : "Чертеж: тяжелый обсидиановый пояс"
+	},
+	{
+		"ID" : 22214,
+		"Level" : 300,
+		"Name" : "Plans: Light Obsidian Belt",
+		"NameRU" : "Чертеж: легкий обсидиановый пояс"
+	},
+	{
+		"ID" : 22219,
+		"Level" : 300,
+		"Name" : "Plans: Jagged Obsidian Shield",
+		"NameRU" : "Чертеж: звездчатый обсидиановый щит"
+	},
+	{
+		"ID" : 22220,
+		"Level" : 300,
+		"Name" : "Plans: Black Grasp of the Destroyer",
+		"NameRU" : "Чертеж: черный напоясник разрушителя"
+	},
+	{
+		"ID" : 22221,
+		"Level" : 300,
+		"Name" : "Plans: Obsidian Mail Tunic",
+		"NameRU" : "Чертеж: обсидиановый кольчужный мундир"
+	},
+	{
+		"ID" : 22222,
+		"Level" : 300,
+		"Name" : "Plans: Thick Obsidian Breastplate",
+		"NameRU" : "Чертеж: толстая обсидиановая кираса"
+	},
+	{
+		"ID" : 22388,
+		"Level" : 300,
+		"Name" : "Plans: Titanic Leggings",
+		"NameRU" : "Чертеж: поножи титанов"
+	},
+	{
+		"ID" : 22389,
+		"Level" : 300,
+		"Name" : "Plans: Sageblade",
+		"NameRU" : "Чертеж: клинок мудреца"
+	},
+	{
+		"ID" : 22390,
+		"Level" : 300,
+		"Name" : "Plans: Persuader",
+		"NameRU" : "Чертеж: Увещеватель"
+	},
+	{
+		"ID" : 22766,
+		"Level" : 300,
+		"Name" : "Plans: Ironvine Breastplate",
+		"NameRU" : "Чертеж: кираса железной лозы"
+	},
+	{
+		"ID" : 22767,
+		"Level" : 300,
+		"Name" : "Plans: Ironvine Gloves",
+		"NameRU" : "Чертеж: перчатки железной лозы"
+	},
+	{
+		"ID" : 22768,
+		"Level" : 300,
+		"Name" : "Plans: Ironvine Belt",
+		"NameRU" : "Чертеж: пояс железной лозы"
+	},
+	{
+		"ID" : 20555,
+		"Level" : 300,
+		"Name" : "Plans: Darkrune Helm",
+		"NameRU" : "Чертеж: темнорунический шлем"
+	},
+	{
+		"ID" : 23590,
+		"Level" : 325,
+		"Name" : "Plans: Adamantite Maul",
+		"NameRU" : "Чертеж: адамантитовая кувалда"
+	},
+	{
+		"ID" : 23591,
+		"Level" : 330,
+		"Name" : "Plans: Adamantite Cleaver",
+		"NameRU" : "Чертеж: адамантитовый колун"
+	},
+	{
+		"ID" : 23592,
+		"Level" : 330,
+		"Name" : "Plans: Adamantite Dagger",
+		"NameRU" : "Чертеж: адамантитовый кинжал"
+	},
+	{
+		"ID" : 23593,
+		"Level" : 335,
+		"Name" : "Plans: Adamantite Rapier",
+		"NameRU" : "Чертеж: адамантитовая шпага"
+	},
+	{
+		"ID" : 23594,
+		"Level" : 335,
+		"Name" : "Plans: Adamantite Plate Bracers",
+		"NameRU" : "Чертеж: адамантитовые латные наручи"
+	},
+	{
+		"ID" : 23595,
+		"Level" : 335,
+		"Name" : "Plans: Adamantite Plate Gloves",
+		"NameRU" : "Чертеж: адамантитовые латные перчатки"
+	},
+	{
+		"ID" : 33186,
+		"Level" : 335,
+		"Name" : "Plans: Adamantite Weapon Chain",
+		"NameRU" : "Чертеж: адамантитовая оружейная цепь"
+	},
+	{
+		"ID" : 35296,
+		"Level" : 335,
+		"Name" : "Plans: Adamantite Weapon Chain",
+		"NameRU" : "Чертеж: адамантитовая оружейная цепь"
+	},
+	{
+		"ID" : 23596,
+		"Level" : 340,
+		"Name" : "Plans: Adamantite Breastplate",
+		"NameRU" : "Чертеж: адамантитовая кираса"
+	},
+	{
+		"ID" : 23638,
+		"Level" : 340,
+		"Name" : "Plans: Lesser Ward of Shielding",
+		"NameRU" : "Чертеж: простой оберег"
+	},
+	{
+		"ID" : 28632,
+		"Level" : 350,
+		"Name" : "Plans: Adamantite Weightstone",
+		"NameRU" : "Чертеж: адамантитовое грузило"
+	},
+	{
+		"ID" : 23618,
+		"Level" : 350,
+		"Name" : "Plans: Adamantite Sharpening Stone",
+		"NameRU" : "Чертеж: адамантитовое точило"
+	},
+	{
+		"ID" : 25526,
+		"Level" : 350,
+		"Name" : "Plans: Greater Rune of Warding",
+		"NameRU" : "Чертеж: сильная охранная руна"
+	},
+	{
+		"ID" : 25846,
+		"Level" : 350,
+		"Name" : "Plans: Adamantite Rod",
+		"NameRU" : "Чертеж: адамантитовый жезл"
+	},
+	{
+		"ID" : 23601,
+		"Level" : 350,
+		"Name" : "Plans: Flamebane Bracers",
+		"NameRU" : "Чертеж: наручи огненной гибели"
+	},
+	{
+		"ID" : 23597,
+		"Level" : 355,
+		"Name" : "Plans: Enchanted Adamantite Belt",
+		"NameRU" : "Чертеж: зачарованный адамантитовый пояс"
+	},
+	{
+		"ID" : 23598,
+		"Level" : 355,
+		"Name" : "Plans: Enchanted Adamantite Boots",
+		"NameRU" : "Чертеж: зачарованные адамантитовые сапоги"
+	},
+	{
+		"ID" : 23602,
+		"Level" : 355,
+		"Name" : "Plans: Flamebane Helm",
+		"NameRU" : "Чертеж: шлем огненной гибели"
+	},
+	{
+		"ID" : 23619,
+		"Level" : 360,
+		"Name" : "Plans: Felsteel Shield Spike",
+		"NameRU" : "Чертеж: шип для щита из оскверненной стали"
+	},
+	{
+		"ID" : 25847,
+		"Level" : 360,
+		"Name" : "Plans: Eternium Rod",
+		"NameRU" : "Чертеж: этерниевый жезл"
+	},
+	{
+		"ID" : 23603,
+		"Level" : 360,
+		"Name" : "Plans: Flamebane Gloves",
+		"NameRU" : "Чертеж: перчатки огненной гибели"
+	},
+	{
+		"ID" : 24002,
+		"Level" : 360,
+		"Name" : "Plans: Felsteel Shield Spike",
+		"NameRU" : "Чертеж: шип для щита из оскверненной стали"
+	},
+	{
+		"ID" : 23599,
+		"Level" : 360,
+		"Name" : "Plans: Enchanted Adamantite Breastplate",
+		"NameRU" : "Чертеж: зачарованная адамантитовая кираса"
+	},
+	{
+		"ID" : 23605,
+		"Level" : 360,
+		"Name" : "Plans: Felsteel Gloves",
+		"NameRU" : "Чертеж: перчатки из оскверненной стали"
+	},
+	{
+		"ID" : 23606,
+		"Level" : 360,
+		"Name" : "Plans: Felsteel Leggings",
+		"NameRU" : "Чертеж: поножи из оскверненной стали"
+	},
+	{
+		"ID" : 23608,
+		"Level" : 360,
+		"Name" : "Plans: Khorium Belt",
+		"NameRU" : "Чертеж: кориевый пояс"
+	},
+	{
+		"ID" : 23609,
+		"Level" : 360,
+		"Name" : "Plans: Khorium Pants",
+		"NameRU" : "Чертеж: кориевые штаны"
+	},
+	{
+		"ID" : 23633,
+		"Level" : 365,
+		"Name" : "Plans: Runic Hammer",
+		"NameRU" : "Чертеж: рунический молот"
+	},
+	{
+		"ID" : 23628,
+		"Level" : 365,
+		"Name" : "Plans: Blessed Bracers",
+		"NameRU" : "Чертеж: благословленные наручи"
+	},
+	{
+		"ID" : 23626,
+		"Level" : 365,
+		"Name" : "Plans: Black Felsteel Bracers",
+		"NameRU" : "Чертеж: черные наручи из оскверненной стали"
+	},
+	{
+		"ID" : 23636,
+		"Level" : 365,
+		"Name" : "Plans: Dirge",
+		"NameRU" : "Чертеж: Погребальный Плач"
+	},
+	{
+		"ID" : 23625,
+		"Level" : 365,
+		"Name" : "Plans: Oathkeeper's Helm",
+		"NameRU" : "Чертеж: шлем Хранителя клятвы"
+	},
+	{
+		"ID" : 23635,
+		"Level" : 365,
+		"Name" : "Plans: Eternium Runed Blade",
+		"NameRU" : "Чертеж: этерниевый рунический клинок"
+	},
+	{
+		"ID" : 23600,
+		"Level" : 365,
+		"Name" : "Plans: Enchanted Adamantite Leggings",
+		"NameRU" : "Чертеж: зачарованные адамантитовые поножи"
+	},
+	{
+		"ID" : 23604,
+		"Level" : 365,
+		"Name" : "Plans: Flamebane Breastplate",
+		"NameRU" : "Чертеж: кираса огненной гибели"
+	},
+	{
+		"ID" : 23607,
+		"Level" : 365,
+		"Name" : "Plans: Felsteel Helm",
+		"NameRU" : "Чертеж: шлем из оскверненной стали"
+	},
+	{
+		"ID" : 23610,
+		"Level" : 365,
+		"Name" : "Plans: Khorium Boots",
+		"NameRU" : "Чертеж: кориевые сапоги"
+	},
+	{
+		"ID" : 23611,
+		"Level" : 365,
+		"Name" : "Plans: Ragesteel Gloves",
+		"NameRU" : "Чертеж: перчатки Яростной стали"
+	},
+	{
+		"ID" : 23612,
+		"Level" : 365,
+		"Name" : "Plans: Ragesteel Helm",
+		"NameRU" : "Чертеж: шлем Яростной стали"
+	},
+	{
+		"ID" : 23620,
+		"Level" : 365,
+		"Name" : "Plans: Felfury Gauntlets",
+		"NameRU" : "Чертеж: рукавицы Темной ярости"
+	},
+	{
+		"ID" : 23621,
+		"Level" : 365,
+		"Name" : "Plans: Gauntlets of the Iron Tower",
+		"NameRU" : "Чертеж: рукавицы Железной башни"
+	},
+	{
+		"ID" : 23622,
+		"Level" : 365,
+		"Name" : "Plans: Steelgrip Gauntlets",
+		"NameRU" : "Чертеж: рукавицы стальной хватки"
+	},
+	{
+		"ID" : 23623,
+		"Level" : 365,
+		"Name" : "Plans: Storm Helm",
+		"NameRU" : "Чертеж: шлем бури"
+	},
+	{
+		"ID" : 23624,
+		"Level" : 365,
+		"Name" : "Plans: Helm of the Stalwart Defender",
+		"NameRU" : "Чертеж: шлем стойкого защитника"
+	},
+	{
+		"ID" : 23627,
+		"Level" : 365,
+		"Name" : "Plans: Bracers of the Green Fortress",
+		"NameRU" : "Чертеж: наручи Зеленой крепости"
+	},
+	{
+		"ID" : 23629,
+		"Level" : 365,
+		"Name" : "Plans: Felsteel Longblade",
+		"NameRU" : "Чертеж: длинный меч из оскверненной стали"
+	},
+	{
+		"ID" : 23630,
+		"Level" : 365,
+		"Name" : "Plans: Khorium Champion",
+		"NameRU" : "Чертеж: кориевый защитник"
+	},
+	{
+		"ID" : 23631,
+		"Level" : 365,
+		"Name" : "Plans: Fel Edged Battleaxe",
+		"NameRU" : "Чертеж: боевой топор с кромкой Скверны"
+	},
+	{
+		"ID" : 23632,
+		"Level" : 365,
+		"Name" : "Plans: Felsteel Reaper",
+		"NameRU" : "Чертеж: жнец из оскверненной стали"
+	},
+	{
+		"ID" : 23634,
+		"Level" : 365,
+		"Name" : "Plans: Fel Hardened Maul",
+		"NameRU" : "Чертеж: закаленная Скверной кувалда"
+	},
+	{
+		"ID" : 23637,
+		"Level" : 365,
+		"Name" : "Plans: Hand of Eternity",
+		"NameRU" : "Чертеж: Рука Вечности"
+	},
+	{
+		"ID" : 33174,
+		"Level" : 365,
+		"Name" : "Plans: Ragesteel Shoulders",
+		"NameRU" : "Чертеж: наплечники из яростной стали"
+	},
+	{
+		"ID" : 33954,
+		"Level" : 365,
+		"Name" : "Plans: Hammer of Righteous Might",
+		"NameRU" : "Чертеж: молот праведной мощи"
+	},
+	{
+		"ID" : 35208,
+		"Level" : 365,
+		"Name" : "Plans: Sunblessed Gauntlets",
+		"NameRU" : "Чертеж: рукавицы Солнечного благословения"
+	},
+	{
+		"ID" : 35209,
+		"Level" : 365,
+		"Name" : "Plans: Hard Khorium Battlefists",
+		"NameRU" : "Чертеж: кулачные перчатки из закаленного кория"
+	},
+	{
+		"ID" : 35210,
+		"Level" : 365,
+		"Name" : "Plans: Sunblessed Breastplate",
+		"NameRU" : "Чертеж: кираса Солнечного благословения"
+	},
+	{
+		"ID" : 35211,
+		"Level" : 365,
+		"Name" : "Plans: Hard Khorium Battleplate",
+		"NameRU" : "Чертеж: боевой доспех из закаленного кория"
+	},
+	{
+		"ID" : 35553,
+		"Level" : 365,
+		"Name" : "Plans: Hard Khorium Battlefists",
+		"NameRU" : "Чертеж: Боевые перчатки из закаленного кория"
+	},
+	{
+		"ID" : 35555,
+		"Level" : 365,
+		"Name" : "Plans: Sunblessed Breastplate",
+		"NameRU" : "Чертеж: кираса солнечного благословения"
+	},
+	{
+		"ID" : 23613,
+		"Level" : 370,
+		"Name" : "Plans: Ragesteel Breastplate",
+		"NameRU" : "Чертеж: кираса Яростной стали"
+	},
+	{
+		"ID" : 23615,
+		"Level" : 370,
+		"Name" : "Plans: Swiftsteel Gloves",
+		"NameRU" : "Чертеж: перчатки из быстростали"
+	},
+	{
+		"ID" : 23617,
+		"Level" : 370,
+		"Name" : "Plans: Earthpeace Breastplate",
+		"NameRU" : "Чертеж: кираса Мира"
+	},
+	{
+		"ID" : 31390,
+		"Level" : 375,
+		"Name" : "Plans: Wildguard Breastplate",
+		"NameRU" : "Чертеж: кираса дикого стража"
+	},
+	{
+		"ID" : 31391,
+		"Level" : 375,
+		"Name" : "Plans: Wildguard Leggings",
+		"NameRU" : "Чертеж: поножи дикого стража"
+	},
+	{
+		"ID" : 31392,
+		"Level" : 375,
+		"Name" : "Plans: Wildguard Helm",
+		"NameRU" : "Чертеж: шлем дикого стража"
+	},
+	{
+		"ID" : 31393,
+		"Level" : 375,
+		"Name" : "Plans: Iceguard Breastplate",
+		"NameRU" : "Чертеж: кираса ледяного стража"
+	},
+	{
+		"ID" : 31394,
+		"Level" : 375,
+		"Name" : "Plans: Iceguard Leggings",
+		"NameRU" : "Чертеж: поножи ледяного стража"
+	},
+	{
+		"ID" : 31395,
+		"Level" : 375,
+		"Name" : "Plans: Iceguard Helm",
+		"NameRU" : "Чертеж: шлем ледяного стража"
+	},
+	{
+		"ID" : 23639,
+		"Level" : 375,
+		"Name" : "Plans: Greater Ward of Shielding",
+		"NameRU" : "Чертеж: сильный оберег"
+	},
+	{
+		"ID" : 32738,
+		"Level" : 375,
+		"Name" : "Plans: Dawnsteel Bracers",
+		"NameRU" : "Чертеж: наручи рассветной стали"
+	},
+	{
+		"ID" : 30322,
+		"Level" : 375,
+		"Name" : "Plans: Red Belt of Battle",
+		"NameRU" : "Чертеж: красный пояс битвы"
+	},
+	{
+		"ID" : 30324,
+		"Level" : 375,
+		"Name" : "Plans: Red Havoc Boots",
+		"NameRU" : "Чертеж: сапоги красного хаоса"
+	},
+	{
+		"ID" : 30323,
+		"Level" : 375,
+		"Name" : "Plans: Boots of the Protector",
+		"NameRU" : "Чертеж: сапоги защитника"
+	},
+	{
+		"ID" : 30321,
+		"Level" : 375,
+		"Name" : "Plans: Belt of the Guardian",
+		"NameRU" : "Чертеж: пояс хранителя"
+	},
+	{
+		"ID" : 32441,
+		"Level" : 375,
+		"Name" : "Plans: Shadesteel Sabots",
+		"NameRU" : "Чертеж: тенестальные сабо"
+	},
+	{
+		"ID" : 32442,
+		"Level" : 375,
+		"Name" : "Plans: Shadesteel Bracers",
+		"NameRU" : "Чертеж: тенестальные наручи"
+	},
+	{
+		"ID" : 32443,
+		"Level" : 375,
+		"Name" : "Plans: Shadesteel Greaves",
+		"NameRU" : "Чертеж: тенестальные наголенники"
+	},
+	{
+		"ID" : 32444,
+		"Level" : 375,
+		"Name" : "Plans: Shadesteel Girdle",
+		"NameRU" : "Чертеж: тенестальной ремень"
+	},
+	{
+		"ID" : 32736,
+		"Level" : 375,
+		"Name" : "Plans: Swiftsteel Bracers",
+		"NameRU" : "Чертеж: наручи из быстростали"
+	},
+	{
+		"ID" : 32737,
+		"Level" : 375,
+		"Name" : "Plans: Swiftsteel Shoulders",
+		"NameRU" : "Чертеж: наплечники из быстростали"
+	},
+	{
+		"ID" : 32739,
+		"Level" : 375,
+		"Name" : "Plans: Dawnsteel Shoulders",
+		"NameRU" : "Чертеж: наплечники рассветной стали"
+	},
+	{
+		"ID" : 35529,
+		"Level" : 375,
+		"Name" : "Plans: Dawnsteel Bracers",
+		"NameRU" : "Чертеж: Наручи рассветной стали"
+	},
+	{
+		"ID" : 35530,
+		"Level" : 375,
+		"Name" : "Plans: Dawnsteel Shoulders",
+		"NameRU" : "Чертеж: Наплечники рассветной стали"
+	},
+	{
+		"ID" : 35531,
+		"Level" : 375,
+		"Name" : "Plans: Swiftsteel Bracers",
+		"NameRU" : "Чертеж: Наручи из быстростали"
+	},
+	{
+		"ID" : 35532,
+		"Level" : 375,
+		"Name" : "Plans: Swiftsteel Shoulders",
+		"NameRU" : "Чертеж: Наплечники из быстростали"
+	},
+	{
+		"ID" : 41120,
+		"Level" : 375,
+		"Name" : "Plans: Reinforced Cobalt Legplates",
+		"NameRU" : "Чертеж: усиленные кобальтовые ножные латы"
+	},
+	{
+		"ID" : 41122,
+		"Level" : 375,
+		"Name" : "Plans: Reinforced Cobalt Chestpiece",
+		"NameRU" : "Чертеж: усиленный кобальтовый нагрудник"
+	},
+	{
+		"ID" : 41123,
+		"Level" : 375,
+		"Name" : "Plans: Reinforced Cobalt Helm",
+		"NameRU" : "Чертеж: усиленный кобальтовый шлем"
+	},
+	{
+		"ID" : 41124,
+		"Level" : 375,
+		"Name" : "Plans: Reinforced Cobalt Shoulders",
+		"NameRU" : "Чертеж: усиленные кобальтовые наплечники"
+	},
+	{
+		"ID" : 44937,
+		"Level" : 450,
+		"Name" : "Plans: Titanium Plating",
+		"NameRU" : "Чертеж: титановая обшивка"
+	},
+	{
+		"ID" : 44938,
+		"Level" : 450,
+		"Name" : "Plans: Titanium Plating",
+		"NameRU" : "Чертеж: титановая обшивка"
+	},
+	{
+		"ID" : 45088,
+		"Level" : 450,
+		"Name" : "Plans: Belt of the Titans",
+		"NameRU" : "Чертеж: пояс титанов"
+	},
+	{
+		"ID" : 45089,
+		"Level" : 450,
+		"Name" : "Plans: Battlelord's Plate Boots",
+		"NameRU" : "Чертеж: латные сапоги военачальника"
+	},
+	{
+		"ID" : 45090,
+		"Level" : 450,
+		"Name" : "Plans: Plate Girdle of Righteousness",
+		"NameRU" : "Чертеж: латный ремень правоты"
+	},
+	{
+		"ID" : 45091,
+		"Level" : 450,
+		"Name" : "Plans: Treads of Destiny",
+		"NameRU" : "Чертеж: Нити Судьбы"
+	},
+	{
+		"ID" : 45092,
+		"Level" : 450,
+		"Name" : "Plans: Indestructible Plate Girdle",
+		"NameRU" : "Чертеж: несокрушимый латный ремень"
+	},
+	{
+		"ID" : 45093,
+		"Level" : 450,
+		"Name" : "Plans: Spiked Deathdealers",
+		"NameRU" : "Чертеж: зубчатые смертеносы"
+	},
+	{
+		"ID" : 47645,
+		"Level" : 450,
+		"Name" : "Plans: Titanium Spikeguards",
+		"NameRU" : "Чертеж: титановые шипованные наручи"
+	},
+	{
+		"ID" : 47641,
+		"Level" : 450,
+		"Name" : "Plans: Saronite Swordbreakers",
+		"NameRU" : "Чертеж: саронитовые мечеломы"
+	},
+	{
+		"ID" : 47624,
+		"Level" : 450,
+		"Name" : "Plans: Titanium Razorplate",
+		"NameRU" : "Чертеж: титановые нагрудные пластины"
+	},
+	{
+		"ID" : 47626,
+		"Level" : 450,
+		"Name" : "Plans: Sunforged Breastplate",
+		"NameRU" : "Чертеж: кираса Кузни Солнца"
+	},
+	{
+		"ID" : 47644,
+		"Level" : 450,
+		"Name" : "Plans: Titanium Razorplate",
+		"NameRU" : "Чертеж: титановые нагрудные пластины"
+	},
+	{
+		"ID" : 47625,
+		"Level" : 450,
+		"Name" : "Plans: Titanium Spikeguards",
+		"NameRU" : "Чертеж: титановые шипованные наручи"
+	},
+	{
+		"ID" : 47643,
+		"Level" : 450,
+		"Name" : "Plans: Sunforged Breastplate",
+		"NameRU" : "Чертеж: кираса Кузни Солнца"
+	},
+	{
+		"ID" : 47640,
+		"Level" : 450,
+		"Name" : "Plans: Breastplate of the White Knight",
+		"NameRU" : "Чертеж: кираса Белого Рыцаря"
+	},
+	{
+		"ID" : 47642,
+		"Level" : 450,
+		"Name" : "Plans: Sunforged Bracers",
+		"NameRU" : "Чертеж: наручи Кузни Солнца"
+	},
+	{
+		"ID" : 47623,
+		"Level" : 450,
+		"Name" : "Plans: Saronite Swordbreakers",
+		"NameRU" : "Чертеж: саронитовые мечеломы"
+	},
+	{
+		"ID" : 47622,
+		"Level" : 450,
+		"Name" : "Plans: Breastplate of the White Knight",
+		"NameRU" : "Чертеж: кираса Белого Рыцаря"
+	},
+	{
+		"ID" : 47627,
+		"Level" : 450,
+		"Name" : "Plans: Sunforged Bracers",
+		"NameRU" : "Чертеж: наручи Кузни Солнца"
+	},
+	{
+		"ID" : 49969,
+		"Level" : 450,
+		"Name" : "Plans: Puresteel Legplates",
+		"NameRU" : "Чертеж: ножные латы из чистой стали"
+	},
+	{
+		"ID" : 49970,
+		"Level" : 450,
+		"Name" : "Plans: Protectors of Life",
+		"NameRU" : "Чертеж: защитники жизни"
+	},
+	{
+		"ID" : 49971,
+		"Level" : 450,
+		"Name" : "Plans: Legplates of Painful Death",
+		"NameRU" : "Чертеж: ножные латы мучительной смерти"
+	},
+	{
+		"ID" : 49972,
+		"Level" : 450,
+		"Name" : "Plans: Hellfrozen Bonegrinders",
+		"NameRU" : "Чертеж: костомолы леденящего ада"
+	},
+	{
+		"ID" : 49973,
+		"Level" : 450,
+		"Name" : "Plans: Pillars of Might",
+		"NameRU" : "Чертеж: столпы мощи"
+	},
+	{
+		"ID" : 49974,
+		"Level" : 450,
+		"Name" : "Plans: Boots of Kingly Upheaval",
+		"NameRU" : "Чертеж: сапоги королевского бунта"
+	}
+]

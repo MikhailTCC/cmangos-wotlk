@@ -1,250 +1,307 @@
 [
 	{
-		"entry" : 2770,
-		"name" : "Copper Ore"
+		"ID" : 2770,
+		"Name" : "Copper Ore",
+		"NameRU" : "Медная руда"
 	},
 	{
-		"entry" : 2771,
-		"name" : "Tin Ore"
+		"ID" : 2771,
+		"Name" : "Tin Ore",
+		"NameRU" : "Оловянная руда"
 	},
 	{
-		"entry" : 2772,
-		"name" : "Iron Ore"
+		"ID" : 2772,
+		"Name" : "Iron Ore",
+		"NameRU" : "Железная руда"
 	},
 	{
-		"entry" : 2775,
-		"name" : "Silver Ore"
+		"ID" : 2775,
+		"Name" : "Silver Ore",
+		"NameRU" : "Серебряная руда"
 	},
 	{
-		"entry" : 2776,
-		"name" : "Gold Ore"
+		"ID" : 2776,
+		"Name" : "Gold Ore",
+		"NameRU" : "Золотая руда"
 	},
 	{
-		"entry" : 2835,
-		"name" : "Rough Stone"
+		"ID" : 2835,
+		"Name" : "Rough Stone",
+		"NameRU" : "Грубый камень"
 	},
 	{
-		"entry" : 2836,
-		"name" : "Coarse Stone"
+		"ID" : 2836,
+		"Name" : "Coarse Stone",
+		"NameRU" : "Необработанный камень"
 	},
 	{
-		"entry" : 2838,
-		"name" : "Heavy Stone"
+		"ID" : 2838,
+		"Name" : "Heavy Stone",
+		"NameRU" : "Тяжелый камень"
 	},
 	{
-		"entry" : 2840,
-		"name" : "Copper Bar"
+		"ID" : 2840,
+		"Name" : "Copper Bar",
+		"NameRU" : "Медный слиток"
 	},
 	{
-		"entry" : 2841,
-		"name" : "Bronze Bar"
+		"ID" : 2841,
+		"Name" : "Bronze Bar",
+		"NameRU" : "Бронзовый слиток"
 	},
 	{
-		"entry" : 2842,
-		"name" : "Silver Bar"
+		"ID" : 2842,
+		"Name" : "Silver Bar",
+		"NameRU" : "Серебряный слиток"
 	},
 	{
-		"entry" : 3470,
-		"name" : "Rough Grinding Stone"
+		"ID" : 3470,
+		"Name" : "Rough Grinding Stone",
+		"NameRU" : "Грубый шлифовальный камень"
 	},
 	{
-		"entry" : 3478,
-		"name" : "Coarse Grinding Stone"
+		"ID" : 3478,
+		"Name" : "Coarse Grinding Stone",
+		"NameRU" : "Зернистый шлифовальный камень"
 	},
 	{
-		"entry" : 3486,
-		"name" : "Heavy Grinding Stone"
+		"ID" : 3486,
+		"Name" : "Heavy Grinding Stone",
+		"NameRU" : "Тяжелый шлифовальный камень"
 	},
 	{
-		"entry" : 3575,
-		"name" : "Iron Bar"
+		"ID" : 3575,
+		"Name" : "Iron Bar",
+		"NameRU" : "Железный слиток"
 	},
 	{
-		"entry" : 3576,
-		"name" : "Tin Bar"
+		"ID" : 3576,
+		"Name" : "Tin Bar",
+		"NameRU" : "Оловянный слиток"
 	},
 	{
-		"entry" : 3577,
-		"name" : "Gold Bar"
+		"ID" : 3577,
+		"Name" : "Gold Bar",
+		"NameRU" : "Золотой слиток"
 	},
 	{
-		"entry" : 3857,
-		"name" : "Coal"
+		"ID" : 3857,
+		"Name" : "Coal",
+		"NameRU" : "Уголь"
 	},
 	{
-		"entry" : 3858,
-		"name" : "Mithril Ore"
+		"ID" : 3858,
+		"Name" : "Mithril Ore",
+		"NameRU" : "Мифриловая руда"
 	},
 	{
-		"entry" : 3859,
-		"name" : "Steel Bar"
+		"ID" : 3859,
+		"Name" : "Steel Bar",
+		"NameRU" : "Стальной слиток"
 	},
 	{
-		"entry" : 3860,
-		"name" : "Mithril Bar"
+		"ID" : 3860,
+		"Name" : "Mithril Bar",
+		"NameRU" : "Мифриловый слиток"
 	},
 	{
-		"entry" : 6037,
-		"name" : "Truesilver Bar"
+		"ID" : 6037,
+		"Name" : "Truesilver Bar",
+		"NameRU" : "Слиток истинного серебра"
 	},
 	{
-		"entry" : 7911,
-		"name" : "Truesilver Ore"
+		"ID" : 7911,
+		"Name" : "Truesilver Ore",
+		"NameRU" : "Руда истинного серебра"
 	},
 	{
-		"entry" : 7912,
-		"name" : "Solid Stone"
+		"ID" : 7912,
+		"Name" : "Solid Stone",
+		"NameRU" : "Твердый камень"
 	},
 	{
-		"entry" : 7966,
-		"name" : "Solid Grinding Stone"
+		"ID" : 7966,
+		"Name" : "Solid Grinding Stone",
+		"NameRU" : "Твердый шлифовальный камень"
 	},
 	{
-		"entry" : 10620,
-		"name" : "Thorium Ore"
+		"ID" : 10620,
+		"Name" : "Thorium Ore",
+		"NameRU" : "Ториевая руда"
 	},
 	{
-		"entry" : 11370,
-		"name" : "Dark Iron Ore"
+		"ID" : 11370,
+		"Name" : "Dark Iron Ore",
+		"NameRU" : "Руда черного железа"
 	},
 	{
-		"entry" : 11371,
-		"name" : "Dark Iron Bar"
+		"ID" : 11371,
+		"Name" : "Dark Iron Bar",
+		"NameRU" : "Слиток черного железа"
 	},
 	{
-		"entry" : 12359,
-		"name" : "Thorium Bar"
+		"ID" : 12359,
+		"Name" : "Thorium Bar",
+		"NameRU" : "Ториевый слиток"
 	},
 	{
-		"entry" : 12360,
-		"name" : "Arcanite Bar"
+		"ID" : 12360,
+		"Name" : "Arcanite Bar",
+		"NameRU" : "Арканитовый слиток"
 	},
 	{
-		"entry" : 12365,
-		"name" : "Dense Stone"
+		"ID" : 12365,
+		"Name" : "Dense Stone",
+		"NameRU" : "Массивный камень"
 	},
 	{
-		"entry" : 12644,
-		"name" : "Dense Grinding Stone"
+		"ID" : 12644,
+		"Name" : "Dense Grinding Stone",
+		"NameRU" : "Массивный шлифовальный камень"
 	},
 	{
-		"entry" : 12655,
-		"name" : "Enchanted Thorium Bar"
+		"ID" : 12655,
+		"Name" : "Enchanted Thorium Bar",
+		"NameRU" : "Зачарованный ториевый слиток"
 	},
 	{
-		"entry" : 12809,
-		"name" : "Guardian Stone"
+		"ID" : 12809,
+		"Name" : "Guardian Stone",
+		"NameRU" : "Охранный камень"
 	},
 	{
-		"entry" : 17203,
-		"name" : "Sulfuron Ingot"
+		"ID" : 17203,
+		"Name" : "Sulfuron Ingot",
+		"NameRU" : "Сульфуронский слиток"
 	},
 	{
-		"entry" : 17771,
-		"name" : "Elementium Bar"
+		"ID" : 17771,
+		"Name" : "Elementium Bar",
+		"NameRU" : "Элементиевый слиток"
 	},
 	{
-		"entry" : 18562,
-		"name" : "Elementium Ore"
+		"ID" : 18562,
+		"Name" : "Elementium Ore",
+		"NameRU" : "Элементиевая руда"
 	},
 	{
-		"entry" : 18567,
-		"name" : "Elemental Flux"
+		"ID" : 18567,
+		"Name" : "Elemental Flux",
+		"NameRU" : "Плавень стихий"
 	},
 	{
-		"entry" : 22202,
-		"name" : "Small Obsidian Shard"
+		"ID" : 22202,
+		"Name" : "Small Obsidian Shard",
+		"NameRU" : "Небольшой обсидиановый осколок"
 	},
 	{
-		"entry" : 22203,
-		"name" : "Large Obsidian Shard"
+		"ID" : 22203,
+		"Name" : "Large Obsidian Shard",
+		"NameRU" : "Большой обсидиановый осколок"
 	},
 	{
-		"entry" : 23573,
-		"name" : "Hardened Adamantite Bar"
+		"ID" : 23573,
+		"Name" : "Hardened Adamantite Bar",
+		"NameRU" : "Закаленный адамантитовый слиток"
 	},
 	{
-		"entry" : 23448,
-		"name" : "Felsteel Bar"
+		"ID" : 23448,
+		"Name" : "Felsteel Bar",
+		"NameRU" : "Слиток оскверненной стали"
 	},
 	{
-		"entry" : 23447,
-		"name" : "Eternium Bar"
+		"ID" : 23447,
+		"Name" : "Eternium Bar",
+		"NameRU" : "Этерниевый слиток"
 	},
 	{
-		"entry" : 23446,
-		"name" : "Adamantite Bar"
+		"ID" : 23446,
+		"Name" : "Adamantite Bar",
+		"NameRU" : "Адамантитовый слиток"
 	},
 	{
-		"entry" : 23445,
-		"name" : "Fel Iron Bar"
+		"ID" : 23445,
+		"Name" : "Fel Iron Bar",
+		"NameRU" : "Слиток оскверненного железа"
 	},
 	{
-		"entry" : 23427,
-		"name" : "Eternium Ore"
+		"ID" : 23427,
+		"Name" : "Eternium Ore",
+		"NameRU" : "Этерниевая руда"
 	},
 	{
-		"entry" : 23425,
-		"name" : "Adamantite Ore"
+		"ID" : 23425,
+		"Name" : "Adamantite Ore",
+		"NameRU" : "Адамантитовая руда"
 	},
 	{
-		"entry" : 23424,
-		"name" : "Fel Iron Ore"
+		"ID" : 23424,
+		"Name" : "Fel Iron Ore",
+		"NameRU" : "Руда оскверненного железа"
 	},
 	{
-		"entry" : 23449,
-		"name" : "Khorium Bar"
+		"ID" : 23449,
+		"Name" : "Khorium Bar",
+		"NameRU" : "Кориевый слиток"
 	},
 	{
-		"entry" : 23426,
-		"name" : "Khorium Ore"
+		"ID" : 23426,
+		"Name" : "Khorium Ore",
+		"NameRU" : "Кориевая руда"
 	},
 	{
-		"entry" : 35128,
-		"name" : "Hardened Khorium"
+		"ID" : 35128,
+		"Name" : "Hardened Khorium",
+		"NameRU" : "Закаленный корий"
 	},
 	{
-		"entry" : 36909,
-		"name" : "Cobalt Ore"
+		"ID" : 36909,
+		"Name" : "Cobalt Ore",
+		"NameRU" : "Кобальтовая руда"
 	},
 	{
-		"entry" : 36910,
-		"name" : "Titanium Ore"
+		"ID" : 36910,
+		"Name" : "Titanium Ore",
+		"NameRU" : "Титановая руда"
 	},
 	{
-		"entry" : 36912,
-		"name" : "Saronite Ore"
+		"ID" : 36912,
+		"Name" : "Saronite Ore",
+		"NameRU" : "Саронитовая руда"
 	},
 	{
-		"entry" : 36913,
-		"name" : "Saronite Bar"
+		"ID" : 36913,
+		"Name" : "Saronite Bar",
+		"NameRU" : "Слиток саронита"
 	},
 	{
-		"entry" : 36914,
-		"name" : "Azurite Bar"
+		"ID" : 36914,
+		"Name" : "Azurite Bar",
+		"NameRU" : "Слиток Азурита"
 	},
 	{
-		"entry" : 36915,
-		"name" : "Froststeel Bar"
+		"ID" : 36915,
+		"Name" : "Froststeel Bar",
+		"NameRU" : "Слиток замороженной стали"
 	},
 	{
-		"entry" : 36916,
-		"name" : "Cobalt Bar"
+		"ID" : 36916,
+		"Name" : "Cobalt Bar",
+		"NameRU" : "Слиток кобальта"
 	},
 	{
-		"entry" : 37663,
-		"name" : "Titansteel Bar"
+		"ID" : 37663,
+		"Name" : "Titansteel Bar",
+		"NameRU" : "Слиток титановой стали"
 	},
 	{
-		"entry" : 37706,
-		"name" : "Hardened Saronite Bar"
+		"ID" : 37706,
+		"Name" : "Hardened Saronite Bar",
+		"NameRU" : "Укрепленный слиток саронита"
 	},
 	{
-		"entry" : 41163,
-		"name" : "Titanium Bar"
-	},
-	{
-		"entry" : 3861,
-		"name" : "Blacksteel Bar"
+		"ID" : 41163,
+		"Name" : "Titanium Bar",
+		"NameRU" : "Титановый слиток"
 	}
 ]

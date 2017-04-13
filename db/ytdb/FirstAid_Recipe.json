@@ -1,0 +1,68 @@
+[
+	{
+		"ID" : 16084,
+		"Level" : 125,
+		"Name" : "Expert First Aid - Under Wraps",
+		"NameRU" : "Умелец первой помощи: снимая покровы"
+	},
+	{
+		"ID" : 6454,
+		"Level" : 130,
+		"Name" : "Manual: Strong Anti-Venom",
+		"NameRU" : "Учебник: сильное противоядие"
+	},
+	{
+		"ID" : 16112,
+		"Level" : 180,
+		"Name" : "Manual: Heavy Silk Bandage",
+		"NameRU" : "Учебник: плотные шелковые бинты"
+	},
+	{
+		"ID" : 16085,
+		"Level" : 200,
+		"Name" : "Artisan First Aid - Heal Thyself",
+		"NameRU" : "Искусство Первой помощи - Исцели себя"
+	},
+	{
+		"ID" : 16113,
+		"Level" : 210,
+		"Name" : "Manual: Mageweave Bandage",
+		"NameRU" : "Учебник: бинты из магической ткани"
+	},
+	{
+		"ID" : 19442,
+		"Level" : 300,
+		"Name" : "Formula: Powerful Anti-Venom",
+		"NameRU" : "Формула: мощное противоядие"
+	},
+	{
+		"ID" : 22012,
+		"Level" : 300,
+		"Name" : "Master First Aid - Doctor in the House",
+		"NameRU" : "Мастерская первая помощь - домашний доктор"
+	},
+	{
+		"ID" : 21992,
+		"Level" : 330,
+		"Name" : "Manual: Netherweave Bandage",
+		"NameRU" : "Учебник: бинты из ткани Пустоты"
+	},
+	{
+		"ID" : 21993,
+		"Level" : 360,
+		"Name" : "Manual: Heavy Netherweave Bandage",
+		"NameRU" : "Учебник: плотные бинты из ткани Пустоты"
+	},
+	{
+		"ID" : 39152,
+		"Level" : 400,
+		"Name" : "Manual: Heavy Frostweave Bandage",
+		"NameRU" : "Учебник: плотные бинты из ледяной ткани"
+	},
+	{
+		"ID" : 39153,
+		"Level" : 450,
+		"Name" : "Manual: Dense Frostweave Bandage",
+		"NameRU" : "Руководство: Плотная повязка из морозной ткани"
+	}
+]

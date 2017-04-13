@@ -1,0 +1,1166 @@
+[
+	{
+		"ID" : 6342,
+		"Level" : 20,
+		"Name" : "Formula: Enchant Chest - Minor Mana",
+		"NameRU" : "Формула чар для нагрудника - мана I"
+	},
+	{
+		"ID" : 20758,
+		"Level" : 45,
+		"Name" : "Formula: Minor Wizard Oil",
+		"NameRU" : "Формула: слабое волшебное масло"
+	},
+	{
+		"ID" : 6344,
+		"Level" : 60,
+		"Name" : "Formula: Enchant Bracer - Minor Spirit",
+		"NameRU" : "Формула чар для наручей - дух I"
+	},
+	{
+		"ID" : 6343,
+		"Level" : 60,
+		"Name" : "Formula: Imbue Chest - Spirit",
+		"NameRU" : "Формула: зачарование доспех - дух"
+	},
+	{
+		"ID" : 6346,
+		"Level" : 80,
+		"Name" : "Formula: Enchant Chest - Lesser Mana",
+		"NameRU" : "Формула чар для нагрудника - мана II"
+	},
+	{
+		"ID" : 6347,
+		"Level" : 80,
+		"Name" : "Formula: Enchant Bracer - Minor Strength",
+		"NameRU" : "Формула чар для наручей - сила I"
+	},
+	{
+		"ID" : 6348,
+		"Level" : 90,
+		"Name" : "Formula: Enchant Weapon - Minor Beastslayer",
+		"NameRU" : "Формула чар для оружия - истребитель зверей I"
+	},
+	{
+		"ID" : 6345,
+		"Level" : 90,
+		"Name" : "Formula: Imbue Cloak - Protection",
+		"NameRU" : "Формула: зачаровывание плаща - защита"
+	},
+	{
+		"ID" : 6349,
+		"Level" : 100,
+		"Name" : "Formula: Enchant 2H Weapon - Lesser Intellect",
+		"NameRU" : "Формула чар для двуручного оружия - интеллект I"
+	},
+	{
+		"ID" : 11038,
+		"Level" : 110,
+		"Name" : "Formula: Enchant 2H Weapon - Lesser Spirit",
+		"NameRU" : "Формула чар для двуручного оружия - дух I"
+	},
+	{
+		"ID" : 11039,
+		"Level" : 110,
+		"Name" : "Formula: Enchant Cloak - Minor Agility",
+		"NameRU" : "Формула чар для плаща - ловкость I"
+	},
+	{
+		"ID" : 11081,
+		"Level" : 115,
+		"Name" : "Formula: Enchant Shield - Lesser Protection",
+		"NameRU" : "Формула чар для щита - броня"
+	},
+	{
+		"ID" : 6375,
+		"Level" : 120,
+		"Name" : "Formula: Enchant Bracer - Lesser Spirit",
+		"NameRU" : "Формула чар для наручей - дух II"
+	},
+	{
+		"ID" : 6377,
+		"Level" : 125,
+		"Name" : "Formula: Enchant Boots - Minor Agility",
+		"NameRU" : "Формула чар для обуви - ловкость I"
+	},
+	{
+		"ID" : 11098,
+		"Level" : 135,
+		"Name" : "Formula: Enchant Cloak - Lesser Shadow Resistance",
+		"NameRU" : "Формула чар для плаща - сопротивление темной магии I"
+	},
+	{
+		"ID" : 11101,
+		"Level" : 140,
+		"Name" : "Formula: Enchant Bracer - Lesser Strength",
+		"NameRU" : "Формула чар для наручей - сила II"
+	},
+	{
+		"ID" : 11150,
+		"Level" : 145,
+		"Name" : "Formula: Enchant Gloves - Mining",
+		"NameRU" : "Формула чар для перчаток - горное дело I"
+	},
+	{
+		"ID" : 11151,
+		"Level" : 145,
+		"Name" : "Formula: Enchant Gloves - Herbalism",
+		"NameRU" : "Формула чар для перчаток - травничество I"
+	},
+	{
+		"ID" : 11152,
+		"Level" : 145,
+		"Name" : "Formula: Enchant Gloves - Fishing",
+		"NameRU" : "Формула чар для перчаток - рыбная ловля"
+	},
+	{
+		"ID" : 20752,
+		"Level" : 150,
+		"Name" : "Formula: Minor Mana Oil",
+		"NameRU" : "Формула: слабое масло маны"
+	},
+	{
+		"ID" : 11163,
+		"Level" : 170,
+		"Name" : "Formula: Enchant Bracer - Lesser Deflection",
+		"NameRU" : "Формула чар для наручей - отражение II"
+	},
+	{
+		"ID" : 11164,
+		"Level" : 175,
+		"Name" : "Formula: Enchant Weapon - Lesser Beastslayer",
+		"NameRU" : "Формула чар для оружия - истребитель зверей II"
+	},
+	{
+		"ID" : 11165,
+		"Level" : 175,
+		"Name" : "Formula: Enchant Weapon - Lesser Elemental Slayer",
+		"NameRU" : "Формула чар для оружия - истребитель элементалей"
+	},
+	{
+		"ID" : 11167,
+		"Level" : 190,
+		"Name" : "Formula: Enchant Boots - Lesser Spirit",
+		"NameRU" : "Формула чар для обуви - дух I"
+	},
+	{
+		"ID" : 17725,
+		"Level" : 190,
+		"Name" : "Formula: Enchant Weapon - Winter's Might",
+		"NameRU" : "Формула чар для оружия - могущество зимы"
+	},
+	{
+		"ID" : 11168,
+		"Level" : 195,
+		"Name" : "Formula: Enchant Shield - Lesser Block",
+		"NameRU" : "Формула: зачаровывание щита - блок, I ступень"
+	},
+	{
+		"ID" : 11166,
+		"Level" : 200,
+		"Name" : "Formula: Enchant Gloves - Skinning",
+		"NameRU" : "Формула чар для перчаток - снятие шкур"
+	},
+	{
+		"ID" : 20753,
+		"Level" : 200,
+		"Name" : "Formula: Lesser Wizard Oil",
+		"NameRU" : "Формула: простое волшебное масло"
+	},
+	{
+		"ID" : 11202,
+		"Level" : 210,
+		"Name" : "Formula: Enchant Shield - Stamina",
+		"NameRU" : "Формула чар для щита - выносливость III"
+	},
+	{
+		"ID" : 11203,
+		"Level" : 215,
+		"Name" : "Formula: Enchant Gloves - Advanced Mining",
+		"NameRU" : "Формула чар для перчаток - горное дело II"
+	},
+	{
+		"ID" : 11204,
+		"Level" : 220,
+		"Name" : "Formula: Enchant Bracer - Greater Spirit",
+		"NameRU" : "Формула чар для наручей - дух IV"
+	},
+	{
+		"ID" : 11205,
+		"Level" : 225,
+		"Name" : "Formula: Enchant Gloves - Advanced Herbalism",
+		"NameRU" : "Формула чар для перчаток - травничество II"
+	},
+	{
+		"ID" : 11206,
+		"Level" : 225,
+		"Name" : "Formula: Enchant Cloak - Lesser Agility",
+		"NameRU" : "Формула чар для плаща - ловкость II"
+	},
+	{
+		"ID" : 11208,
+		"Level" : 230,
+		"Name" : "Formula: Enchant Weapon - Demonslaying",
+		"NameRU" : "Формула чар для оружия - истребитель демонов"
+	},
+	{
+		"ID" : 11223,
+		"Level" : 235,
+		"Name" : "Formula: Enchant Bracer - Deflection",
+		"NameRU" : "Формула чар для наручей - отражение III"
+	},
+	{
+		"ID" : 11224,
+		"Level" : 235,
+		"Name" : "Formula: Enchant Shield - Frost Resistance",
+		"NameRU" : "Формула чар для щита - сопротивление льду"
+	},
+	{
+		"ID" : 11225,
+		"Level" : 245,
+		"Name" : "Formula: Enchant Bracer - Greater Stamina",
+		"NameRU" : "Формула чар для наручей - выносливость IV"
+	},
+	{
+		"ID" : 11226,
+		"Level" : 250,
+		"Name" : "Formula: Enchant Gloves - Riding Skill",
+		"NameRU" : "Формула: зачаровывание перчаток - верховая езда"
+	},
+	{
+		"ID" : 20754,
+		"Level" : 250,
+		"Name" : "Formula: Lesser Mana Oil",
+		"NameRU" : "Формула: простое масло маны"
+	},
+	{
+		"ID" : 16214,
+		"Level" : 255,
+		"Name" : "Formula: Enchant Bracer - Greater Intellect",
+		"NameRU" : "Формула: зачаровывание браслетов - интеллект, III ступень"
+	},
+	{
+		"ID" : 16215,
+		"Level" : 260,
+		"Name" : "Formula: Enchant Boots - Greater Stamina",
+		"NameRU" : "Формула чар для обуви - выносливость IV"
+	},
+	{
+		"ID" : 11207,
+		"Level" : 265,
+		"Name" : "Formula: Enchant Weapon - Fiery Weapon",
+		"NameRU" : "Формула чар для оружия - огненное оружие"
+	},
+	{
+		"ID" : 11813,
+		"Level" : 265,
+		"Name" : "Formula: Smoking Heart of the Mountain",
+		"NameRU" : "Формула: дымящееся сердце горы"
+	},
+	{
+		"ID" : 16216,
+		"Level" : 265,
+		"Name" : "Formula: Enchant Cloak - Greater Resistance",
+		"NameRU" : "Формула чар для плаща - сопротивление III"
+	},
+	{
+		"ID" : 16217,
+		"Level" : 265,
+		"Name" : "Formula: Enchant Shield - Greater Stamina",
+		"NameRU" : "Формула чар для щита - выносливость IV"
+	},
+	{
+		"ID" : 45050,
+		"Level" : 265,
+		"Name" : "Formula: Smoking Heart of the Mountain",
+		"NameRU" : "Формула: дымящееся сердце горы"
+	},
+	{
+		"ID" : 16218,
+		"Level" : 270,
+		"Name" : "Formula: Enchant Bracer - Superior Spirit",
+		"NameRU" : "Формула чар для наручей - дух V"
+	},
+	{
+		"ID" : 16219,
+		"Level" : 270,
+		"Name" : "Formula: Enchant Gloves - Greater Agility",
+		"NameRU" : "Формула: зачаровывание перчаток - ловкость, III ступень"
+	},
+	{
+		"ID" : 16220,
+		"Level" : 275,
+		"Name" : "Formula: Enchant Boots - Spirit",
+		"NameRU" : "Формула чар для обуви - дух II"
+	},
+	{
+		"ID" : 16221,
+		"Level" : 275,
+		"Name" : "Formula: Enchant Chest - Major Health",
+		"NameRU" : "Формула чар для нагрудника - здоровье VI"
+	},
+	{
+		"ID" : 20755,
+		"Level" : 275,
+		"Name" : "Formula: Wizard Oil",
+		"NameRU" : "Формула: волшебное масло"
+	},
+	{
+		"ID" : 16222,
+		"Level" : 280,
+		"Name" : "Formula: Enchant Shield - Superior Spirit",
+		"NameRU" : "Формула: зачаровывание щита - дух, V ступень"
+	},
+	{
+		"ID" : 16223,
+		"Level" : 285,
+		"Name" : "Formula: Enchant Weapon - Icy Chill",
+		"NameRU" : "Формула чар для оружия - леденящая стужа"
+	},
+	{
+		"ID" : 16224,
+		"Level" : 285,
+		"Name" : "Formula: Enchant Cloak - Superior Defense",
+		"NameRU" : "Формула чар для плаща - защита III"
+	},
+	{
+		"ID" : 16242,
+		"Level" : 290,
+		"Name" : "Formula: Enchant Chest - Major Mana",
+		"NameRU" : "Формула: зачаровывание нагрудника - мана, IV ступень"
+	},
+	{
+		"ID" : 16243,
+		"Level" : 290,
+		"Name" : "Formula: Runed Arcanite Rod",
+		"NameRU" : "Формула: рунический арканитовый жезл"
+	},
+	{
+		"ID" : 19444,
+		"Level" : 290,
+		"Name" : "Formula: Enchant Weapon - Strength",
+		"NameRU" : "Формула чар для оружия - сила"
+	},
+	{
+		"ID" : 19445,
+		"Level" : 290,
+		"Name" : "Formula: Enchant Weapon - Agility",
+		"NameRU" : "Формула чар для оружия - ловкость I"
+	},
+	{
+		"ID" : 19446,
+		"Level" : 290,
+		"Name" : "Formula: Enchant Bracer - Mana Regeneration",
+		"NameRU" : "Формула чар для наручей - восполнение маны"
+	},
+	{
+		"ID" : 22392,
+		"Level" : 290,
+		"Name" : "Formula: Enchant 2H Weapon - Agility",
+		"NameRU" : "Формула чар для двуручного оружия - ловкость I"
+	},
+	{
+		"ID" : 16244,
+		"Level" : 295,
+		"Name" : "Formula: Enchant Gloves - Greater Strength",
+		"NameRU" : "Формула чар для перчаток - сила II"
+	},
+	{
+		"ID" : 16245,
+		"Level" : 295,
+		"Name" : "Formula: Enchant Boots - Greater Agility",
+		"NameRU" : "Формула: зачаровывание обуви - ловкость, III ступень"
+	},
+	{
+		"ID" : 16246,
+		"Level" : 295,
+		"Name" : "Formula: Enchant Bracer - Superior Strength",
+		"NameRU" : "Формула: зачаровывание браслетов - сила, V ступень"
+	},
+	{
+		"ID" : 16247,
+		"Level" : 295,
+		"Name" : "Formula: Enchant 2H Weapon - Superior Impact",
+		"NameRU" : "Формула чар для двуручного оружия - импульс V"
+	},
+	{
+		"ID" : 16248,
+		"Level" : 295,
+		"Name" : "Formula: Enchant Weapon - Unholy",
+		"NameRU" : "Формула чар для оружия - нечестивое оружие"
+	},
+	{
+		"ID" : 16249,
+		"Level" : 300,
+		"Name" : "Formula: Enchant 2H Weapon - Major Intellect",
+		"NameRU" : "Формула чар для двуручного оружия - интеллект II"
+	},
+	{
+		"ID" : 16250,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Weapon - Superior Striking",
+		"NameRU" : "Формула чар для оружия - удар V"
+	},
+	{
+		"ID" : 16251,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Bracer - Superior Stamina",
+		"NameRU" : "Формула чар для наручей - выносливость V"
+	},
+	{
+		"ID" : 16252,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Weapon - Crusader",
+		"NameRU" : "Формула чар для оружия - рыцарь"
+	},
+	{
+		"ID" : 16253,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Chest - Greater Stats",
+		"NameRU" : "Формула: зачаровывание нагрудника - все характеристики, III ступень"
+	},
+	{
+		"ID" : 16254,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Weapon - Lifestealing",
+		"NameRU" : "Формула чар для оружия - похищение жизни"
+	},
+	{
+		"ID" : 16255,
+		"Level" : 300,
+		"Name" : "Formula: Enchant 2H Weapon - Major Spirit",
+		"NameRU" : "Формула чар для двуручного оружия - дух II"
+	},
+	{
+		"ID" : 18259,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Weapon - Spellpower",
+		"NameRU" : "Формула чар для оружия - сила заклинаний I"
+	},
+	{
+		"ID" : 18260,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Weapon - Healing Power",
+		"NameRU" : "Формула чар для оружия - целительная сила"
+	},
+	{
+		"ID" : 19447,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Bracer - Healing Power",
+		"NameRU" : "Формула чар для наручей - целительная сила"
+	},
+	{
+		"ID" : 19448,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Weapon - Mighty Spirit",
+		"NameRU" : "Формула чар для оружия - могучий дух"
+	},
+	{
+		"ID" : 19449,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Weapon - Mighty Intellect",
+		"NameRU" : "Формула чар для оружия - могучий интеллект"
+	},
+	{
+		"ID" : 20726,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Gloves - Threat",
+		"NameRU" : "Формула чар для перчаток - угроза"
+	},
+	{
+		"ID" : 20727,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Gloves - Shadow Power",
+		"NameRU" : "Формула чар для перчаток - энергия Тьмы"
+	},
+	{
+		"ID" : 20728,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Gloves - Frost Power",
+		"NameRU" : "Формула чар для перчаток - сила льда"
+	},
+	{
+		"ID" : 20729,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Gloves - Fire Power",
+		"NameRU" : "Формула чар для перчаток - сила огня"
+	},
+	{
+		"ID" : 20730,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Gloves - Healing Power",
+		"NameRU" : "Формула чар для перчаток - целительная сила"
+	},
+	{
+		"ID" : 20731,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Gloves - Superior Agility",
+		"NameRU" : "Формула чар для перчаток - ловкость III"
+	},
+	{
+		"ID" : 20732,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Cloak - Greater Fire Resistance",
+		"NameRU" : "Формула чар для плаща - сопротивление огню III"
+	},
+	{
+		"ID" : 20733,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Cloak - Greater Nature Resistance",
+		"NameRU" : "Формула чар для плаща - сопротивление силам природы I"
+	},
+	{
+		"ID" : 20734,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Cloak - Stealth",
+		"NameRU" : "Формула чар для плаща - незаметность"
+	},
+	{
+		"ID" : 20735,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Cloak - Subtlety",
+		"NameRU" : "Формула чар для плаща - скрытность"
+	},
+	{
+		"ID" : 20736,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Cloak - Dodge",
+		"NameRU" : "Формула чар для плаща - уклонение"
+	},
+	{
+		"ID" : 20756,
+		"Level" : 300,
+		"Name" : "Formula: Brilliant Wizard Oil",
+		"NameRU" : "Формула: сверкающее волшебное масло"
+	},
+	{
+		"ID" : 20757,
+		"Level" : 300,
+		"Name" : "Formula: Brilliant Mana Oil",
+		"NameRU" : "Формула: сверкающее масло маны"
+	},
+	{
+		"ID" : 33148,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Cloak - Dodge",
+		"NameRU" : "Формула чар для плаща - уклонение"
+	},
+	{
+		"ID" : 33149,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Cloak - Stealth",
+		"NameRU" : "Формула чар для плаща - незаметность"
+	},
+	{
+		"ID" : 33150,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Cloak - Subtlety",
+		"NameRU" : "Формула чар для плаща - скрытность"
+	},
+	{
+		"ID" : 33151,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Cloak - Subtlety",
+		"NameRU" : "Формула чар для плаща - скрытность"
+	},
+	{
+		"ID" : 33152,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Gloves - Superior Agility",
+		"NameRU" : "Формула чар для перчаток - ловкость III"
+	},
+	{
+		"ID" : 33153,
+		"Level" : 300,
+		"Name" : "Formula: Enchant Gloves - Threat",
+		"NameRU" : "Формула чар для перчаток - угроза"
+	},
+	{
+		"ID" : 22542,
+		"Level" : 305,
+		"Name" : "Formula: Enchant Boots - Vitality",
+		"NameRU" : "Формула: зачаровывание обуви - жизненная сила"
+	},
+	{
+		"ID" : 35298,
+		"Level" : 305,
+		"Name" : "Formula: Enchant Boots - Vitality",
+		"NameRU" : "Формула чар для обуви - живучесть I"
+	},
+	{
+		"ID" : 22562,
+		"Level" : 310,
+		"Name" : "Formula: Superior Mana Oil",
+		"NameRU" : "Формула: превосходное масло маны"
+	},
+	{
+		"ID" : 22530,
+		"Level" : 320,
+		"Name" : "Formula: Enchant Bracer - Major Defense",
+		"NameRU" : "Формула: зачаровывание браслетов - защита, IV ступень"
+	},
+	{
+		"ID" : 22543,
+		"Level" : 320,
+		"Name" : "Formula: Enchant Boots - Fortitude",
+		"NameRU" : "Формула чар для обуви - стойкость I"
+	},
+	{
+		"ID" : 28282,
+		"Level" : 325,
+		"Name" : "Formula: Enchant Shield - Major Stamina",
+		"NameRU" : "Формула чар для щита - выносливость V"
+	},
+	{
+		"ID" : 22539,
+		"Level" : 325,
+		"Name" : "Formula: Enchant Shield - Intellect",
+		"NameRU" : "Формула чар для щита - интеллект I"
+	},
+	{
+		"ID" : 28274,
+		"Level" : 325,
+		"Name" : "Formula: Enchant Cloak - Spell Penetration",
+		"NameRU" : "Формула чар для плаща - проникающая способность заклинаний"
+	},
+	{
+		"ID" : 22531,
+		"Level" : 325,
+		"Name" : "Formula: Enchant Bracer - Superior Healing",
+		"NameRU" : "Формула чар для наручей - лечение II"
+	},
+	{
+		"ID" : 24000,
+		"Level" : 325,
+		"Name" : "Formula: Enchant Bracer - Superior Healing",
+		"NameRU" : "Формула чар для наручей - лечение II"
+	},
+	{
+		"ID" : 22548,
+		"Level" : 330,
+		"Name" : "Formula: Enchant Cloak - Major Resistance",
+		"NameRU" : "Формула: зачаровывание плаща - сопротивление, IV ступень"
+	},
+	{
+		"ID" : 22565,
+		"Level" : 335,
+		"Name" : "Formula: Large Prismatic Shard",
+		"NameRU" : "Формула: большой радужный осколок"
+	},
+	{
+		"ID" : 22532,
+		"Level" : 335,
+		"Name" : "Formula: Enchant Bracer - Restore Mana Prime",
+		"NameRU" : "Формула чар для наручей - быстрое восполнение маны"
+	},
+	{
+		"ID" : 22563,
+		"Level" : 340,
+		"Name" : "Formula: Superior Wizard Oil",
+		"NameRU" : "Формула: превосходное волшебное масло"
+	},
+	{
+		"ID" : 22551,
+		"Level" : 340,
+		"Name" : "Formula: Enchant Weapon - Major Intellect",
+		"NameRU" : "Формула чар для оружия - интеллект I"
+	},
+	{
+		"ID" : 22540,
+		"Level" : 340,
+		"Name" : "Formula: Enchant Shield - Shield Block",
+		"NameRU" : "Формула чар для щита - блок II"
+	},
+	{
+		"ID" : 22544,
+		"Level" : 340,
+		"Name" : "Formula: Enchant Boots - Dexterity",
+		"NameRU" : "Формула чар для обуви - стремительность"
+	},
+	{
+		"ID" : 22552,
+		"Level" : 340,
+		"Name" : "Formula: Enchant Weapon - Major Striking",
+		"NameRU" : "Формула чар для оружия - удар VI"
+	},
+	{
+		"ID" : 28270,
+		"Level" : 345,
+		"Name" : "Formula: Enchant Chest - Major Resilience",
+		"NameRU" : "Формула чар для нагрудника - устойчивость I"
+	},
+	{
+		"ID" : 22547,
+		"Level" : 345,
+		"Name" : "Formula: Enchant Chest - Exceptional Stats",
+		"NameRU" : "Формула чар для нагрудника - все характеристики V"
+	},
+	{
+		"ID" : 24003,
+		"Level" : 345,
+		"Name" : "Formula: Enchant Chest - Exceptional Stats",
+		"NameRU" : "Формула чар для нагрудника - все характеристики V"
+	},
+	{
+		"ID" : 25848,
+		"Level" : 350,
+		"Name" : "Formula: Runed Adamantite Rod",
+		"NameRU" : "Формула: рунический адамантитовый жезл"
+	},
+	{
+		"ID" : 28273,
+		"Level" : 350,
+		"Name" : "Formula: Enchant Gloves - Major Healing",
+		"NameRU" : "Формула чар для перчаток - лечение I"
+	},
+	{
+		"ID" : 28276,
+		"Level" : 350,
+		"Name" : "Formula: Enchant Cloak - Greater Arcane Resistance",
+		"NameRU" : "Формула: зачаровывание плаща - сопротивления чарам, III ступень"
+	},
+	{
+		"ID" : 28281,
+		"Level" : 350,
+		"Name" : "Formula: Enchant Weapon - Major Healing",
+		"NameRU" : "Формула чар для оружия - лечение I"
+	},
+	{
+		"ID" : 22553,
+		"Level" : 350,
+		"Name" : "Formula: Enchant Weapon - Potency",
+		"NameRU" : "Формула: зачаровывание оружия - могущество"
+	},
+	{
+		"ID" : 22533,
+		"Level" : 350,
+		"Name" : "Formula: Enchant Bracer - Fortitude",
+		"NameRU" : "Формула чар для наручей - стойкость"
+	},
+	{
+		"ID" : 22554,
+		"Level" : 350,
+		"Name" : "Formula: Enchant 2H Weapon - Savagery",
+		"NameRU" : "Формула чар для двуручного оружия - свирепость"
+	},
+	{
+		"ID" : 22555,
+		"Level" : 350,
+		"Name" : "Formula: Enchant Weapon - Major Spellpower",
+		"NameRU" : "Формула чар для оружия - сила заклинаний I"
+	},
+	{
+		"ID" : 28277,
+		"Level" : 350,
+		"Name" : "Formula: Enchant Cloak - Greater Shadow Resistance",
+		"NameRU" : "Формула: зачаровывание плаща - сопротивление Теням, III ступень"
+	},
+	{
+		"ID" : 33165,
+		"Level" : 350,
+		"Name" : "Formula: Enchant Weapon - Greater Agility",
+		"NameRU" : "Формула чар для оружия - ловкость II"
+	},
+	{
+		"ID" : 35498,
+		"Level" : 350,
+		"Name" : "Formula: Enchant Weapon - Deathfrost",
+		"NameRU" : "Формула чар для оружия - смертельный мороз"
+	},
+	{
+		"ID" : 28271,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Gloves - Precise Strikes",
+		"NameRU" : "Формула чар для перчаток - точные удары"
+	},
+	{
+		"ID" : 28272,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Gloves - Major Spellpower",
+		"NameRU" : "Формула чар для перчаток - сила заклинаний I"
+	},
+	{
+		"ID" : 28279,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Boots - Cat's Swiftness",
+		"NameRU" : "Формула чар для обуви - проворство кошки"
+	},
+	{
+		"ID" : 28280,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Boots - Boar's Speed",
+		"NameRU" : "Формула чар для обуви - быстрота вепря"
+	},
+	{
+		"ID" : 22536,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Ring - Spellpower",
+		"NameRU" : "Формула чар для кольца - сила заклинаний I"
+	},
+	{
+		"ID" : 22541,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Shield - Resistance",
+		"NameRU" : "Формула чар для щита - сопротивление"
+	},
+	{
+		"ID" : 22534,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Bracer - Spellpower",
+		"NameRU" : "Формула чар для наручей - сила заклинаний I"
+	},
+	{
+		"ID" : 22535,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Ring - Striking",
+		"NameRU" : "Формула чар для кольца - удар"
+	},
+	{
+		"ID" : 22556,
+		"Level" : 360,
+		"Name" : "Formula: Enchant 2H Weapon - Major Agility",
+		"NameRU" : "Формула чар для двуручного оружия - ловкость II"
+	},
+	{
+		"ID" : 22557,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Weapon - Battlemaster",
+		"NameRU" : "Формула: зачаровывание оружия - Военачальник"
+	},
+	{
+		"ID" : 22558,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Weapon - Spellsurge",
+		"NameRU" : "Формула: зачаровывание оружия - поток чар"
+	},
+	{
+		"ID" : 35299,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Boots - Cat's Swiftness",
+		"NameRU" : "Формула чар для обуви - проворство кошки"
+	},
+	{
+		"ID" : 35500,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Chest - Defense",
+		"NameRU" : "Формула чар для нагрудника - защита I"
+	},
+	{
+		"ID" : 35297,
+		"Level" : 360,
+		"Name" : "Formula: Enchant Boots - Boar's Speed",
+		"NameRU" : "Формула: зачаровывание обуви - быстрота вепря"
+	},
+	{
+		"ID" : 22537,
+		"Level" : 370,
+		"Name" : "Formula: Enchant Ring - Healing Power",
+		"NameRU" : "Формула чар для кольца - целительная сила"
+	},
+	{
+		"ID" : 22545,
+		"Level" : 370,
+		"Name" : "Formula: Enchant Boots - Surefooted",
+		"NameRU" : "Формула чар для обуви - верный шаг"
+	},
+	{
+		"ID" : 25849,
+		"Level" : 375,
+		"Name" : "Formula: Runed Eternium Rod",
+		"NameRU" : "Формула: рунический этерниевый жезл"
+	},
+	{
+		"ID" : 22538,
+		"Level" : 375,
+		"Name" : "Formula: Enchant Ring - Stats",
+		"NameRU" : "Формула чар для кольца - все характеристики"
+	},
+	{
+		"ID" : 22559,
+		"Level" : 375,
+		"Name" : "Formula: Enchant Weapon - Mongoose",
+		"NameRU" : "Формула чар для оружия - мангуст"
+	},
+	{
+		"ID" : 22560,
+		"Level" : 375,
+		"Name" : "Formula: Enchant Weapon - Sunfire",
+		"NameRU" : "Формула чар для оружия - солнечный огонь"
+	},
+	{
+		"ID" : 22561,
+		"Level" : 375,
+		"Name" : "Formula: Enchant Weapon - Soulfrost",
+		"NameRU" : "Формула чар для оружия - ледяная душа"
+	},
+	{
+		"ID" : 33307,
+		"Level" : 375,
+		"Name" : "Formula: Enchant Weapon - Executioner",
+		"NameRU" : "Формула чар для оружия - палач"
+	},
+	{
+		"ID" : 35756,
+		"Level" : 375,
+		"Name" : "Formula: Enchant Cloak - Steelweave",
+		"NameRU" : "Формула чар для плаща - стальная ткань"
+	},
+	{
+		"ID" : 34872,
+		"Level" : 375,
+		"Name" : "Formula: Void Shatter",
+		"NameRU" : "Формула: дробление кристалла Бездны"
+	},
+	{
+		"ID" : 50406,
+		"Level" : 375,
+		"Name" : "Formula: Enchant Gloves - Angler",
+		"NameRU" : "Формула чар для перчаток - рыболов"
+	},
+	{
+		"ID" : 37331,
+		"Level" : 400,
+		"Name" : "Formula: Enchant Cloak - Superior Fire Resistance",
+		"NameRU" : "Формула чар для плаща - сопротивление огню IV"
+	},
+	{
+		"ID" : 37332,
+		"Level" : 400,
+		"Name" : "Formula: Enchant Cloak - Superior Frost Resistance",
+		"NameRU" : "Формула чар для плаща - сопротивление магии льда"
+	},
+	{
+		"ID" : 37333,
+		"Level" : 400,
+		"Name" : "Formula: Enchant Cloak - Superior Nature Resistance",
+		"NameRU" : "Формула чар для плаща - сопротивление силам природы II"
+	},
+	{
+		"ID" : 37334,
+		"Level" : 400,
+		"Name" : "Formula: Enchant Cloak - Superior Shadow Resistance",
+		"NameRU" : "Формула чар для плаща - сопротивление темной магии III"
+	},
+	{
+		"ID" : 37330,
+		"Level" : 400,
+		"Name" : "Formula: Enchant Cloak - Superior Arcane Resistance",
+		"NameRU" : "Формула чар для плаща - сопротивление тайной магии II"
+	},
+	{
+		"ID" : 37326,
+		"Level" : 400,
+		"Name" : "Formula: Enchant Bracer - Major Spirit",
+		"NameRU" : "Формула чар для наручей - дух VI"
+	},
+	{
+		"ID" : 37329,
+		"Level" : 400,
+		"Name" : "Formula: Enchant Weapon - Exceptional Spirit",
+		"NameRU" : "Формула чар для оружия - дух II"
+	},
+	{
+		"ID" : 37335,
+		"Level" : 400,
+		"Name" : "Formula: Enchant Cloak - Superior Agility",
+		"NameRU" : "Формула чар для плаща - ловкость IV"
+	},
+	{
+		"ID" : 37336,
+		"Level" : 400,
+		"Name" : "Formula: Enchant Chest - Greater Dodge",
+		"NameRU" : "Формула чар для нагрудника - уклонение II"
+	},
+	{
+		"ID" : 37337,
+		"Level" : 400,
+		"Name" : "Formula: Enchant Bracer - Greater Stats",
+		"NameRU" : "Формула чар для наручей - все характеристики I"
+	},
+	{
+		"ID" : 37340,
+		"Level" : 410,
+		"Name" : "Formula: Enchant Chest - Exceptional Resilience",
+		"NameRU" : "Формула чар для нагрудника - устойчивость II"
+	},
+	{
+		"ID" : 37338,
+		"Level" : 410,
+		"Name" : "Formula: Enchant Weapon - Greater Savagery",
+		"NameRU" : "Формула чар для оружия - свирепость"
+	},
+	{
+		"ID" : 37343,
+		"Level" : 420,
+		"Name" : "Formula: Enchant Weapon - Exceptional Agility",
+		"NameRU" : "Формула чар для оружия - ловкость III"
+	},
+	{
+		"ID" : 37345,
+		"Level" : 420,
+		"Name" : "Formula: Enchant Gloves - Greater Assault",
+		"NameRU" : "Формула чар для перчаток - штурм II"
+	},
+	{
+		"ID" : 37346,
+		"Level" : 420,
+		"Name" : "Formula: Enchant Bracer - Expertise",
+		"NameRU" : "Формула чар для наручей - мастерство"
+	},
+	{
+		"ID" : 37344,
+		"Level" : 425,
+		"Name" : "Formula: Enchant Weapon - Icebreaker",
+		"NameRU" : "Формула чар для оружия - ледорез"
+	},
+	{
+		"ID" : 44494,
+		"Level" : 425,
+		"Name" : "Formula: Enchant Weapon - Lifeward",
+		"NameRU" : "Формула чар для оружия - оберег"
+	},
+	{
+		"ID" : 37348,
+		"Level" : 425,
+		"Name" : "Formula: Enchant Cloak - Haste",
+		"NameRU" : "Формула чар для плаща - ускорение"
+	},
+	{
+		"ID" : 37339,
+		"Level" : 430,
+		"Name" : "Formula: Enchant Weapon - Giant Slayer",
+		"NameRU" : "Формула чар для оружия - истребитель великанов"
+	},
+	{
+		"ID" : 44471,
+		"Level" : 430,
+		"Name" : "Formula: Enchant Cloak - Mighty Armor",
+		"NameRU" : "Формула чар для плаща - могучая броня"
+	},
+	{
+		"ID" : 44472,
+		"Level" : 430,
+		"Name" : "Formula: Enchant Cloak - Greater Speed",
+		"NameRU" : "Формула чар для плаща - скорость II"
+	},
+	{
+		"ID" : 44473,
+		"Level" : 430,
+		"Name" : "Formula: Enchant Weapon - Scourgebane",
+		"NameRU" : "Формула чар для оружия - проклятие Плети"
+	},
+	{
+		"ID" : 44483,
+		"Level" : 430,
+		"Name" : "Formula: Enchant 2H Weapon - Massacre",
+		"NameRU" : "Формула чар для двуручного оружия - резня"
+	},
+	{
+		"ID" : 44484,
+		"Level" : 430,
+		"Name" : "Formula: Enchant Bracers - Greater Assault",
+		"NameRU" : "Формула чар для наручей - штурм II"
+	},
+	{
+		"ID" : 37347,
+		"Level" : 435,
+		"Name" : "Formula: Enchant Cloak - Titanweave",
+		"NameRU" : "Формула чар для плаща - ткань титанов"
+	},
+	{
+		"ID" : 44485,
+		"Level" : 435,
+		"Name" : "Formula: Enchant Gloves - Armsman",
+		"NameRU" : "Формула чар для перчаток - оружейник"
+	},
+	{
+		"ID" : 44486,
+		"Level" : 435,
+		"Name" : "Formula: Enchant Weapon - Superior Potency",
+		"NameRU" : "Формула чар для оружия - могущество III"
+	},
+	{
+		"ID" : 44487,
+		"Level" : 435,
+		"Name" : "Formula: Enchant Weapon - Mighty Spellpower",
+		"NameRU" : "Формула чар для оружия - сила заклинаний III"
+	},
+	{
+		"ID" : 37349,
+		"Level" : 440,
+		"Name" : "Formula: Enchant Cloak - Shadow Armor",
+		"NameRU" : "Формула чар для плаща - теневая броня"
+	},
+	{
+		"ID" : 44488,
+		"Level" : 440,
+		"Name" : "Formula: Enchant Cloak - Wisdom",
+		"NameRU" : "Формула чар для плаща - мудрость"
+	},
+	{
+		"ID" : 44489,
+		"Level" : 440,
+		"Name" : "Formula: Enchant Chest - Powerful Stats",
+		"NameRU" : "Формула чар для нагрудника - все характеристики VII"
+	},
+	{
+		"ID" : 44490,
+		"Level" : 440,
+		"Name" : "Formula: Enchant Boots - Greater Assault",
+		"NameRU" : "Формула чар для обуви - штурм II"
+	},
+	{
+		"ID" : 44491,
+		"Level" : 440,
+		"Name" : "Formula: Enchant Boots - Tuskarr's Vitality",
+		"NameRU" : "Формула чар для обуви - живучесть клыкарра"
+	},
+	{
+		"ID" : 44492,
+		"Level" : 440,
+		"Name" : "Formula: Enchant Weapon - Berserking",
+		"NameRU" : "Формула чар для оружия - берсерк"
+	},
+	{
+		"ID" : 44495,
+		"Level" : 440,
+		"Name" : "Formula: Enchant Weapon - Black Magic",
+		"NameRU" : "Формула чар для оружия - черная магия"
+	},
+	{
+		"ID" : 44496,
+		"Level" : 440,
+		"Name" : "Formula: Enchant Weapon - Accuracy",
+		"NameRU" : "Формула чар для оружия - точность"
+	},
+	{
+		"ID" : 44498,
+		"Level" : 440,
+		"Name" : "Formula: Enchant Bracer - Superior Spellpower",
+		"NameRU" : "Формула чар для наручей - сила заклинаний III"
+	},
+	{
+		"ID" : 44944,
+		"Level" : 450,
+		"Name" : "Formula: Enchant Bracer - Major Stamina",
+		"NameRU" : "Формула чар для наручей - выносливость V"
+	},
+	{
+		"ID" : 45059,
+		"Level" : 450,
+		"Name" : "Formula: Enchant Staff - Greater Spellpower",
+		"NameRU" : "Формула чар для посоха - сила заклинаний II"
+	},
+	{
+		"ID" : 46027,
+		"Level" : 450,
+		"Name" : "Formula: Enchant Weapon - Blade Ward",
+		"NameRU" : "Формула чар для оружия - отведение удара"
+	},
+	{
+		"ID" : 46348,
+		"Level" : 450,
+		"Name" : "Formula: Enchant Weapon - Blood Draining",
+		"NameRU" : "Формула чар для оружия - вытягивание крови"
+	}
+]

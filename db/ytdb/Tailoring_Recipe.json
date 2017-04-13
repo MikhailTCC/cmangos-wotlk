@@ -1,0 +1,1688 @@
+[
+	{
+		"ID" : 2598,
+		"Level" : 40,
+		"Name" : "Pattern: Red Linen Robe",
+		"NameRU" : "Выкройка: красное льняное одеяние"
+	},
+	{
+		"ID" : 6270,
+		"Level" : 55,
+		"Name" : "Pattern: Blue Linen Vest",
+		"NameRU" : "Выкройка: синий льняной жилет"
+	},
+	{
+		"ID" : 6271,
+		"Level" : 55,
+		"Name" : "Pattern: Red Linen Vest",
+		"NameRU" : "Выкройка: красный льняной жилет"
+	},
+	{
+		"ID" : 5771,
+		"Level" : 70,
+		"Name" : "Pattern: Red Linen Bag",
+		"NameRU" : "Выкройка: красная льняная сумка"
+	},
+	{
+		"ID" : 6272,
+		"Level" : 70,
+		"Name" : "Pattern: Blue Linen Robe",
+		"NameRU" : "Выкройка: синее льняное одеяние"
+	},
+	{
+		"ID" : 4292,
+		"Level" : 95,
+		"Name" : "Pattern: Green Woolen Bag",
+		"NameRU" : "Выкройка: зеленая шерстяная сумка"
+	},
+	{
+		"ID" : 4345,
+		"Level" : 95,
+		"Name" : "Pattern: Red Woolen Boots",
+		"NameRU" : "Выкройка: красные шерстяные сапоги"
+	},
+	{
+		"ID" : 4346,
+		"Level" : 100,
+		"Name" : "Pattern: Heavy Woolen Cloak",
+		"NameRU" : "Выкройка: тяжелый шерстяной плащ"
+	},
+	{
+		"ID" : 6274,
+		"Level" : 100,
+		"Name" : "Pattern: Blue Overalls",
+		"NameRU" : "Выкройка: синий комбинезон"
+	},
+	{
+		"ID" : 2601,
+		"Level" : 105,
+		"Name" : "Pattern: Gray Woolen Robe",
+		"NameRU" : "Выкройка: серое шерстяное одеяние"
+	},
+	{
+		"ID" : 5772,
+		"Level" : 115,
+		"Name" : "Pattern: Red Woolen Bag",
+		"NameRU" : "Выкройка: красная шерстяная сумка"
+	},
+	{
+		"ID" : 6275,
+		"Level" : 115,
+		"Name" : "Pattern: Greater Adept's Robe",
+		"NameRU" : "Выкройка: большее одеяние адепта"
+	},
+	{
+		"ID" : 4347,
+		"Level" : 120,
+		"Name" : "Pattern: Reinforced Woolen Shoulders",
+		"NameRU" : "Выкройка: усиленные шерстяные наплечники"
+	},
+	{
+		"ID" : 6390,
+		"Level" : 120,
+		"Name" : "Pattern: Stylish Blue Shirt",
+		"NameRU" : "Выкройка: стильная синяя рубашка"
+	},
+	{
+		"ID" : 6391,
+		"Level" : 120,
+		"Name" : "Pattern: Stylish Green Shirt",
+		"NameRU" : "Выкройка: стильная зеленая рубашка"
+	},
+	{
+		"ID" : 10316,
+		"Level" : 120,
+		"Name" : "Pattern: Colorful Kilt",
+		"NameRU" : "Выкройка: многоцветный килт"
+	},
+	{
+		"ID" : 4348,
+		"Level" : 125,
+		"Name" : "Pattern: Phoenix Gloves",
+		"NameRU" : "Выкройка: перчатки Феникса"
+	},
+	{
+		"ID" : 4349,
+		"Level" : 125,
+		"Name" : "Pattern: Phoenix Pants",
+		"NameRU" : "Выкройка: штаны Феникса"
+	},
+	{
+		"ID" : 14627,
+		"Level" : 135,
+		"Name" : "Pattern: Bright Yellow Shirt",
+		"NameRU" : "Выкройка: ярко-желтая рубашка"
+	},
+	{
+		"ID" : 4350,
+		"Level" : 140,
+		"Name" : "Pattern: Spider Silk Slippers",
+		"NameRU" : "Выкройка: туфли из паутины"
+	},
+	{
+		"ID" : 7092,
+		"Level" : 145,
+		"Name" : "Pattern: Hands of Darkness",
+		"NameRU" : "Выкройка: краги Тьмы"
+	},
+	{
+		"ID" : 7114,
+		"Level" : 145,
+		"Name" : "Pattern: Azure Silk Gloves",
+		"NameRU" : "Выкройка: лазурные шелковые перчатки"
+	},
+	{
+		"ID" : 5773,
+		"Level" : 150,
+		"Name" : "Pattern: Robes of Arcana",
+		"NameRU" : "Выкройка: одеяния Тайны"
+	},
+	{
+		"ID" : 7091,
+		"Level" : 150,
+		"Name" : "Pattern: Truefaith Gloves",
+		"NameRU" : "Выкройка: перчатки истинной веры"
+	},
+	{
+		"ID" : 6401,
+		"Level" : 155,
+		"Name" : "Pattern: Dark Silk Shirt",
+		"NameRU" : "Выкройка: темная шелковая рубашка"
+	},
+	{
+		"ID" : 7090,
+		"Level" : 165,
+		"Name" : "Pattern: Green Silk Armor",
+		"NameRU" : "Выкройка: зеленая шелковая броня"
+	},
+	{
+		"ID" : 14630,
+		"Level" : 165,
+		"Name" : "Pattern: Enchanter's Cowl",
+		"NameRU" : "Выкройка: клобук волшебника"
+	},
+	{
+		"ID" : 4351,
+		"Level" : 170,
+		"Name" : "Pattern: Shadow Hood",
+		"NameRU" : "Выкройка: теневой капюшон"
+	},
+	{
+		"ID" : 4352,
+		"Level" : 175,
+		"Name" : "Pattern: Boots of the Enchanter",
+		"NameRU" : "Выкройка: сапоги заклинателя"
+	},
+	{
+		"ID" : 5774,
+		"Level" : 175,
+		"Name" : "Pattern: Green Silk Pack",
+		"NameRU" : "Выкройка: зеленая шелковая сума"
+	},
+	{
+		"ID" : 7089,
+		"Level" : 175,
+		"Name" : "Pattern: Azure Silk Cloak",
+		"NameRU" : "Выкройка: лазурный шелковый плащ"
+	},
+	{
+		"ID" : 4353,
+		"Level" : 180,
+		"Name" : "Pattern: Spider Belt",
+		"NameRU" : "Выкройка: паучий пояс"
+	},
+	{
+		"ID" : 7087,
+		"Level" : 180,
+		"Name" : "Pattern: Crimson Silk Cloak",
+		"NameRU" : "Выкройка: багровый шелковый плащ"
+	},
+	{
+		"ID" : 4354,
+		"Level" : 185,
+		"Name" : "Pattern: Rich Purple Silk Shirt",
+		"NameRU" : "Выкройка: роскошная лиловая шелковая рубашка"
+	},
+	{
+		"ID" : 5775,
+		"Level" : 185,
+		"Name" : "Pattern: Black Silk Pack",
+		"NameRU" : "Выкройка: черная шелковая сума"
+	},
+	{
+		"ID" : 7084,
+		"Level" : 190,
+		"Name" : "Pattern: Crimson Silk Shoulders",
+		"NameRU" : "Выкройка: багровые шелковые наплечники"
+	},
+	{
+		"ID" : 7085,
+		"Level" : 190,
+		"Name" : "Pattern: Azure Shoulders",
+		"NameRU" : "Выкройка: лазурные наплечники"
+	},
+	{
+		"ID" : 17724,
+		"Level" : 190,
+		"Name" : "Pattern: Green Holiday Shirt",
+		"NameRU" : "Выкройка: зеленая выходная рубашка"
+	},
+	{
+		"ID" : 7086,
+		"Level" : 195,
+		"Name" : "Pattern: Earthen Silk Belt",
+		"NameRU" : "Выкройка: шелковый пояс земли"
+	},
+	{
+		"ID" : 4355,
+		"Level" : 200,
+		"Name" : "Pattern: Icy Cloak",
+		"NameRU" : "Выкройка: ледяной плащ"
+	},
+	{
+		"ID" : 4356,
+		"Level" : 200,
+		"Name" : "Pattern: Star Belt",
+		"NameRU" : "Выкройка: звездный пояс"
+	},
+	{
+		"ID" : 10728,
+		"Level" : 200,
+		"Name" : "Pattern: Black Swashbuckler's Shirt",
+		"NameRU" : "Выкройка: черная рубашка сорвиголовы"
+	},
+	{
+		"ID" : 7088,
+		"Level" : 205,
+		"Name" : "Pattern: Crimson Silk Robe",
+		"NameRU" : "Выкройка: багровое шелковое одеяние"
+	},
+	{
+		"ID" : 10300,
+		"Level" : 215,
+		"Name" : "Pattern: Red Mageweave Vest",
+		"NameRU" : "Выкройка: красный жилет из магической ткани"
+	},
+	{
+		"ID" : 10301,
+		"Level" : 215,
+		"Name" : "Pattern: White Bandit Mask",
+		"NameRU" : "Выкройка: белая бандитская маска"
+	},
+	{
+		"ID" : 10302,
+		"Level" : 215,
+		"Name" : "Pattern: Red Mageweave Pants",
+		"NameRU" : "Выкройка: красные штаны из магической ткани"
+	},
+	{
+		"ID" : 10311,
+		"Level" : 220,
+		"Name" : "Pattern: Orange Martial Shirt",
+		"NameRU" : "Выкройка: оранжевая воинская рубашка"
+	},
+	{
+		"ID" : 10312,
+		"Level" : 225,
+		"Name" : "Pattern: Red Mageweave Gloves",
+		"NameRU" : "Выкройка: красные перчатки из магической ткани"
+	},
+	{
+		"ID" : 22307,
+		"Level" : 225,
+		"Name" : "Pattern: Enchanted Mageweave Pouch",
+		"NameRU" : "Выкройка: зачарованный мешочек из магической ткани"
+	},
+	{
+		"ID" : 10314,
+		"Level" : 230,
+		"Name" : "Pattern: Lavender Mageweave Shirt",
+		"NameRU" : "Выкройка: лиловая рубашка из магической ткани"
+	},
+	{
+		"ID" : 10315,
+		"Level" : 235,
+		"Name" : "Pattern: Red Mageweave Shoulders",
+		"NameRU" : "Выкройка: красные наплечники из магической ткани"
+	},
+	{
+		"ID" : 10317,
+		"Level" : 235,
+		"Name" : "Pattern: Pink Mageweave Shirt",
+		"NameRU" : "Выкройка: розовая рубашка из магической ткани"
+	},
+	{
+		"ID" : 10318,
+		"Level" : 240,
+		"Name" : "Pattern: Admiral's Hat",
+		"NameRU" : "Выкройка: адмиральская шляпа"
+	},
+	{
+		"ID" : 10320,
+		"Level" : 240,
+		"Name" : "Pattern: Red Mageweave Headband",
+		"NameRU" : "Выкройка: красная головная повязка из магической ткани"
+	},
+	{
+		"ID" : 10321,
+		"Level" : 240,
+		"Name" : "Pattern: Tuxedo Shirt",
+		"NameRU" : "Выкройка: рубашка под смокинг"
+	},
+	{
+		"ID" : 10323,
+		"Level" : 245,
+		"Name" : "Pattern: Tuxedo Pants",
+		"NameRU" : "Выкройка: брюки под смокинг"
+	},
+	{
+		"ID" : 10463,
+		"Level" : 245,
+		"Name" : "Pattern: Shadoweave Mask",
+		"NameRU" : "Выкройка: тенетканая маска"
+	},
+	{
+		"ID" : 38328,
+		"Level" : 245,
+		"Name" : "Pattern: Haliscan Pantaloons",
+		"NameRU" : "Выкройка: кюлоты Халискана"
+	},
+	{
+		"ID" : 10325,
+		"Level" : 250,
+		"Name" : "Pattern: White Wedding Dress",
+		"NameRU" : "Выкройка: белое свадебное платье"
+	},
+	{
+		"ID" : 10326,
+		"Level" : 250,
+		"Name" : "Pattern: Tuxedo Jacket",
+		"NameRU" : "Выкройка: куртка-смокинг"
+	},
+	{
+		"ID" : 14526,
+		"Level" : 250,
+		"Name" : "Pattern: Mooncloth",
+		"NameRU" : "Выкройка: луноткань"
+	},
+	{
+		"ID" : 21722,
+		"Level" : 250,
+		"Name" : "Pattern: Festival Dress",
+		"NameRU" : "Выкройка: праздничное платье"
+	},
+	{
+		"ID" : 21723,
+		"Level" : 250,
+		"Name" : "Pattern: Festival Suit",
+		"NameRU" : "Выкройка: праздничный костюм"
+	},
+	{
+		"ID" : 34261,
+		"Level" : 250,
+		"Name" : "Pattern: Green Winter Clothes",
+		"NameRU" : "Выкройка: зеленые зимние одежды"
+	},
+	{
+		"ID" : 34319,
+		"Level" : 250,
+		"Name" : "Pattern: Red Winter Clothes",
+		"NameRU" : "Выкройка: красные зимние одежды"
+	},
+	{
+		"ID" : 37915,
+		"Level" : 250,
+		"Name" : "Pattern: Dress Shoes",
+		"NameRU" : "Выкройка: парадные ботинки"
+	},
+	{
+		"ID" : 38327,
+		"Level" : 250,
+		"Name" : "Pattern: Haliscan Jacket",
+		"NameRU" : "Выкройка: куртка Халискана"
+	},
+	{
+		"ID" : 44916,
+		"Level" : 250,
+		"Name" : "Pattern: Festival Dress",
+		"NameRU" : "Выкройка: праздничное платье"
+	},
+	{
+		"ID" : 44917,
+		"Level" : 250,
+		"Name" : "Pattern: Festival Suit",
+		"NameRU" : "Выкройка: праздничный костюм"
+	},
+	{
+		"ID" : 14466,
+		"Level" : 255,
+		"Name" : "Pattern: Frostweave Tunic",
+		"NameRU" : "Выкройка: мундир из ледяной ткани"
+	},
+	{
+		"ID" : 14467,
+		"Level" : 255,
+		"Name" : "Pattern: Frostweave Robe",
+		"NameRU" : "Выкройка: одеяние из ледяной ткани"
+	},
+	{
+		"ID" : 14468,
+		"Level" : 260,
+		"Name" : "Pattern: Runecloth Bag",
+		"NameRU" : "Выкройка: сумка из рунической ткани"
+	},
+	{
+		"ID" : 14469,
+		"Level" : 260,
+		"Name" : "Pattern: Runecloth Robe",
+		"NameRU" : "Выкройка: одеяние из рунической ткани"
+	},
+	{
+		"ID" : 14470,
+		"Level" : 260,
+		"Name" : "Pattern: Runecloth Tunic",
+		"NameRU" : "Выкройка: мундир из рунной ткани"
+	},
+	{
+		"ID" : 14471,
+		"Level" : 260,
+		"Name" : "Pattern: Cindercloth Vest",
+		"NameRU" : "Выкройка: жилет из пепельной ткани"
+	},
+	{
+		"ID" : 21358,
+		"Level" : 260,
+		"Name" : "Pattern: Soul Pouch",
+		"NameRU" : "Выкройка: сума душ"
+	},
+	{
+		"ID" : 14472,
+		"Level" : 265,
+		"Name" : "Pattern: Runecloth Cloak",
+		"NameRU" : "Выкройка: плащ из рунической ткани"
+	},
+	{
+		"ID" : 14473,
+		"Level" : 265,
+		"Name" : "Pattern: Ghostweave Belt",
+		"NameRU" : "Выкройка: пояс из призрачной ткани"
+	},
+	{
+		"ID" : 14474,
+		"Level" : 265,
+		"Name" : "Pattern: Frostweave Gloves",
+		"NameRU" : "Выкройка: перчатки из ледяной ткани"
+	},
+	{
+		"ID" : 14476,
+		"Level" : 270,
+		"Name" : "Pattern: Cindercloth Gloves",
+		"NameRU" : "Выкройка: перчатки из пепельной ткани"
+	},
+	{
+		"ID" : 14477,
+		"Level" : 270,
+		"Name" : "Pattern: Ghostweave Gloves",
+		"NameRU" : "Выкройка: перчатки из призрачной ткани"
+	},
+	{
+		"ID" : 14478,
+		"Level" : 270,
+		"Name" : "Pattern: Brightcloth Robe",
+		"NameRU" : "Выкройка: одеяние из яркой ткани"
+	},
+	{
+		"ID" : 14479,
+		"Level" : 270,
+		"Name" : "Pattern: Brightcloth Gloves",
+		"NameRU" : "Выкройка: перчатки из яркой ткани"
+	},
+	{
+		"ID" : 14480,
+		"Level" : 275,
+		"Name" : "Pattern: Ghostweave Vest",
+		"NameRU" : "Выкройка: жилет из призрачной ткани"
+	},
+	{
+		"ID" : 14481,
+		"Level" : 275,
+		"Name" : "Pattern: Runecloth Gloves",
+		"NameRU" : "Выкройка: перчатки из рунной ткани"
+	},
+	{
+		"ID" : 14482,
+		"Level" : 275,
+		"Name" : "Pattern: Cindercloth Cloak",
+		"NameRU" : "Выкройка: плащ из пепельной ткани"
+	},
+	{
+		"ID" : 14483,
+		"Level" : 275,
+		"Name" : "Pattern: Felcloth Pants",
+		"NameRU" : "Выкройка: штаны из ткани Скверны"
+	},
+	{
+		"ID" : 14484,
+		"Level" : 275,
+		"Name" : "Pattern: Brightcloth Cloak",
+		"NameRU" : "Выкройка: плащ из яркой ткани"
+	},
+	{
+		"ID" : 14485,
+		"Level" : 275,
+		"Name" : "Pattern: Wizardweave Leggings",
+		"NameRU" : "Выкройка: поножи из чародейской ткани"
+	},
+	{
+		"ID" : 14486,
+		"Level" : 275,
+		"Name" : "Pattern: Cloak of Fire",
+		"NameRU" : "Выкройка: плащ огня"
+	},
+	{
+		"ID" : 22310,
+		"Level" : 275,
+		"Name" : "Pattern: Cenarion Herb Bag",
+		"NameRU" : "Выкройка: кенарийская сумка для трав"
+	},
+	{
+		"ID" : 22308,
+		"Level" : 275,
+		"Name" : "Pattern: Enchanted Runecloth Bag",
+		"NameRU" : "Выкройка: зачарованная сумка из рунической ткани"
+	},
+	{
+		"ID" : 14488,
+		"Level" : 280,
+		"Name" : "Pattern: Runecloth Boots",
+		"NameRU" : "Выкройка: сапоги из рунной ткани"
+	},
+	{
+		"ID" : 14489,
+		"Level" : 280,
+		"Name" : "Pattern: Frostweave Pants",
+		"NameRU" : "Выкройка: штаны из ледяной ткани"
+	},
+	{
+		"ID" : 14490,
+		"Level" : 280,
+		"Name" : "Pattern: Cindercloth Pants",
+		"NameRU" : "Выкройка: штаны из пепельной ткани"
+	},
+	{
+		"ID" : 14491,
+		"Level" : 285,
+		"Name" : "Pattern: Runecloth Pants",
+		"NameRU" : "Выкройка: штаны из рунной ткани"
+	},
+	{
+		"ID" : 14492,
+		"Level" : 285,
+		"Name" : "Pattern: Felcloth Boots",
+		"NameRU" : "Выкройка: сапоги из ткани Скверны"
+	},
+	{
+		"ID" : 14493,
+		"Level" : 285,
+		"Name" : "Pattern: Robe of Winter Night",
+		"NameRU" : "Выкройка: одеяние Зимней ночи"
+	},
+	{
+		"ID" : 14494,
+		"Level" : 290,
+		"Name" : "Pattern: Brightcloth Pants",
+		"NameRU" : "Выкройка: штаны из яркой ткани"
+	},
+	{
+		"ID" : 14495,
+		"Level" : 290,
+		"Name" : "Pattern: Ghostweave Pants",
+		"NameRU" : "Выкройка: штаны из призрачной ткани"
+	},
+	{
+		"ID" : 14496,
+		"Level" : 290,
+		"Name" : "Pattern: Felcloth Hood",
+		"NameRU" : "Выкройка: капюшон из ткани Скверны"
+	},
+	{
+		"ID" : 14497,
+		"Level" : 290,
+		"Name" : "Pattern: Mooncloth Leggings",
+		"NameRU" : "Выкройка: поножи из луноткани"
+	},
+	{
+		"ID" : 19215,
+		"Level" : 290,
+		"Name" : "Pattern: Wisdom of the Timbermaw",
+		"NameRU" : "Выкройка: Мудрость Древобрюхов"
+	},
+	{
+		"ID" : 19216,
+		"Level" : 290,
+		"Name" : "Pattern: Argent Boots",
+		"NameRU" : "Выкройка: серебристые сапоги"
+	},
+	{
+		"ID" : 14498,
+		"Level" : 295,
+		"Name" : "Pattern: Runecloth Headband",
+		"NameRU" : "Выкройка: головная повязка из рунной ткани"
+	},
+	{
+		"ID" : 14499,
+		"Level" : 300,
+		"Name" : "Pattern: Mooncloth Bag",
+		"NameRU" : "Выкройка: сумка из луноткани"
+	},
+	{
+		"ID" : 14500,
+		"Level" : 300,
+		"Name" : "Pattern: Wizardweave Robe",
+		"NameRU" : "Выкройка: одеяние из чародейской ткани"
+	},
+	{
+		"ID" : 14501,
+		"Level" : 300,
+		"Name" : "Pattern: Mooncloth Vest",
+		"NameRU" : "Выкройка: жилет из луноткани"
+	},
+	{
+		"ID" : 14504,
+		"Level" : 300,
+		"Name" : "Pattern: Runecloth Shoulders",
+		"NameRU" : "Выкройка: наплечники из рунной ткани"
+	},
+	{
+		"ID" : 14505,
+		"Level" : 300,
+		"Name" : "Pattern: Wizardweave Turban",
+		"NameRU" : "Выкройка: тюрбан из чародейской ткани"
+	},
+	{
+		"ID" : 14506,
+		"Level" : 300,
+		"Name" : "Pattern: Felcloth Robe",
+		"NameRU" : "Выкройка: одеяние из ткани Скверны"
+	},
+	{
+		"ID" : 14507,
+		"Level" : 300,
+		"Name" : "Pattern: Mooncloth Shoulders",
+		"NameRU" : "Выкройка: наплечники из луноткани"
+	},
+	{
+		"ID" : 14508,
+		"Level" : 300,
+		"Name" : "Pattern: Felcloth Shoulders",
+		"NameRU" : "Выкройка: наплечники из ткани Скверны"
+	},
+	{
+		"ID" : 14509,
+		"Level" : 300,
+		"Name" : "Pattern: Mooncloth Circlet",
+		"NameRU" : "Выкройка: венец из луноткани"
+	},
+	{
+		"ID" : 14510,
+		"Level" : 300,
+		"Name" : "Pattern: Bottomless Bag",
+		"NameRU" : "Выкройка: бездонная сумка"
+	},
+	{
+		"ID" : 14511,
+		"Level" : 300,
+		"Name" : "Pattern: Gloves of Spell Mastery",
+		"NameRU" : "Выкройка: перчатки Волшебства"
+	},
+	{
+		"ID" : 14512,
+		"Level" : 300,
+		"Name" : "Pattern: Truefaith Vestments",
+		"NameRU" : "Выкройка: одежды истинной веры"
+	},
+	{
+		"ID" : 14513,
+		"Level" : 300,
+		"Name" : "Pattern: Robe of the Archmage",
+		"NameRU" : "Выкройка: одеяние верховного мага"
+	},
+	{
+		"ID" : 14514,
+		"Level" : 300,
+		"Name" : "Pattern: Robe of the Void",
+		"NameRU" : "Выкройка: одеяние Бездны"
+	},
+	{
+		"ID" : 17017,
+		"Level" : 300,
+		"Name" : "Pattern: Flarecore Mantle",
+		"NameRU" : "Выкройка: оплечье пламенных недр"
+	},
+	{
+		"ID" : 17018,
+		"Level" : 300,
+		"Name" : "Pattern: Flarecore Gloves",
+		"NameRU" : "Выкройка: перчатки пламенных недр"
+	},
+	{
+		"ID" : 18265,
+		"Level" : 300,
+		"Name" : "Pattern: Flarecore Wraps",
+		"NameRU" : "Выкройка: напульсники пламенных недр"
+	},
+	{
+		"ID" : 18414,
+		"Level" : 300,
+		"Name" : "Pattern: Belt of the Archmage",
+		"NameRU" : "Выкройка: пояс верховного мага"
+	},
+	{
+		"ID" : 18415,
+		"Level" : 300,
+		"Name" : "Pattern: Felcloth Gloves",
+		"NameRU" : "Выкройка: перчатки из ткани Скверны"
+	},
+	{
+		"ID" : 18416,
+		"Level" : 300,
+		"Name" : "Pattern: Inferno Gloves",
+		"NameRU" : "Выкройка: инфернальные перчатки"
+	},
+	{
+		"ID" : 18417,
+		"Level" : 300,
+		"Name" : "Pattern: Mooncloth Gloves",
+		"NameRU" : "Выкройка: перчатки из луноткани"
+	},
+	{
+		"ID" : 18418,
+		"Level" : 300,
+		"Name" : "Pattern: Cloak of Warding",
+		"NameRU" : "Выкройка: плащ стражи"
+	},
+	{
+		"ID" : 18487,
+		"Level" : 300,
+		"Name" : "Pattern: Mooncloth Robe",
+		"NameRU" : "Выкройка: одеяние из луноткани"
+	},
+	{
+		"ID" : 19217,
+		"Level" : 300,
+		"Name" : "Pattern: Argent Shoulders",
+		"NameRU" : "Выкройка: серебристые наплечники"
+	},
+	{
+		"ID" : 19218,
+		"Level" : 300,
+		"Name" : "Pattern: Mantle of the Timbermaw",
+		"NameRU" : "Выкройка: оплечье Древобрюхов"
+	},
+	{
+		"ID" : 19219,
+		"Level" : 300,
+		"Name" : "Pattern: Flarecore Robe",
+		"NameRU" : "Выкройка: одеяние пламенных недр"
+	},
+	{
+		"ID" : 19220,
+		"Level" : 300,
+		"Name" : "Pattern: Flarecore Leggings",
+		"NameRU" : "Выкройка: поножи пламенных недр"
+	},
+	{
+		"ID" : 19764,
+		"Level" : 300,
+		"Name" : "Pattern: Bloodvine Vest",
+		"NameRU" : "Выкройка: жилет кровавой лозы"
+	},
+	{
+		"ID" : 19765,
+		"Level" : 300,
+		"Name" : "Pattern: Bloodvine Leggings",
+		"NameRU" : "Выкройка: поножи кровавой лозы"
+	},
+	{
+		"ID" : 19766,
+		"Level" : 300,
+		"Name" : "Pattern: Bloodvine Boots",
+		"NameRU" : "Выкройка: сапоги кровавой лозы"
+	},
+	{
+		"ID" : 20546,
+		"Level" : 300,
+		"Name" : "Pattern: Runed Stygian Leggings",
+		"NameRU" : "Выкройка: рунические стигийские поножи"
+	},
+	{
+		"ID" : 20547,
+		"Level" : 300,
+		"Name" : "Pattern: Runed Stygian Boots",
+		"NameRU" : "Выкройка: рунические стигийские сапоги"
+	},
+	{
+		"ID" : 20548,
+		"Level" : 300,
+		"Name" : "Pattern: Runed Stygian Belt",
+		"NameRU" : "Выкройка: рунический стигийский пояс"
+	},
+	{
+		"ID" : 21371,
+		"Level" : 300,
+		"Name" : "Pattern: Core Felcloth Bag",
+		"NameRU" : "Выкройка: сумка из сердцевинной ткани Скверны"
+	},
+	{
+		"ID" : 22309,
+		"Level" : 300,
+		"Name" : "Pattern: Big Bag of Enchantment",
+		"NameRU" : "Выкройка: большая зачарованная сумка"
+	},
+	{
+		"ID" : 22312,
+		"Level" : 300,
+		"Name" : "Pattern: Satchel of Cenarius",
+		"NameRU" : "Выкройка: сумка Кенария"
+	},
+	{
+		"ID" : 22683,
+		"Level" : 300,
+		"Name" : "Pattern: Gaea's Embrace",
+		"NameRU" : "Выкройка: облачение Геи"
+	},
+	{
+		"ID" : 22772,
+		"Level" : 300,
+		"Name" : "Pattern: Sylvan Shoulders",
+		"NameRU" : "Выкройка: лесные наплечники"
+	},
+	{
+		"ID" : 22773,
+		"Level" : 300,
+		"Name" : "Pattern: Sylvan Crown",
+		"NameRU" : "Выкройка: лесная корона"
+	},
+	{
+		"ID" : 22774,
+		"Level" : 300,
+		"Name" : "Pattern: Sylvan Vest",
+		"NameRU" : "Выкройка: лесной жилет"
+	},
+	{
+		"ID" : 29120,
+		"Level" : 300,
+		"Name" : "Pattern: Truefaith Vestments",
+		"NameRU" : "Выкройка: одежды истинной веры"
+	},
+	{
+		"ID" : 24315,
+		"Level" : 325,
+		"Name" : "Pattern: Heavy Netherweave Net",
+		"NameRU" : "Образец: Сеть из ткани Пустоты"
+	},
+	{
+		"ID" : 21892,
+		"Level" : 325,
+		"Name" : "Pattern: Bolt of Imbued Netherweave",
+		"NameRU" : "Выкройка: рулон прочной ткани Пустоты"
+	},
+	{
+		"ID" : 43876,
+		"Level" : 325,
+		"Name" : "A Guide to Northern Cloth Scavenging",
+		"NameRU" : "Руководство по очистке северной ткани"
+	},
+	{
+		"ID" : 24292,
+		"Level" : 335,
+		"Name" : "Pattern: Mystic Spellthread",
+		"NameRU" : "Выкройка: таинственная чародейская нить"
+	},
+	{
+		"ID" : 24293,
+		"Level" : 335,
+		"Name" : "Pattern: Silver Spellthread",
+		"NameRU" : "Выкройка: серебряная чародейская нить"
+	},
+	{
+		"ID" : 21893,
+		"Level" : 340,
+		"Name" : "Pattern: Imbued Netherweave Bag",
+		"NameRU" : "Выкройка: сумка из прочной ткани Пустоты"
+	},
+	{
+		"ID" : 21896,
+		"Level" : 340,
+		"Name" : "Pattern: Netherweave Robe",
+		"NameRU" : "Выкройка: одеяние из ткани Пустоты"
+	},
+	{
+		"ID" : 24314,
+		"Level" : 340,
+		"Name" : "Pattern: Bag of Jewels",
+		"NameRU" : "Выкройка: мешочек для драгоценностей"
+	},
+	{
+		"ID" : 21898,
+		"Level" : 340,
+		"Name" : "Pattern: Imbued Netherweave Pants",
+		"NameRU" : "Выкройка: штаны из прочной ткани Пустоты"
+	},
+	{
+		"ID" : 21897,
+		"Level" : 345,
+		"Name" : "Pattern: Netherweave Tunic",
+		"NameRU" : "Выкройка: мундир из ткани Пустоты"
+	},
+	{
+		"ID" : 21894,
+		"Level" : 345,
+		"Name" : "Pattern: Bolt of Soulcloth",
+		"NameRU" : "Выкройка: рулон ткани Душ"
+	},
+	{
+		"ID" : 24301,
+		"Level" : 350,
+		"Name" : "Pattern: White Remedy Cape",
+		"NameRU" : "Выкройка: белая лечебная накидка"
+	},
+	{
+		"ID" : 24316,
+		"Level" : 350,
+		"Name" : "Pattern: Spellcloth",
+		"NameRU" : "Выкройка: чароткань"
+	},
+	{
+		"ID" : 24298,
+		"Level" : 350,
+		"Name" : "Pattern: Blackstrike Bracers",
+		"NameRU" : "Выкройка: наручи Черного удара"
+	},
+	{
+		"ID" : 24297,
+		"Level" : 350,
+		"Name" : "Pattern: Bracers of Havok",
+		"NameRU" : "Выкройка: наручи Разора"
+	},
+	{
+		"ID" : 24300,
+		"Level" : 350,
+		"Name" : "Pattern: Cloak of Eternity",
+		"NameRU" : "Выкройка: плащ вечности"
+	},
+	{
+		"ID" : 24299,
+		"Level" : 350,
+		"Name" : "Pattern: Cloak of the Black Void",
+		"NameRU" : "Выйкройка: плащ Черной Бездны"
+	},
+	{
+		"ID" : 24296,
+		"Level" : 350,
+		"Name" : "Pattern: Unyielding Bracers",
+		"NameRU" : "Выкройка: наручи непреклонности"
+	},
+	{
+		"ID" : 30483,
+		"Level" : 350,
+		"Name" : "Pattern: Shadowcloth",
+		"NameRU" : "Выкройка: ткань Теней"
+	},
+	{
+		"ID" : 30833,
+		"Level" : 350,
+		"Name" : "Pattern: Cloak of Arcane Evasion",
+		"NameRU" : "Выкройка: плащ защиты от чар"
+	},
+	{
+		"ID" : 30842,
+		"Level" : 350,
+		"Name" : "Pattern: Flameheart Bracers",
+		"NameRU" : "Выкройка: наручи пламенного сердца"
+	},
+	{
+		"ID" : 21899,
+		"Level" : 350,
+		"Name" : "Pattern: Imbued Netherweave Boots",
+		"NameRU" : "Выкройка: сапоги из прочной ткани Пустоты"
+	},
+	{
+		"ID" : 21895,
+		"Level" : 350,
+		"Name" : "Pattern: Primal Mooncloth",
+		"NameRU" : "Выкройка: изначальная луноткань"
+	},
+	{
+		"ID" : 21905,
+		"Level" : 350,
+		"Name" : "Pattern: Arcanoweave Bracers",
+		"NameRU" : "Выкройка: наручи из тайной ткани"
+	},
+	{
+		"ID" : 35308,
+		"Level" : 350,
+		"Name" : "Pattern: Unyielding Bracers",
+		"NameRU" : "Выкройка: наручи непреклонности"
+	},
+	{
+		"ID" : 21902,
+		"Level" : 355,
+		"Name" : "Pattern: Soulcloth Gloves",
+		"NameRU" : "Выкройка: перчатки из ткани Душ"
+	},
+	{
+		"ID" : 21908,
+		"Level" : 355,
+		"Name" : "Pattern: Spellfire Belt",
+		"NameRU" : "Выкройка: пояс из огненной чароткани"
+	},
+	{
+		"ID" : 21912,
+		"Level" : 355,
+		"Name" : "Pattern: Frozen Shadoweave Shoulders",
+		"NameRU" : "Выкройка: застывшие тенетканые наплечники"
+	},
+	{
+		"ID" : 21916,
+		"Level" : 355,
+		"Name" : "Pattern: Primal Mooncloth Belt",
+		"NameRU" : "Выкройка: пояс из изначальной луноткани"
+	},
+	{
+		"ID" : 30843,
+		"Level" : 360,
+		"Name" : "Pattern: Flameheart Gloves",
+		"NameRU" : "Выкройка: перчатки пламенного сердца"
+	},
+	{
+		"ID" : 21900,
+		"Level" : 360,
+		"Name" : "Pattern: Imbued Netherweave Robe",
+		"NameRU" : "Выкройка: одеяние из прочной ткани Пустоты"
+	},
+	{
+		"ID" : 21901,
+		"Level" : 360,
+		"Name" : "Pattern: Imbued Netherweave Tunic",
+		"NameRU" : "Выкройка: мундир из прочной ткани Пустоты"
+	},
+	{
+		"ID" : 21906,
+		"Level" : 360,
+		"Name" : "Pattern: Arcanoweave Boots",
+		"NameRU" : "Выкройка: сапоги из тайной ткани"
+	},
+	{
+		"ID" : 24306,
+		"Level" : 365,
+		"Name" : "Pattern: Vengeance Wrap",
+		"NameRU" : "Выкройка: плащ отмщения"
+	},
+	{
+		"ID" : 24302,
+		"Level" : 365,
+		"Name" : "Pattern: Unyielding Girdle",
+		"NameRU" : "Выкройка: ремень Непреклонности"
+	},
+	{
+		"ID" : 24307,
+		"Level" : 365,
+		"Name" : "Pattern: Manaweave Cloak",
+		"NameRU" : "Выкройка: плащ из ткани маны"
+	},
+	{
+		"ID" : 24305,
+		"Level" : 365,
+		"Name" : "Pattern: Resolute Cape",
+		"NameRU" : "Выкройка: накидка твердости"
+	},
+	{
+		"ID" : 24304,
+		"Level" : 365,
+		"Name" : "Pattern: Black Belt of Knowledge",
+		"NameRU" : "Выкройка: черный пояс знания"
+	},
+	{
+		"ID" : 24303,
+		"Level" : 365,
+		"Name" : "Pattern: Girdle of Ruination",
+		"NameRU" : "Выкройка: ремень опустошения"
+	},
+	{
+		"ID" : 21903,
+		"Level" : 365,
+		"Name" : "Pattern: Soulcloth Shoulders",
+		"NameRU" : "Выкройка: наплечники из ткани Душ"
+	},
+	{
+		"ID" : 21909,
+		"Level" : 365,
+		"Name" : "Pattern: Spellfire Gloves",
+		"NameRU" : "Выкройка: перчатки из огненной чароткани"
+	},
+	{
+		"ID" : 21914,
+		"Level" : 365,
+		"Name" : "Pattern: Frozen Shadoweave Boots",
+		"NameRU" : "Выкройка: застывшие тенетканые сапоги"
+	},
+	{
+		"ID" : 21918,
+		"Level" : 365,
+		"Name" : "Pattern: Primal Mooncloth Shoulders",
+		"NameRU" : "Выкройка: наплечники из изначальной луноткани"
+	},
+	{
+		"ID" : 35309,
+		"Level" : 365,
+		"Name" : "Pattern: Unyielding Girdle",
+		"NameRU" : "Выкройка: ремень Непреклонности"
+	},
+	{
+		"ID" : 35204,
+		"Level" : 365,
+		"Name" : "Pattern: Sunfire Handwraps",
+		"NameRU" : "Выкройка: перчатки Солнечного огня"
+	},
+	{
+		"ID" : 35205,
+		"Level" : 365,
+		"Name" : "Pattern: Hands of Eternal Light",
+		"NameRU" : "Выкройка: перчатки вечного света"
+	},
+	{
+		"ID" : 35206,
+		"Level" : 365,
+		"Name" : "Pattern: Sunfire Robe",
+		"NameRU" : "Выкройка: одеяние Солнечного огня"
+	},
+	{
+		"ID" : 35207,
+		"Level" : 365,
+		"Name" : "Pattern: Robe of Eternal Light",
+		"NameRU" : "Выкройка: одеяние вечного света"
+	},
+	{
+		"ID" : 35544,
+		"Level" : 365,
+		"Name" : "Pattern: Hands of Eternal Light",
+		"NameRU" : "Выкройка: Перчатки вечного света"
+	},
+	{
+		"ID" : 35548,
+		"Level" : 365,
+		"Name" : "Pattern: Robe of Eternal Light",
+		"NameRU" : "Выкройка: Одеяние вечного света"
+	},
+	{
+		"ID" : 35551,
+		"Level" : 365,
+		"Name" : "Pattern: Sunfire Handwraps",
+		"NameRU" : "Выкройка: Перчатки солнечного огня"
+	},
+	{
+		"ID" : 30844,
+		"Level" : 370,
+		"Name" : "Pattern: Flameheart Vest",
+		"NameRU" : "Выкройка: жилет пламенного сердца"
+	},
+	{
+		"ID" : 21907,
+		"Level" : 370,
+		"Name" : "Pattern: Arcanoweave Robe",
+		"NameRU" : "Выкройка: одеяние из тайной ткани"
+	},
+	{
+		"ID" : 24294,
+		"Level" : 375,
+		"Name" : "Pattern: Runic Spellthread",
+		"NameRU" : "Выкройка: руническая чародейская нить"
+	},
+	{
+		"ID" : 24295,
+		"Level" : 375,
+		"Name" : "Pattern: Golden Spellthread",
+		"NameRU" : "Выкройка: золотая чародейская нить"
+	},
+	{
+		"ID" : 24313,
+		"Level" : 375,
+		"Name" : "Pattern: Battlecast Hood",
+		"NameRU" : "Выкройка: капюшон боевого заклятья"
+	},
+	{
+		"ID" : 24312,
+		"Level" : 375,
+		"Name" : "Pattern: Spellstrike Hood",
+		"NameRU" : "Выкройка: капюшон сокрушительной магии"
+	},
+	{
+		"ID" : 21915,
+		"Level" : 375,
+		"Name" : "Pattern: Ebon Shadowbag",
+		"NameRU" : "Выкройка: черная сумка теней"
+	},
+	{
+		"ID" : 21904,
+		"Level" : 375,
+		"Name" : "Pattern: Soulcloth Vest",
+		"NameRU" : "Выкройка: жилет из ткани Душ"
+	},
+	{
+		"ID" : 21910,
+		"Level" : 375,
+		"Name" : "Pattern: Spellfire Robe",
+		"NameRU" : "Выкройка: одеяние из огненной чароткани"
+	},
+	{
+		"ID" : 21911,
+		"Level" : 375,
+		"Name" : "Pattern: Spellfire Bag",
+		"NameRU" : "Выкройка: сумка из огненной чароткани"
+	},
+	{
+		"ID" : 21913,
+		"Level" : 375,
+		"Name" : "Pattern: Frozen Shadoweave Robe",
+		"NameRU" : "Выкройка: застывшее тенетканое одеяние"
+	},
+	{
+		"ID" : 21917,
+		"Level" : 375,
+		"Name" : "Pattern: Primal Mooncloth Robe",
+		"NameRU" : "Выкройка: одеяние из изначальной луноткани"
+	},
+	{
+		"ID" : 21919,
+		"Level" : 375,
+		"Name" : "Pattern: Primal Mooncloth Bag",
+		"NameRU" : "Выкройка: сумка из изначальной луноткани"
+	},
+	{
+		"ID" : 24308,
+		"Level" : 375,
+		"Name" : "Pattern: Whitemend Pants",
+		"NameRU" : "Выкройка: штаны Белого целителя"
+	},
+	{
+		"ID" : 24309,
+		"Level" : 375,
+		"Name" : "Pattern: Spellstrike Pants",
+		"NameRU" : "Выкройка: штаны сокрушительной магии"
+	},
+	{
+		"ID" : 24310,
+		"Level" : 375,
+		"Name" : "Pattern: Battlecast Pants",
+		"NameRU" : "Выкройка: штаны боевого заклятья"
+	},
+	{
+		"ID" : 24311,
+		"Level" : 375,
+		"Name" : "Pattern: Whitemend Hood",
+		"NameRU" : "Выкройка: капюшон Белого целителя"
+	},
+	{
+		"ID" : 30283,
+		"Level" : 375,
+		"Name" : "Pattern: Boots of the Long Road",
+		"NameRU" : "Выкройка: сапоги дальней дороги"
+	},
+	{
+		"ID" : 30282,
+		"Level" : 375,
+		"Name" : "Pattern: Boots of Blasting",
+		"NameRU" : "Выкройка: сапоги взрыва"
+	},
+	{
+		"ID" : 30280,
+		"Level" : 375,
+		"Name" : "Pattern: Belt of Blasting",
+		"NameRU" : "Выкройка: пояс взрыва"
+	},
+	{
+		"ID" : 30281,
+		"Level" : 375,
+		"Name" : "Pattern: Belt of the Long Road",
+		"NameRU" : "Выкройка: пояс дальней дороги"
+	},
+	{
+		"ID" : 32437,
+		"Level" : 375,
+		"Name" : "Pattern: Soulguard Slippers",
+		"NameRU" : "Выкройка: туфли стража духа"
+	},
+	{
+		"ID" : 32438,
+		"Level" : 375,
+		"Name" : "Pattern: Soulguard Bracers",
+		"NameRU" : "Выкройка: наручи стража духа"
+	},
+	{
+		"ID" : 32439,
+		"Level" : 375,
+		"Name" : "Pattern: Soulguard Leggings",
+		"NameRU" : "Выкройка: поножи стража духа"
+	},
+	{
+		"ID" : 32440,
+		"Level" : 375,
+		"Name" : "Pattern: Soulguard Girdle",
+		"NameRU" : "Выкройка: ремень стража духа"
+	},
+	{
+		"ID" : 32447,
+		"Level" : 375,
+		"Name" : "Pattern: Night's End",
+		"NameRU" : "Выкройка: Предел ночи"
+	},
+	{
+		"ID" : 32752,
+		"Level" : 375,
+		"Name" : "Pattern: Swiftheal Wraps",
+		"NameRU" : "Выкройка: повязки быстрого исцеления"
+	},
+	{
+		"ID" : 32753,
+		"Level" : 375,
+		"Name" : "Pattern: Swiftheal Mantle",
+		"NameRU" : "Выкройка: мантия быстрого исцеления"
+	},
+	{
+		"ID" : 32754,
+		"Level" : 375,
+		"Name" : "Pattern: Bracers of Nimble Thought",
+		"NameRU" : "Выкройка: наручи сообразительности"
+	},
+	{
+		"ID" : 32755,
+		"Level" : 375,
+		"Name" : "Pattern: Mantle of Nimble Thought",
+		"NameRU" : "Выкройка: мантия сообразительности"
+	},
+	{
+		"ID" : 38229,
+		"Level" : 375,
+		"Name" : "Pattern: Mycah's Botanical Bag",
+		"NameRU" : "Выкройка: ботаническая сумка Микаа"
+	},
+	{
+		"ID" : 35518,
+		"Level" : 375,
+		"Name" : "Pattern: Bracers of Nimble Thought",
+		"NameRU" : "Выкройка: Наручи сообразительности"
+	},
+	{
+		"ID" : 35522,
+		"Level" : 375,
+		"Name" : "Pattern: Mantle of Nimble Thought",
+		"NameRU" : "Выкройка: Мантия сообразительности"
+	},
+	{
+		"ID" : 35525,
+		"Level" : 375,
+		"Name" : "Pattern: Swiftheal Mantle",
+		"NameRU" : "Выкройка: Мантия быстрого исцеления"
+	},
+	{
+		"ID" : 35526,
+		"Level" : 375,
+		"Name" : "Pattern: Swiftheal Wraps",
+		"NameRU" : "Выкройка: Повязки быстрого исцеления"
+	},
+	{
+		"ID" : 42172,
+		"Level" : 400,
+		"Name" : "Pattern: Red Lumberjack Shirt",
+		"NameRU" : "Выкройка: красная рубашка дровосека"
+	},
+	{
+		"ID" : 42173,
+		"Level" : 400,
+		"Name" : "Pattern: Blue Lumberjack Shirt",
+		"NameRU" : "Выкройка: синяя рубашка дровосека"
+	},
+	{
+		"ID" : 42175,
+		"Level" : 400,
+		"Name" : "Pattern: Green Lumberjack Shirt",
+		"NameRU" : "Выкройка: зеленая рубашка дровосека"
+	},
+	{
+		"ID" : 42176,
+		"Level" : 400,
+		"Name" : "Pattern: Blue Workman's Shirt",
+		"NameRU" : "Выкройка: синяя рубашка рабочего"
+	},
+	{
+		"ID" : 42177,
+		"Level" : 400,
+		"Name" : "Pattern: Red Workman's Shirt",
+		"NameRU" : "Выкройка: красная рубашка рабочего"
+	},
+	{
+		"ID" : 42178,
+		"Level" : 400,
+		"Name" : "Pattern: Rustic Workman's Shirt",
+		"NameRU" : "Выкройка: грубая рубашка рабочего"
+	},
+	{
+		"ID" : 42174,
+		"Level" : 400,
+		"Name" : "Pattern: Yellow Lumberjack Shirt",
+		"NameRU" : "Выкройка: желтая рубашка дровосека"
+	},
+	{
+		"ID" : 42179,
+		"Level" : 400,
+		"Name" : "Pattern: Green Workman's Shirt",
+		"NameRU" : "Выкройка: зеленая рубашка рабочего"
+	},
+	{
+		"ID" : 42186,
+		"Level" : 410,
+		"Name" : "Pattern: Frostweave Bag",
+		"NameRU" : "Выкройка: сумка из ледяной ткани"
+	},
+	{
+		"ID" : 42180,
+		"Level" : 415,
+		"Name" : "Pattern: Ebonweave",
+		"NameRU" : "Выкройка: иссиня-черная ткань"
+	},
+	{
+		"ID" : 42181,
+		"Level" : 415,
+		"Name" : "Pattern: Moonshroud",
+		"NameRU" : "Выкройка: лунный тюль"
+	},
+	{
+		"ID" : 42182,
+		"Level" : 415,
+		"Name" : "Pattern: Spellweave",
+		"NameRU" : "Выкройка: колдовская ткань"
+	},
+	{
+		"ID" : 42189,
+		"Level" : 415,
+		"Name" : "Pattern: Wispcloak",
+		"NameRU" : "Выкройка: тончайший плащ"
+	},
+	{
+		"ID" : 42190,
+		"Level" : 420,
+		"Name" : "Pattern: Deathchill Cloak",
+		"NameRU" : "Выкройка: плащ смертельной стужи"
+	},
+	{
+		"ID" : 54798,
+		"Level" : 425,
+		"Name" : "Pattern: Frosty Flying Carpet",
+		"NameRU" : "Выкройка: заиндевевший ковер-самолет"
+	},
+	{
+		"ID" : 42191,
+		"Level" : 425,
+		"Name" : "Pattern: Hat of Wintry Doom",
+		"NameRU" : "Выкройка: шляпа безрадостной судьбы"
+	},
+	{
+		"ID" : 42192,
+		"Level" : 425,
+		"Name" : "Pattern: Silky Iceshard Boots",
+		"NameRU" : "Выкройка: шелковые сапоги ледяных осколков"
+	},
+	{
+		"ID" : 42193,
+		"Level" : 425,
+		"Name" : "Pattern: Glacial Cord",
+		"NameRU" : "Выкройка: ледовый шнурованный ремень"
+	},
+	{
+		"ID" : 42194,
+		"Level" : 425,
+		"Name" : "Pattern: Frostmoon Pants",
+		"NameRU" : "Выкройка: штаны холодной луны"
+	},
+	{
+		"ID" : 42195,
+		"Level" : 425,
+		"Name" : "Pattern: Light Blessed Mittens",
+		"NameRU" : "Выкройка: благословенные полуперчатки Света"
+	},
+	{
+		"ID" : 42196,
+		"Level" : 425,
+		"Name" : "Pattern: Aurora Slippers",
+		"NameRU" : "Выкройка: туфли утренней зари"
+	},
+	{
+		"ID" : 42187,
+		"Level" : 430,
+		"Name" : "Pattern: Brilliant Spellthread",
+		"NameRU" : "Выкройка: сверкающая чародейская нить"
+	},
+	{
+		"ID" : 42188,
+		"Level" : 430,
+		"Name" : "Pattern: Sapphire Spellthread",
+		"NameRU" : "Выкройка: сапфировая чародейская нить"
+	},
+	{
+		"ID" : 42183,
+		"Level" : 435,
+		"Name" : "Pattern: Abyssal Bag",
+		"NameRU" : "Выкройка: сумка бездны"
+	},
+	{
+		"ID" : 45774,
+		"Level" : 435,
+		"Name" : "Pattern: Emerald Bag",
+		"NameRU" : "Выкройка: изумрудный вьюк"
+	},
+	{
+		"ID" : 42185,
+		"Level" : 440,
+		"Name" : "Pattern: Mysterious Bag",
+		"NameRU" : "Выкройка: таинственная котомка"
+	},
+	{
+		"ID" : 42198,
+		"Level" : 440,
+		"Name" : "Pattern: Moonshroud Gloves",
+		"NameRU" : "Выкройка: перчатки из лунного тюля"
+	},
+	{
+		"ID" : 42200,
+		"Level" : 440,
+		"Name" : "Pattern: Ebonweave Gloves",
+		"NameRU" : "Выкройка: иссиня-черные перчатки"
+	},
+	{
+		"ID" : 42202,
+		"Level" : 440,
+		"Name" : "Pattern: Spellweave Gloves",
+		"NameRU" : "Выкройка: перчатки из колдовской ткани"
+	},
+	{
+		"ID" : 42184,
+		"Level" : 445,
+		"Name" : "Pattern: Glacial Bag",
+		"NameRU" : "Выкройка: ледовая сумка"
+	},
+	{
+		"ID" : 45102,
+		"Level" : 450,
+		"Name" : "Pattern: Sash of Ancient Power",
+		"NameRU" : "Выкройка: кушак древней силы"
+	},
+	{
+		"ID" : 45103,
+		"Level" : 450,
+		"Name" : "Pattern: Spellslinger's Slippers",
+		"NameRU" : "Выкройка: туфли тонких чар"
+	},
+	{
+		"ID" : 45104,
+		"Level" : 450,
+		"Name" : "Pattern: Cord of the White Dawn",
+		"NameRU" : "Выкройка: шнурованный ремень светлого утра"
+	},
+	{
+		"ID" : 45105,
+		"Level" : 450,
+		"Name" : "Pattern: Savior's Slippers",
+		"NameRU" : "Выкройка: туфли спасителя"
+	},
+	{
+		"ID" : 47637,
+		"Level" : 450,
+		"Name" : "Pattern: Royal Moonshroud Bracers",
+		"NameRU" : "Выкройка: королевские наручи из лунного тюля"
+	},
+	{
+		"ID" : 47656,
+		"Level" : 450,
+		"Name" : "Pattern: Royal Moonshroud Bracers",
+		"NameRU" : "Выкройка: королевские наручи из лунного тюля"
+	},
+	{
+		"ID" : 47639,
+		"Level" : 450,
+		"Name" : "Pattern: Bejeweled Wizard's Bracers",
+		"NameRU" : "Выкройка: наручи волшебника с самоцветами"
+	},
+	{
+		"ID" : 47657,
+		"Level" : 450,
+		"Name" : "Pattern: Royal Moonshroud Robe",
+		"NameRU" : "Выкройка: королевское одеяние из лунного тюля"
+	},
+	{
+		"ID" : 47654,
+		"Level" : 450,
+		"Name" : "Pattern: Bejeweled Wizard's Bracers",
+		"NameRU" : "Выкройка: наручи волшебника с самоцветами"
+	},
+	{
+		"ID" : 47655,
+		"Level" : 450,
+		"Name" : "Pattern: Merlin's Robe",
+		"NameRU" : "Выкройка: одеяние Мерлина"
+	},
+	{
+		"ID" : 47636,
+		"Level" : 450,
+		"Name" : "Pattern: Royal Moonshroud Robe",
+		"NameRU" : "Выкройка: королевское одеяние из лунного тюля"
+	},
+	{
+		"ID" : 47638,
+		"Level" : 450,
+		"Name" : "Pattern: Merlin's Robe",
+		"NameRU" : "Выкройка: одеяние Мерлина"
+	},
+	{
+		"ID" : 49953,
+		"Level" : 450,
+		"Name" : "Pattern: Leggings of Woven Death",
+		"NameRU" : "Выкройка: поножи паутины смерти"
+	},
+	{
+		"ID" : 49954,
+		"Level" : 450,
+		"Name" : "Pattern: Deathfrost Boots",
+		"NameRU" : "Выкройка: сапоги смертной стужи"
+	},
+	{
+		"ID" : 49955,
+		"Level" : 450,
+		"Name" : "Pattern: Lightweave Leggings",
+		"NameRU" : "Выкройка: светлотканые поножи"
+	},
+	{
+		"ID" : 49956,
+		"Level" : 450,
+		"Name" : "Pattern: Sandals of Consecration",
+		"NameRU" : "Выкройка: сандалии освящения"
+	},
+	{
+		"ID" : 42197,
+		"Level" : 450,
+		"Name" : "Pattern: Moonshroud Robe",
+		"NameRU" : "Выкройка: одеяние из лунного тюля"
+	},
+	{
+		"ID" : 42199,
+		"Level" : 450,
+		"Name" : "Pattern: Ebonweave Robe",
+		"NameRU" : "Выкройка: иссиня-черное одеяние"
+	},
+	{
+		"ID" : 42201,
+		"Level" : 450,
+		"Name" : "Pattern: Spellweave Robe",
+		"NameRU" : "Выкройка: одеяние из колдовской ткани"
+	}
+]

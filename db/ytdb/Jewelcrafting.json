@@ -1,0 +1,172 @@
+[
+	{
+		"ID" : 20824,
+		"Name" : "Simple Grinder",
+		"NameRU" : "Шлифовальный камень"
+	},
+	{
+		"ID" : 21752,
+		"Name" : "Thorium Setting",
+		"NameRU" : "Ториевая оправа"
+	},
+	{
+		"ID" : 20963,
+		"Name" : "Mithril Filigree",
+		"NameRU" : "Мифриловая филигрань"
+	},
+	{
+		"ID" : 20816,
+		"Name" : "Delicate Copper Wire",
+		"NameRU" : "Тонкая медная проволока"
+	},
+	{
+		"ID" : 31079,
+		"Name" : "Mercurial Adamantite",
+		"NameRU" : "Переменчивый адамантит"
+	},
+	{
+		"ID" : 20817,
+		"Name" : "Bronze Setting",
+		"NameRU" : "Бронзовая оправа"
+	},
+	{
+		"ID" : 24243,
+		"Name" : "Adamantite Powder",
+		"NameRU" : "Адамантитовый порошок"
+	},
+	{
+		"ID" : 20957,
+		"Name" : "Cut Citrine",
+		"NameRU" : "Сокращенный Цитрин"
+	},
+	{
+		"ID" : 23366,
+		"Name" : "zzDEPRECATEDPerfect Diamond",
+		"NameRU" : "ИСПОРЧЕНО Совершенный брильянт"
+	},
+	{
+		"ID" : 28388,
+		"Name" : "TCHILTON TEST RUBY",
+		"NameRU" : "ИСПЫТАТЕЛЬНЫЙ РУБИН ЧИЛЬТОНА"
+	},
+	{
+		"ID" : 28389,
+		"Name" : "TCHILTON TEST DAWNSTONE",
+		"NameRU" : "ИСПЫТАТЕЛЬНЫЙ ЗОРЕВИК ЧИЛЬСОНА"
+	},
+	{
+		"ID" : 23364,
+		"Name" : "zzDEPRECATEDHeart of the Sky",
+		"NameRU" : "ИСПОРЧЕНО Сердце неба"
+	},
+	{
+		"ID" : 27774,
+		"Name" : "zzOLDMighty Blood Garnet",
+		"NameRU" : "СТАРЫЙ Могущественный кровавый гранат"
+	},
+	{
+		"ID" : 27811,
+		"Name" : "zzOLDMighty Blood Garnet",
+		"NameRU" : "СТАРЫЙ Могущественный кровавый гранат"
+	},
+	{
+		"ID" : 28117,
+		"Name" : "zzOLDBold Ornate Ruby",
+		"NameRU" : "СТАРЫЙ Рельефный изысканный рубин"
+	},
+	{
+		"ID" : 28122,
+		"Name" : "zzOLDEnscribed Ornate Topaz",
+		"NameRU" : "СТАРЫЙ Покрытый письменами изысканный топаз"
+	},
+	{
+		"ID" : 23233,
+		"Name" : "Red Bryanite of Strength stuff",
+		"NameRU" : "Красный брианит Силы - материал"
+	},
+	{
+		"ID" : 23234,
+		"Name" : "Blue Bryanite of Agility",
+		"NameRU" : "Синий брианит Ловкости"
+	},
+	{
+		"ID" : 23235,
+		"Name" : "Yellow Bryanite of Stamina",
+		"NameRU" : "Желтый брианит выносливости"
+	},
+	{
+		"ID" : 27864,
+		"Name" : "Brian's Bryanite of Extended Cost Copying",
+		"NameRU" : "Копия брианита Брайена повышенной ценности"
+	},
+	{
+		"ID" : 20819,
+		"Name" : "Cut Malachite",
+		"NameRU" : "Сокращенный Малахит"
+	},
+	{
+		"ID" : 20822,
+		"Name" : "Cut Tigerseye",
+		"NameRU" : "Сокращенный Тигровый глаз"
+	},
+	{
+		"ID" : 20825,
+		"Name" : "Cut Shadowgem",
+		"NameRU" : "Сокращенный Камень теней"
+	},
+	{
+		"ID" : 20829,
+		"Name" : "Cut Moonstone",
+		"NameRU" : "Сокращенный Лунный камень"
+	},
+	{
+		"ID" : 20952,
+		"Name" : "Cut Agate",
+		"NameRU" : "Сокращенный Агат"
+	},
+	{
+		"ID" : 20953,
+		"Name" : "Cut Jade",
+		"NameRU" : "Сонращенный Нефрит"
+	},
+	{
+		"ID" : 20962,
+		"Name" : "Cut Aquamarine",
+		"NameRU" : "Сокращенный Аквамарин"
+	},
+	{
+		"ID" : 20965,
+		"Name" : "Cut Ruby",
+		"NameRU" : "Сокращенный Рубин"
+	},
+	{
+		"ID" : 21772,
+		"Name" : "Cut Sapphire",
+		"NameRU" : "Сокращенный Сапфир"
+	},
+	{
+		"ID" : 21773,
+		"Name" : "Cut Opal",
+		"NameRU" : "Сокращенный Опал"
+	},
+	{
+		"ID" : 21785,
+		"Name" : "Cut Emerald",
+		"NameRU" : "Сокращенный Изумруд"
+	},
+	{
+		"ID" : 21786,
+		"Name" : "Cut Azerothian Diamond",
+		"NameRU" : "Сокращенный Азеротский Алмаз"
+	},
+	{
+		"ID" : 23157,
+		"Name" : "Thick Citrine",
+		"NameRU" : "Матовый цитрин"
+	},
+	{
+		"ID" : 27863,
+		"Name" : "Extended Cost Bryanite",
+		"NameRU" : "Брианит повышенной ценности"
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"ID" : 16083,
+		"Level" : 125,
+		"Name" : "Expert Fishing - The Bass and You",
+		"NameRU" : "Рыболов-умелец: ты и окунь"
+	},
+	{
+		"ID" : 16082,
+		"Level" : 200,
+		"Name" : "Artisan Fishing - The Way of the Lure",
+		"NameRU" : "Рыболов-мастеровой: способы приманки"
+	},
+	{
+		"ID" : 46054,
+		"Level" : 200,
+		"Name" : "Journeyman Fishing - Fishing for Dummies",
+		"NameRU" : "Подмастерье рыбной ловли: ловля манекена на живца"
+	},
+	{
+		"ID" : 27532,
+		"Level" : 275,
+		"Name" : "Master Fishing - The Art of Angling",
+		"NameRU" : "Рыболов-мастер: искусство рыбалки"
+	},
+	{
+		"ID" : 46055,
+		"Level" : 275,
+		"Name" : "Grand Master Fishing - Deep Sea Adventures",
+		"NameRU" : "Великий мастер рыбной ловли: приключения на глубине"
+	}
+]

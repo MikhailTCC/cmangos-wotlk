@@ -1,158 +1,197 @@
 [
 	{
-		"entry" : 2320,
-		"name" : "Coarse Thread"
+		"ID" : 2320,
+		"Name" : "Coarse Thread",
+		"NameRU" : "Грубая нить"
 	},
 	{
-		"entry" : 2321,
-		"name" : "Fine Thread"
+		"ID" : 2321,
+		"Name" : "Fine Thread",
+		"NameRU" : "Тонкая нить"
 	},
 	{
-		"entry" : 2589,
-		"name" : "Linen Cloth"
+		"ID" : 2589,
+		"Name" : "Linen Cloth",
+		"NameRU" : "Льняной материал"
 	},
 	{
-		"entry" : 2592,
-		"name" : "Wool Cloth"
+		"ID" : 2592,
+		"Name" : "Wool Cloth",
+		"NameRU" : "Шерсть"
 	},
 	{
-		"entry" : 2996,
-		"name" : "Bolt of Linen Cloth"
+		"ID" : 2996,
+		"Name" : "Bolt of Linen Cloth",
+		"NameRU" : "Рулон льняной ткани"
 	},
 	{
-		"entry" : 2997,
-		"name" : "Bolt of Woolen Cloth"
+		"ID" : 2997,
+		"Name" : "Bolt of Woolen Cloth",
+		"NameRU" : "Рулон шерсти"
 	},
 	{
-		"entry" : 3182,
-		"name" : "Spider's Silk"
+		"ID" : 3182,
+		"Name" : "Spider's Silk",
+		"NameRU" : "Паутина"
 	},
 	{
-		"entry" : 4291,
-		"name" : "Silken Thread"
+		"ID" : 4291,
+		"Name" : "Silken Thread",
+		"NameRU" : "Шелковая нить"
 	},
 	{
-		"entry" : 4305,
-		"name" : "Bolt of Silk Cloth"
+		"ID" : 4305,
+		"Name" : "Bolt of Silk Cloth",
+		"NameRU" : "Рулон шелка"
 	},
 	{
-		"entry" : 4306,
-		"name" : "Silk Cloth"
+		"ID" : 4306,
+		"Name" : "Silk Cloth",
+		"NameRU" : "Шелковый материал"
 	},
 	{
-		"entry" : 4337,
-		"name" : "Thick Spider's Silk"
+		"ID" : 4337,
+		"Name" : "Thick Spider's Silk",
+		"NameRU" : "Плотная паутина"
 	},
 	{
-		"entry" : 4338,
-		"name" : "Mageweave Cloth"
+		"ID" : 4338,
+		"Name" : "Mageweave Cloth",
+		"NameRU" : "Магическая ткань"
 	},
 	{
-		"entry" : 4339,
-		"name" : "Bolt of Mageweave"
+		"ID" : 4339,
+		"Name" : "Bolt of Mageweave",
+		"NameRU" : "Рулон магической ткани"
 	},
 	{
-		"entry" : 8343,
-		"name" : "Heavy Silken Thread"
+		"ID" : 8343,
+		"Name" : "Heavy Silken Thread",
+		"NameRU" : "Толстая шелковая нить"
 	},
 	{
-		"entry" : 10285,
-		"name" : "Shadow Silk"
+		"ID" : 10285,
+		"Name" : "Shadow Silk",
+		"NameRU" : "Тенешелк"
 	},
 	{
-		"entry" : 14047,
-		"name" : "Runecloth"
+		"ID" : 14047,
+		"Name" : "Runecloth",
+		"NameRU" : "Руническая ткань"
 	},
 	{
-		"entry" : 14048,
-		"name" : "Bolt of Runecloth"
+		"ID" : 14048,
+		"Name" : "Bolt of Runecloth",
+		"NameRU" : "Рулон рунической ткани"
 	},
 	{
-		"entry" : 14227,
-		"name" : "Ironweb Spider Silk"
+		"ID" : 14227,
+		"Name" : "Ironweb Spider Silk",
+		"NameRU" : "Железношелковая паутина"
 	},
 	{
-		"entry" : 14256,
-		"name" : "Felcloth"
+		"ID" : 14256,
+		"Name" : "Felcloth",
+		"NameRU" : "Ткань Скверны"
 	},
 	{
-		"entry" : 14341,
-		"name" : "Rune Thread"
+		"ID" : 14341,
+		"Name" : "Rune Thread",
+		"NameRU" : "Руническая нить"
 	},
 	{
-		"entry" : 14342,
-		"name" : "Mooncloth"
+		"ID" : 14342,
+		"Name" : "Mooncloth",
+		"NameRU" : "Луноткань"
 	},
 	{
-		"entry" : 21877,
-		"name" : "Netherweave Cloth"
+		"ID" : 21877,
+		"Name" : "Netherweave Cloth",
+		"NameRU" : "Ткань Пустоты"
 	},
 	{
-		"entry" : 21845,
-		"name" : "Primal Mooncloth"
+		"ID" : 21845,
+		"Name" : "Primal Mooncloth",
+		"NameRU" : "Изначальная луноткань"
 	},
 	{
-		"entry" : 24271,
-		"name" : "Spellcloth"
+		"ID" : 24271,
+		"Name" : "Spellcloth",
+		"NameRU" : "Чароткань"
 	},
 	{
-		"entry" : 24272,
-		"name" : "Shadowcloth"
+		"ID" : 24272,
+		"Name" : "Shadowcloth",
+		"NameRU" : "Ткань Теней"
 	},
 	{
-		"entry" : 21881,
-		"name" : "Netherweb Spider Silk"
+		"ID" : 21881,
+		"Name" : "Netherweb Spider Silk",
+		"NameRU" : "Шелковая паутина Пустоты"
 	},
 	{
-		"entry" : 21840,
-		"name" : "Bolt of Netherweave"
+		"ID" : 21840,
+		"Name" : "Bolt of Netherweave",
+		"NameRU" : "Рулон ткани Пустоты"
 	},
 	{
-		"entry" : 21842,
-		"name" : "Bolt of Imbued Netherweave"
+		"ID" : 21842,
+		"Name" : "Bolt of Imbued Netherweave",
+		"NameRU" : "Рулон прочной ткани Пустоты"
 	},
 	{
-		"entry" : 21844,
-		"name" : "Bolt of Soulcloth"
+		"ID" : 21844,
+		"Name" : "Bolt of Soulcloth",
+		"NameRU" : "Рулон ткани Душ"
 	},
 	{
-		"entry" : 23854,
-		"name" : "Shadoweave Cloth"
+		"ID" : 23854,
+		"Name" : "Shadoweave Cloth",
+		"NameRU" : "Темная Ткань"
 	},
 	{
-		"entry" : 23855,
-		"name" : "Spellfire Cloth"
+		"ID" : 23855,
+		"Name" : "Spellfire Cloth",
+		"NameRU" : "Огненная Ткань"
 	},
 	{
-		"entry" : 33470,
-		"name" : "Frostweave Cloth"
+		"ID" : 33470,
+		"Name" : "Frostweave Cloth",
+		"NameRU" : "Ледяная ткань"
 	},
 	{
-		"entry" : 38426,
-		"name" : "Eternium Thread"
+		"ID" : 38426,
+		"Name" : "Eternium Thread",
+		"NameRU" : "Этерниевая нить"
 	},
 	{
-		"entry" : 41510,
-		"name" : "Bolt of Frostweave"
+		"ID" : 41510,
+		"Name" : "Bolt of Frostweave",
+		"NameRU" : "Рулон ледяной ткани"
 	},
 	{
-		"entry" : 41511,
-		"name" : "Bolt of Imbued Frostweave"
+		"ID" : 41511,
+		"Name" : "Bolt of Imbued Frostweave",
+		"NameRU" : "Рулон прочной ледяной ткани"
 	},
 	{
-		"entry" : 41593,
-		"name" : "Ebonweave"
+		"ID" : 41593,
+		"Name" : "Ebonweave",
+		"NameRU" : "Иссиня-черная ткань"
 	},
 	{
-		"entry" : 41594,
-		"name" : "Moonshroud"
+		"ID" : 41594,
+		"Name" : "Moonshroud",
+		"NameRU" : "Лунный тюль"
 	},
 	{
-		"entry" : 41595,
-		"name" : "Spellweave"
+		"ID" : 41595,
+		"Name" : "Spellweave",
+		"NameRU" : "Колдовская ткань"
 	},
 	{
-		"entry" : 42253,
-		"name" : "Iceweb Spider Silk"
+		"ID" : 42253,
+		"Name" : "Iceweb Spider Silk",
+		"NameRU" : "Паутина паука-ледопряда"
 	}
 ]

@@ -1,0 +1,2252 @@
+[
+	{
+		"ID" : 7288,
+		"Level" : 35,
+		"Name" : "Pattern: Rugged Leather Pants",
+		"NameRU" : "Выкройка: штаны из грубой кожи"
+	},
+	{
+		"ID" : 5083,
+		"Level" : 40,
+		"Name" : "Pattern: Kodo Hide Bag",
+		"NameRU" : "Выкройка: сумка из шкуры кодо"
+	},
+	{
+		"ID" : 2599,
+		"Level" : 45,
+		"Name" : "Deprecated Pattern: Forest Silk Gloves",
+		"NameRU" : "Испорченная выкройка: лесные шелковые перчатки"
+	},
+	{
+		"ID" : 2407,
+		"Level" : 60,
+		"Name" : "Pattern: White Leather Jerkin",
+		"NameRU" : "Выкройка: белый кожаный жакет"
+	},
+	{
+		"ID" : 2408,
+		"Level" : 75,
+		"Name" : "Pattern: Fine Leather Gloves",
+		"NameRU" : "Выкройка: тонкие кожаные перчатки"
+	},
+	{
+		"ID" : 2406,
+		"Level" : 90,
+		"Name" : "Pattern: Fine Leather Boots",
+		"NameRU" : "Выкройка: тонкие кожаные сапоги"
+	},
+	{
+		"ID" : 5786,
+		"Level" : 90,
+		"Name" : "Pattern: Murloc Scale Belt",
+		"NameRU" : "Выкройка: пояс из чешуи мурлока"
+	},
+	{
+		"ID" : 6474,
+		"Level" : 90,
+		"Name" : "Pattern: Deviate Scale Cloak",
+		"NameRU" : "Выкройка: плащ из искаженной чешуи"
+	},
+	{
+		"ID" : 6710,
+		"Level" : 90,
+		"Name" : "Pattern: Moonglow Vest",
+		"NameRU" : "Выкройка: жилет лунного сияния"
+	},
+	{
+		"ID" : 5787,
+		"Level" : 95,
+		"Name" : "Pattern: Murloc Scale Breastplate",
+		"NameRU" : "Выкройка: кираса из чешуи мурлока"
+	},
+	{
+		"ID" : 2409,
+		"Level" : 100,
+		"Name" : "Pattern: Dark Leather Tunic",
+		"NameRU" : "Выкройка: темный кожаный мундир"
+	},
+	{
+		"ID" : 4293,
+		"Level" : 100,
+		"Name" : "Pattern: Hillman's Leather Vest",
+		"NameRU" : "Выкройка: кожаный жилет жителя холмов"
+	},
+	{
+		"ID" : 7289,
+		"Level" : 100,
+		"Name" : "Pattern: Black Whelp Cloak",
+		"NameRU" : "Выкройка: плащ из чешуи черного дракончика"
+	},
+	{
+		"ID" : 20576,
+		"Level" : 100,
+		"Name" : "Pattern: Black Whelp Tunic",
+		"NameRU" : "Выкройка: мундир из чешуи черного дракончика"
+	},
+	{
+		"ID" : 5972,
+		"Level" : 105,
+		"Name" : "Pattern: Fine Leather Pants",
+		"NameRU" : "Выкройка: тонкие кожаные штаны"
+	},
+	{
+		"ID" : 6475,
+		"Level" : 105,
+		"Name" : "Pattern: Deviate Scale Gloves",
+		"NameRU" : "Выкройка: перчатки из искаженной чешуи"
+	},
+	{
+		"ID" : 6476,
+		"Level" : 115,
+		"Name" : "Pattern: Deviate Scale Belt",
+		"NameRU" : "Выкройка: пояс из искаженной чешуи"
+	},
+	{
+		"ID" : 4294,
+		"Level" : 120,
+		"Name" : "Pattern: Hillman's Belt",
+		"NameRU" : "Выкройка: пояс жителя холмов"
+	},
+	{
+		"ID" : 7290,
+		"Level" : 120,
+		"Name" : "Pattern: Red Whelp Gloves",
+		"NameRU" : "Выкройка: перчатки из чешуи красного дракончика"
+	},
+	{
+		"ID" : 7360,
+		"Level" : 120,
+		"Name" : "Pattern: Dark Leather Gloves",
+		"NameRU" : "Выкройка: темные кожаные перчатки"
+	},
+	{
+		"ID" : 7361,
+		"Level" : 135,
+		"Name" : "Pattern: Herbalist's Gloves",
+		"NameRU" : "Выкройка: перчатки травника"
+	},
+	{
+		"ID" : 7362,
+		"Level" : 135,
+		"Name" : "Pattern: Earthen Leather Shoulders",
+		"NameRU" : "Выкройка: кожаные наплечники земли"
+	},
+	{
+		"ID" : 4296,
+		"Level" : 140,
+		"Name" : "Pattern: Dark Leather Shoulders",
+		"NameRU" : "Выкройка: темные кожаные наплечники"
+	},
+	{
+		"ID" : 7363,
+		"Level" : 140,
+		"Name" : "Pattern: Pilferer's Gloves",
+		"NameRU" : "Выкройка: перчатки жулика"
+	},
+	{
+		"ID" : 7364,
+		"Level" : 145,
+		"Name" : "Pattern: Heavy Earthen Gloves",
+		"NameRU" : "Выкройка: тяжелые перчатки Земли"
+	},
+	{
+		"ID" : 4297,
+		"Level" : 150,
+		"Name" : "Pattern: Barbaric Gloves",
+		"NameRU" : "Выкройка: варварские перчатки"
+	},
+	{
+		"ID" : 18731,
+		"Level" : 150,
+		"Name" : "Pattern: Heavy Leather Ball",
+		"NameRU" : "Выкройка: мяч из толстой кожи"
+	},
+	{
+		"ID" : 7613,
+		"Level" : 155,
+		"Name" : "Pattern: Green Leather Armor",
+		"NameRU" : "Выкройка: зеленый кожаный доспех"
+	},
+	{
+		"ID" : 18949,
+		"Level" : 155,
+		"Name" : "Pattern: Barbaric Bracers",
+		"NameRU" : "Выкройка: варварские наручи"
+	},
+	{
+		"ID" : 7449,
+		"Level" : 165,
+		"Name" : "Pattern: Dusky Leather Leggings",
+		"NameRU" : "Выкройка: мглистые кожаные поножи"
+	},
+	{
+		"ID" : 13287,
+		"Level" : 165,
+		"Name" : "Pattern: Raptor Hide Harness",
+		"NameRU" : "Выкройка: портупея из шкуры ящера"
+	},
+	{
+		"ID" : 13288,
+		"Level" : 165,
+		"Name" : "Pattern: Raptor Hide Belt",
+		"NameRU" : "Выкройка: пояс из шкуры ящера"
+	},
+	{
+		"ID" : 4298,
+		"Level" : 170,
+		"Name" : "Pattern: Guardian Belt",
+		"NameRU" : "Выкройка: пояс стража"
+	},
+	{
+		"ID" : 5788,
+		"Level" : 170,
+		"Name" : "Pattern: Thick Murloc Armor",
+		"NameRU" : "Выкройка: броня из толстой чешуи мурлока"
+	},
+	{
+		"ID" : 5973,
+		"Level" : 170,
+		"Name" : "Pattern: Barbaric Leggings",
+		"NameRU" : "Выкройка: варварские поножи"
+	},
+	{
+		"ID" : 4299,
+		"Level" : 175,
+		"Name" : "Pattern: Guardian Armor",
+		"NameRU" : "Выкройка: защитная броня стража"
+	},
+	{
+		"ID" : 7450,
+		"Level" : 175,
+		"Name" : "Pattern: Green Whelp Armor",
+		"NameRU" : "Выкройка: броня из зеленого дракончика"
+	},
+	{
+		"ID" : 5974,
+		"Level" : 185,
+		"Name" : "Pattern: Guardian Cloak",
+		"NameRU" : "Выкройка: плащ хранителя"
+	},
+	{
+		"ID" : 14635,
+		"Level" : 185,
+		"Name" : "Pattern: Gem-studded Leather Belt",
+		"NameRU" : "Выкройка: украшенный самоцветами кожаный пояс"
+	},
+	{
+		"ID" : 5789,
+		"Level" : 190,
+		"Name" : "Pattern: Murloc Scale Bracers",
+		"NameRU" : "Выкройка: наручи из чешуи мурлока"
+	},
+	{
+		"ID" : 7451,
+		"Level" : 190,
+		"Name" : "Pattern: Green Whelp Bracers",
+		"NameRU" : "Выкройка: наручи из чешуи зеленого дракончика"
+	},
+	{
+		"ID" : 17722,
+		"Level" : 190,
+		"Name" : "Pattern: Gloves of the Greatfather",
+		"NameRU" : "Выкройка: перчатки Великого Отца"
+	},
+	{
+		"ID" : 4300,
+		"Level" : 195,
+		"Name" : "Pattern: Guardian Leather Bracers",
+		"NameRU" : "Выкройка: кожаные наручи стража"
+	},
+	{
+		"ID" : 4301,
+		"Level" : 200,
+		"Name" : "Pattern: Barbaric Belt",
+		"NameRU" : "Выкройка: варварский пояс"
+	},
+	{
+		"ID" : 7452,
+		"Level" : 200,
+		"Name" : "Pattern: Dusky Boots",
+		"NameRU" : "Выкройка: мглистые сапоги"
+	},
+	{
+		"ID" : 7453,
+		"Level" : 200,
+		"Name" : "Pattern: Swift Boots",
+		"NameRU" : "Выкройка: сапоги быстроты"
+	},
+	{
+		"ID" : 8384,
+		"Level" : 200,
+		"Name" : "Pattern: Comfortable Leather Hat",
+		"NameRU" : "Выкройка: удобная кожаная шляпа"
+	},
+	{
+		"ID" : 18239,
+		"Level" : 200,
+		"Name" : "Pattern: Shadowskin Gloves",
+		"NameRU" : "Выкройка: тенекожаные перчатки"
+	},
+	{
+		"ID" : 8385,
+		"Level" : 205,
+		"Name" : "Pattern: Turtle Scale Gloves",
+		"NameRU" : "Выкройка: перчатки из черепашьего панциря"
+	},
+	{
+		"ID" : 8409,
+		"Level" : 210,
+		"Name" : "Pattern: Nightscape Shoulders",
+		"NameRU" : "Выкройка: ночные наплечники"
+	},
+	{
+		"ID" : 8386,
+		"Level" : 215,
+		"Name" : "Pattern: Big Voodoo Robe",
+		"NameRU" : "Выкройка: большое вудуистское одеяние"
+	},
+	{
+		"ID" : 8387,
+		"Level" : 220,
+		"Name" : "Pattern: Big Voodoo Mask",
+		"NameRU" : "Выкройка: большая вудуистская маска"
+	},
+	{
+		"ID" : 8395,
+		"Level" : 220,
+		"Name" : "Pattern: Tough Scorpid Breastplate",
+		"NameRU" : "Выкройка: жесткая кираса из чешуи скорпида"
+	},
+	{
+		"ID" : 8397,
+		"Level" : 220,
+		"Name" : "Pattern: Tough Scorpid Bracers",
+		"NameRU" : "Выкройка: жесткие наручи из чешуи скорпида"
+	},
+	{
+		"ID" : 8403,
+		"Level" : 220,
+		"Name" : "Pattern: Wild Leather Shoulders",
+		"NameRU" : "Выкройка: кожаные наплечники Буйства"
+	},
+	{
+		"ID" : 8398,
+		"Level" : 225,
+		"Name" : "Pattern: Tough Scorpid Gloves",
+		"NameRU" : "Выкройка: жесткие перчатки из чешуи скорпида"
+	},
+	{
+		"ID" : 8404,
+		"Level" : 225,
+		"Name" : "Pattern: Wild Leather Vest",
+		"NameRU" : "Выкройка: кожаный жилет Буйства"
+	},
+	{
+		"ID" : 8405,
+		"Level" : 225,
+		"Name" : "Pattern: Wild Leather Helmet",
+		"NameRU" : "Выкройка: кожаный шлем Буйства"
+	},
+	{
+		"ID" : 8399,
+		"Level" : 235,
+		"Name" : "Pattern: Tough Scorpid Boots",
+		"NameRU" : "Выкройка: жесткие сапоги из чешуи скорпида"
+	},
+	{
+		"ID" : 8389,
+		"Level" : 240,
+		"Name" : "Pattern: Big Voodoo Pants",
+		"NameRU" : "Выкройка: большие вудуистские штаны"
+	},
+	{
+		"ID" : 8390,
+		"Level" : 240,
+		"Name" : "Pattern: Big Voodoo Cloak",
+		"NameRU" : "Выкройка: большой вудуистский плащ"
+	},
+	{
+		"ID" : 8400,
+		"Level" : 240,
+		"Name" : "Pattern: Tough Scorpid Shoulders",
+		"NameRU" : "Выкройка: жесткие наплечники из чешуи скорпида"
+	},
+	{
+		"ID" : 8401,
+		"Level" : 245,
+		"Name" : "Pattern: Tough Scorpid Leggings",
+		"NameRU" : "Выкройка: жесткие поножи из чешуи скорпида"
+	},
+	{
+		"ID" : 8406,
+		"Level" : 245,
+		"Name" : "Pattern: Wild Leather Boots",
+		"NameRU" : "Выкройка: кожаные сапоги Буйства"
+	},
+	{
+		"ID" : 8402,
+		"Level" : 250,
+		"Name" : "Pattern: Tough Scorpid Helm",
+		"NameRU" : "Выкройка: жесткий шлем из чешуи скорпида"
+	},
+	{
+		"ID" : 8407,
+		"Level" : 250,
+		"Name" : "Pattern: Wild Leather Leggings",
+		"NameRU" : "Выкройка: кожаные поножи Буйства"
+	},
+	{
+		"ID" : 8408,
+		"Level" : 250,
+		"Name" : "Pattern: Wild Leather Cloak",
+		"NameRU" : "Выкройка: кожаный плащ Буйства"
+	},
+	{
+		"ID" : 15724,
+		"Level" : 255,
+		"Name" : "Pattern: Heavy Scorpid Bracers",
+		"NameRU" : "Выкройка: наручи из толстой чешуи скорпида"
+	},
+	{
+		"ID" : 15725,
+		"Level" : 260,
+		"Name" : "Pattern: Wicked Leather Gauntlets",
+		"NameRU" : "Выкройка: гибельные кожаные рукавицы"
+	},
+	{
+		"ID" : 15726,
+		"Level" : 260,
+		"Name" : "Pattern: Green Dragonscale Breastplate",
+		"NameRU" : "Выкройка: кираса из чешуи зеленого дракона"
+	},
+	{
+		"ID" : 15727,
+		"Level" : 265,
+		"Name" : "Pattern: Heavy Scorpid Vest",
+		"NameRU" : "Выкройка: жилет из толстой чешуи скорпида"
+	},
+	{
+		"ID" : 15728,
+		"Level" : 265,
+		"Name" : "Pattern: Wicked Leather Bracers",
+		"NameRU" : "Выкройка: гибельные кожаные наручи"
+	},
+	{
+		"ID" : 15729,
+		"Level" : 265,
+		"Name" : "Pattern: Chimeric Gloves",
+		"NameRU" : "Выкройка: химерические перчатки"
+	},
+	{
+		"ID" : 15731,
+		"Level" : 270,
+		"Name" : "Pattern: Runic Leather Gauntlets",
+		"NameRU" : "Выкройка: рунические кожаные рукавицы"
+	},
+	{
+		"ID" : 15732,
+		"Level" : 270,
+		"Name" : "Pattern: Volcanic Leggings",
+		"NameRU" : "Выкройка: вулканические поножи"
+	},
+	{
+		"ID" : 15733,
+		"Level" : 270,
+		"Name" : "Pattern: Green Dragonscale Leggings",
+		"NameRU" : "Выкройка: поножи из чешуи зеленого дракона"
+	},
+	{
+		"ID" : 15734,
+		"Level" : 270,
+		"Name" : "Pattern: Living Shoulders",
+		"NameRU" : "Выкройка: наплечники жизни"
+	},
+	{
+		"ID" : 15735,
+		"Level" : 270,
+		"Name" : "Pattern: Ironfeather Shoulders",
+		"NameRU" : "Выкройка: железноперые наплечники"
+	},
+	{
+		"ID" : 15737,
+		"Level" : 275,
+		"Name" : "Pattern: Chimeric Boots",
+		"NameRU" : "Выкройка: химерические сапоги"
+	},
+	{
+		"ID" : 15738,
+		"Level" : 275,
+		"Name" : "Pattern: Heavy Scorpid Gauntlets",
+		"NameRU" : "Выкройка: тяжелые рукавицы скорпида"
+	},
+	{
+		"ID" : 15739,
+		"Level" : 275,
+		"Name" : "Pattern: Runic Leather Bracers",
+		"NameRU" : "Выкройка: рунические кожаные наручи"
+	},
+	{
+		"ID" : 15740,
+		"Level" : 275,
+		"Name" : "Pattern: Frostsaber Boots",
+		"NameRU" : "Выкройка: сапоги из кожи ледопарда"
+	},
+	{
+		"ID" : 15741,
+		"Level" : 275,
+		"Name" : "Pattern: Stormshroud Pants",
+		"NameRU" : "Выкройка: штаны Грозового Покрова"
+	},
+	{
+		"ID" : 15742,
+		"Level" : 275,
+		"Name" : "Pattern: Warbear Harness",
+		"NameRU" : "Выкройка: портупея боевого медведя"
+	},
+	{
+		"ID" : 20253,
+		"Level" : 275,
+		"Name" : "Pattern: Warbear Harness",
+		"NameRU" : "Выкройка: портупея боевого медведя"
+	},
+	{
+		"ID" : 15743,
+		"Level" : 280,
+		"Name" : "Pattern: Heavy Scorpid Belt",
+		"NameRU" : "Выкройка: пояс из толстой чешуи скорпида"
+	},
+	{
+		"ID" : 15744,
+		"Level" : 280,
+		"Name" : "Pattern: Wicked Leather Headband",
+		"NameRU" : "Выкройка: гибельная кожаная головная повязка"
+	},
+	{
+		"ID" : 15745,
+		"Level" : 280,
+		"Name" : "Pattern: Runic Leather Belt",
+		"NameRU" : "Выкройка: рунический кожаный пояс"
+	},
+	{
+		"ID" : 15746,
+		"Level" : 280,
+		"Name" : "Pattern: Chimeric Leggings",
+		"NameRU" : "Выкройка: химерические поножи"
+	},
+	{
+		"ID" : 15747,
+		"Level" : 285,
+		"Name" : "Pattern: Frostsaber Leggings",
+		"NameRU" : "Выкройка: поножи из кожи ледопарда"
+	},
+	{
+		"ID" : 15748,
+		"Level" : 285,
+		"Name" : "Pattern: Heavy Scorpid Leggings",
+		"NameRU" : "Выкройка: поножи из толстой чешуи скорпида"
+	},
+	{
+		"ID" : 15749,
+		"Level" : 285,
+		"Name" : "Pattern: Volcanic Breastplate",
+		"NameRU" : "Выкройка: вулканическая кираса"
+	},
+	{
+		"ID" : 15751,
+		"Level" : 285,
+		"Name" : "Pattern: Blue Dragonscale Breastplate",
+		"NameRU" : "Выкройка: кираса из чешуи синего дракона"
+	},
+	{
+		"ID" : 15752,
+		"Level" : 285,
+		"Name" : "Pattern: Living Leggings",
+		"NameRU" : "Выкройка: поножи жизни"
+	},
+	{
+		"ID" : 15753,
+		"Level" : 285,
+		"Name" : "Pattern: Stormshroud Armor",
+		"NameRU" : "Выкройка: доспех Грозовой Покров"
+	},
+	{
+		"ID" : 15754,
+		"Level" : 285,
+		"Name" : "Pattern: Warbear Woolies",
+		"NameRU" : "Выкройка: короткие штаны боевого медведя"
+	},
+	{
+		"ID" : 20254,
+		"Level" : 285,
+		"Name" : "Pattern: Warbear Woolies",
+		"NameRU" : "Выкройка: короткие штаны боевого медведя"
+	},
+	{
+		"ID" : 34262,
+		"Level" : 285,
+		"Name" : "Pattern: Winter Boots",
+		"NameRU" : "Выкройка: зимние сапоги"
+	},
+	{
+		"ID" : 15755,
+		"Level" : 290,
+		"Name" : "Pattern: Chimeric Vest",
+		"NameRU" : "Выкройка: химерический жилет"
+	},
+	{
+		"ID" : 15756,
+		"Level" : 290,
+		"Name" : "Pattern: Runic Leather Headband",
+		"NameRU" : "Выкройка: руническая кожаная головная повязка"
+	},
+	{
+		"ID" : 15757,
+		"Level" : 290,
+		"Name" : "Pattern: Wicked Leather Pants",
+		"NameRU" : "Выкройка: гибельные кожаные штаны"
+	},
+	{
+		"ID" : 15758,
+		"Level" : 290,
+		"Name" : "Pattern: Devilsaur Gauntlets",
+		"NameRU" : "Выкройка: рукавицы дьявозавра"
+	},
+	{
+		"ID" : 15759,
+		"Level" : 290,
+		"Name" : "Pattern: Black Dragonscale Breastplate",
+		"NameRU" : "Выкройка: кираса из чешуи черного дракона"
+	},
+	{
+		"ID" : 15760,
+		"Level" : 290,
+		"Name" : "Pattern: Ironfeather Breastplate",
+		"NameRU" : "Выкройка: железноперая кираса"
+	},
+	{
+		"ID" : 19326,
+		"Level" : 290,
+		"Name" : "Pattern: Might of the Timbermaw",
+		"NameRU" : "Выкройка: мощь Древобрюхов"
+	},
+	{
+		"ID" : 19328,
+		"Level" : 290,
+		"Name" : "Pattern: Dawn Treaders",
+		"NameRU" : "Выкройка: рассветные ботфорты"
+	},
+	{
+		"ID" : 15761,
+		"Level" : 295,
+		"Name" : "Pattern: Frostsaber Gloves",
+		"NameRU" : "Выкройка: перчатки из кожи ледопарда"
+	},
+	{
+		"ID" : 15762,
+		"Level" : 295,
+		"Name" : "Pattern: Heavy Scorpid Helm",
+		"NameRU" : "Выкройка: шлем из толстой чешуи скорпида"
+	},
+	{
+		"ID" : 15763,
+		"Level" : 295,
+		"Name" : "Pattern: Blue Dragonscale Shoulders",
+		"NameRU" : "Выкройка: наплечники из чешуи синего дракона"
+	},
+	{
+		"ID" : 15764,
+		"Level" : 295,
+		"Name" : "Pattern: Stormshroud Shoulders",
+		"NameRU" : "Выкройка: наплечники Грозового Покрова"
+	},
+	{
+		"ID" : 17022,
+		"Level" : 295,
+		"Name" : "Pattern: Corehound Boots",
+		"NameRU" : "Выкройка: сапоги гончей Недр"
+	},
+	{
+		"ID" : 15730,
+		"Level" : 300,
+		"Name" : "Pattern: Red Dragonscale Breastplate",
+		"NameRU" : "Выкройка: кираса из чешуи красного дракона"
+	},
+	{
+		"ID" : 15765,
+		"Level" : 300,
+		"Name" : "Pattern: Runic Leather Pants",
+		"NameRU" : "Выкройка: рунические кожаные штаны"
+	},
+	{
+		"ID" : 15768,
+		"Level" : 300,
+		"Name" : "Pattern: Wicked Leather Belt",
+		"NameRU" : "Выкройка: гибельный кожаный пояс"
+	},
+	{
+		"ID" : 15770,
+		"Level" : 300,
+		"Name" : "Pattern: Black Dragonscale Shoulders",
+		"NameRU" : "Выкройка: наплечники из чешуи черного дракона"
+	},
+	{
+		"ID" : 15771,
+		"Level" : 300,
+		"Name" : "Pattern: Living Breastplate",
+		"NameRU" : "Выкройка: кираса Жизни"
+	},
+	{
+		"ID" : 15772,
+		"Level" : 300,
+		"Name" : "Pattern: Devilsaur Leggings",
+		"NameRU" : "Выкройка: поножи дьявозавра"
+	},
+	{
+		"ID" : 15773,
+		"Level" : 300,
+		"Name" : "Pattern: Wicked Leather Armor",
+		"NameRU" : "Выкройка: гибельный кожаный доспех"
+	},
+	{
+		"ID" : 15774,
+		"Level" : 300,
+		"Name" : "Pattern: Heavy Scorpid Shoulders",
+		"NameRU" : "Выкройка: наплечники из толстой чешуи скорпида"
+	},
+	{
+		"ID" : 15775,
+		"Level" : 300,
+		"Name" : "Pattern: Volcanic Shoulders",
+		"NameRU" : "Выкройка: вулканические наплечники"
+	},
+	{
+		"ID" : 15776,
+		"Level" : 300,
+		"Name" : "Pattern: Runic Leather Armor",
+		"NameRU" : "Выкройка: рунический кожаный доспех"
+	},
+	{
+		"ID" : 15777,
+		"Level" : 300,
+		"Name" : "Pattern: Runic Leather Shoulders",
+		"NameRU" : "Выкройка: рунические кожаные наплечники"
+	},
+	{
+		"ID" : 15779,
+		"Level" : 300,
+		"Name" : "Pattern: Frostsaber Tunic",
+		"NameRU" : "Выкройка: мундир из кожи ледопарда"
+	},
+	{
+		"ID" : 15781,
+		"Level" : 300,
+		"Name" : "Pattern: Black Dragonscale Leggings",
+		"NameRU" : "Выкройка: поножи из чешуи черного дракона"
+	},
+	{
+		"ID" : 17023,
+		"Level" : 300,
+		"Name" : "Pattern: Molten Helm",
+		"NameRU" : "Выкройка: оплавленный шлем"
+	},
+	{
+		"ID" : 17025,
+		"Level" : 300,
+		"Name" : "Pattern: Black Dragonscale Boots",
+		"NameRU" : "Выкройка: сапоги из чешуи черного дракона"
+	},
+	{
+		"ID" : 18252,
+		"Level" : 300,
+		"Name" : "Pattern: Core Armor Kit",
+		"NameRU" : "Выкройка: накладки из кожи Недр"
+	},
+	{
+		"ID" : 18514,
+		"Level" : 300,
+		"Name" : "Pattern: Girdle of Insight",
+		"NameRU" : "Выкройка: ремень Прозрения"
+	},
+	{
+		"ID" : 18515,
+		"Level" : 300,
+		"Name" : "Pattern: Mongoose Boots",
+		"NameRU" : "Выкройка: мангустовые сапоги"
+	},
+	{
+		"ID" : 18516,
+		"Level" : 300,
+		"Name" : "Pattern: Swift Flight Bracers",
+		"NameRU" : "Выкройка: наручи стремительного полета"
+	},
+	{
+		"ID" : 18517,
+		"Level" : 300,
+		"Name" : "Pattern: Chromatic Cloak",
+		"NameRU" : "Выкройка: разноцветный плащ"
+	},
+	{
+		"ID" : 18518,
+		"Level" : 300,
+		"Name" : "Pattern: Hide of the Wild",
+		"NameRU" : "Выкройка: Сень Природы"
+	},
+	{
+		"ID" : 18519,
+		"Level" : 300,
+		"Name" : "Pattern: Shifting Cloak",
+		"NameRU" : "Выкройка: изменчивый плащ"
+	},
+	{
+		"ID" : 19327,
+		"Level" : 300,
+		"Name" : "Pattern: Timbermaw Brawlers",
+		"NameRU" : "Выкройка: кулачные перчатки Древобрюхов"
+	},
+	{
+		"ID" : 19329,
+		"Level" : 300,
+		"Name" : "Pattern: Golden Mantle of the Dawn",
+		"NameRU" : "Выкройка: золотое оплечье рассвета"
+	},
+	{
+		"ID" : 19330,
+		"Level" : 300,
+		"Name" : "Pattern: Lava Belt",
+		"NameRU" : "Выкройка: лавовый пояс"
+	},
+	{
+		"ID" : 19331,
+		"Level" : 300,
+		"Name" : "Pattern: Chromatic Gauntlets",
+		"NameRU" : "Выкройка: разноцветные рукавицы"
+	},
+	{
+		"ID" : 19332,
+		"Level" : 300,
+		"Name" : "Pattern: Corehound Belt",
+		"NameRU" : "Выкройка: пояс гончей Недр"
+	},
+	{
+		"ID" : 19333,
+		"Level" : 300,
+		"Name" : "Pattern: Molten Belt",
+		"NameRU" : "Выкройка: оплавленный пояс"
+	},
+	{
+		"ID" : 19769,
+		"Level" : 300,
+		"Name" : "Pattern: Primal Batskin Jerkin",
+		"NameRU" : "Выкройка: жакет из кожи древней летучей мыши"
+	},
+	{
+		"ID" : 19770,
+		"Level" : 300,
+		"Name" : "Pattern: Primal Batskin Gloves",
+		"NameRU" : "Выкройка: перчатки из кожи древней летучей мыши"
+	},
+	{
+		"ID" : 19771,
+		"Level" : 300,
+		"Name" : "Pattern: Primal Batskin Bracers",
+		"NameRU" : "Выкройка: наручи из кожи древней летучей мыши"
+	},
+	{
+		"ID" : 19772,
+		"Level" : 300,
+		"Name" : "Pattern: Blood Tiger Breastplate",
+		"NameRU" : "Выкройка: кираса кровавого тигра"
+	},
+	{
+		"ID" : 19773,
+		"Level" : 300,
+		"Name" : "Pattern: Blood Tiger Shoulders",
+		"NameRU" : "Выкройка: наплечники кровавого тигра"
+	},
+	{
+		"ID" : 20382,
+		"Level" : 300,
+		"Name" : "Pattern: Dreamscale Breastplate",
+		"NameRU" : "Выкройка: кираса чешуи сна"
+	},
+	{
+		"ID" : 20506,
+		"Level" : 300,
+		"Name" : "Pattern: Spitfire Bracers",
+		"NameRU" : "Выкройка: наручи духовного огня"
+	},
+	{
+		"ID" : 20507,
+		"Level" : 300,
+		"Name" : "Pattern: Spitfire Gauntlets",
+		"NameRU" : "Выкройка: рукавицы духовного огня"
+	},
+	{
+		"ID" : 20508,
+		"Level" : 300,
+		"Name" : "Pattern: Spitfire Breastplate",
+		"NameRU" : "Выкройка: кираса духовного огня"
+	},
+	{
+		"ID" : 20509,
+		"Level" : 300,
+		"Name" : "Pattern: Sandstalker Bracers",
+		"NameRU" : "Выкройка: наручи песчаного ловца"
+	},
+	{
+		"ID" : 20510,
+		"Level" : 300,
+		"Name" : "Pattern: Sandstalker Gauntlets",
+		"NameRU" : "Выкройка: рукавицы песчаного ловца"
+	},
+	{
+		"ID" : 20511,
+		"Level" : 300,
+		"Name" : "Pattern: Sandstalker Breastplate",
+		"NameRU" : "Выкройка: кираса песчаного ловца"
+	},
+	{
+		"ID" : 21548,
+		"Level" : 300,
+		"Name" : "Pattern: Stormshroud Gloves",
+		"NameRU" : "Выкройка: перчатки Грозового Покрова"
+	},
+	{
+		"ID" : 22769,
+		"Level" : 300,
+		"Name" : "Pattern: Bramblewood Belt",
+		"NameRU" : "Выкройка: ежевичный пояс"
+	},
+	{
+		"ID" : 22770,
+		"Level" : 300,
+		"Name" : "Pattern: Bramblewood Boots",
+		"NameRU" : "Выкройка: ежевичные сапоги"
+	},
+	{
+		"ID" : 22771,
+		"Level" : 300,
+		"Name" : "Pattern: Bramblewood Helm",
+		"NameRU" : "Выкройка: ежевичный шлем"
+	},
+	{
+		"ID" : 25726,
+		"Level" : 300,
+		"Name" : "Pattern: Comfortable Insoles",
+		"NameRU" : "Выкройка: удобные стельки"
+	},
+	{
+		"ID" : 15769,
+		"Level" : 300,
+		"Name" : "Pattern: Onyxia Scale Cloak",
+		"NameRU" : "Выкройка: плащ из чешуи Ониксии"
+	},
+	{
+		"ID" : 15780,
+		"Level" : 300,
+		"Name" : "Pattern: Onyxia Scale Breastplate",
+		"NameRU" : "Выкройка: кираса из чешуи Ониксии"
+	},
+	{
+		"ID" : 25720,
+		"Level" : 325,
+		"Name" : "Pattern: Heavy Knothide Leather",
+		"NameRU" : "Выкройка: толстая узловатая кожа"
+	},
+	{
+		"ID" : 25721,
+		"Level" : 325,
+		"Name" : "Pattern: Vindicator's Armor Kit",
+		"NameRU" : "Выкройка: накладки для брони воздаятеля"
+	},
+	{
+		"ID" : 25722,
+		"Level" : 325,
+		"Name" : "Pattern: Magister's Armor Kit",
+		"NameRU" : "Выкройка: накладки для брони магистра"
+	},
+	{
+		"ID" : 29664,
+		"Level" : 325,
+		"Name" : "Pattern: Reinforced Mining Bag",
+		"NameRU" : "Выкройка: укрепленная шахтерская сумка"
+	},
+	{
+		"ID" : 30444,
+		"Level" : 325,
+		"Name" : "Pattern: Reinforced Mining Bag",
+		"NameRU" : "Выкройка: укрепленная шахтерская сумка"
+	},
+	{
+		"ID" : 29719,
+		"Level" : 335,
+		"Name" : "Pattern: Cobrahide Leg Armor",
+		"NameRU" : "Выкройка: накладки для поножей из кожи кобры"
+	},
+	{
+		"ID" : 29720,
+		"Level" : 335,
+		"Name" : "Pattern: Clefthide Leg Armor",
+		"NameRU" : "Выкройка: накладки для поножей из шкуры копытня"
+	},
+	{
+		"ID" : 31361,
+		"Level" : 335,
+		"Name" : "Pattern: Cobrahide Leg Armor",
+		"NameRU" : "Выкройка: накладки для поножей из кожи кобры"
+	},
+	{
+		"ID" : 25741,
+		"Level" : 340,
+		"Name" : "Pattern: Netherfury Belt",
+		"NameRU" : "Выкройка: пояс неистовства пустоты"
+	},
+	{
+		"ID" : 25732,
+		"Level" : 340,
+		"Name" : "Pattern: Fel Leather Gloves",
+		"NameRU" : "Выкройка: перчатки из сквернокожи"
+	},
+	{
+		"ID" : 25742,
+		"Level" : 340,
+		"Name" : "Pattern: Netherfury Leggings",
+		"NameRU" : "Выкройка: поножи неистовства пустоты"
+	},
+	{
+		"ID" : 29217,
+		"Level" : 340,
+		"Name" : "Pattern: Netherfury Belt",
+		"NameRU" : "Выкройка: пояс неистовства пустоты"
+	},
+	{
+		"ID" : 29219,
+		"Level" : 340,
+		"Name" : "Pattern: Netherfury Leggings",
+		"NameRU" : "Выкройка: поножи неистовства пустоты"
+	},
+	{
+		"ID" : 29669,
+		"Level" : 340,
+		"Name" : "Pattern: Shadow Armor Kit",
+		"NameRU" : "Выкройка: накладки сопротивления темной магии"
+	},
+	{
+		"ID" : 29672,
+		"Level" : 340,
+		"Name" : "Pattern: Flame Armor Kit",
+		"NameRU" : "Выкройка: накладки сопротивления огню"
+	},
+	{
+		"ID" : 29674,
+		"Level" : 340,
+		"Name" : "Pattern: Nature Armor Kit",
+		"NameRU" : "Выкройка: накладки сопротивления силам природы"
+	},
+	{
+		"ID" : 29675,
+		"Level" : 340,
+		"Name" : "Pattern: Arcane Armor Kit",
+		"NameRU" : "Выкройка: накладки сопротивления тайной магии"
+	},
+	{
+		"ID" : 29673,
+		"Level" : 340,
+		"Name" : "Pattern: Frost Armor Kit",
+		"NameRU" : "Выкройка: накладки сопротивления магии льда"
+	},
+	{
+		"ID" : 29718,
+		"Level" : 345,
+		"Name" : "Pattern: Drums of Speed",
+		"NameRU" : "Выкройка: барабаны скорости"
+	},
+	{
+		"ID" : 34172,
+		"Level" : 345,
+		"Name" : "Pattern: Drums of Speed",
+		"NameRU" : "Выкройка: барабаны скорости"
+	},
+	{
+		"ID" : 34173,
+		"Level" : 345,
+		"Name" : "Pattern: Drums of Speed",
+		"NameRU" : "Выкройка: барабаны скорости"
+	},
+	{
+		"ID" : 29213,
+		"Level" : 350,
+		"Name" : "Pattern: Felstalker Belt",
+		"NameRU" : "Выкройка: пояс ловца Скверны"
+	},
+	{
+		"ID" : 25731,
+		"Level" : 350,
+		"Name" : "Pattern: Stylin' Crimson Hat",
+		"NameRU" : "Выкройка: вычурная багровая шляпа"
+	},
+	{
+		"ID" : 25725,
+		"Level" : 350,
+		"Name" : "Pattern: Riding Crop",
+		"NameRU" : "Выкройка: ездовой хлыст"
+	},
+	{
+		"ID" : 25738,
+		"Level" : 350,
+		"Name" : "Pattern: Felstalker Belt",
+		"NameRU" : "Выкройка: пояс ловца Скверны"
+	},
+	{
+		"ID" : 25733,
+		"Level" : 350,
+		"Name" : "Pattern: Fel Leather Boots",
+		"NameRU" : "Выкройка: сапоги из сквернокожи"
+	},
+	{
+		"ID" : 25734,
+		"Level" : 350,
+		"Name" : "Pattern: Fel Leather Leggings",
+		"NameRU" : "Выкройка: поножи из сквернокожи"
+	},
+	{
+		"ID" : 25743,
+		"Level" : 350,
+		"Name" : "Pattern: Netherfury Boots",
+		"NameRU" : "Выкройка: сапоги неистовства пустоты"
+	},
+	{
+		"ID" : 25728,
+		"Level" : 350,
+		"Name" : "Pattern: Stylin' Purple Hat",
+		"NameRU" : "Выкройка: вычурная лиловая шляпа"
+	},
+	{
+		"ID" : 25729,
+		"Level" : 350,
+		"Name" : "Pattern: Stylin' Adventure Hat",
+		"NameRU" : "Выкройка: вычурная походная шляпа"
+	},
+	{
+		"ID" : 25730,
+		"Level" : 350,
+		"Name" : "Pattern: Stylin' Jungle Hat",
+		"NameRU" : "Выкройка: вычурная тропическая шляпа"
+	},
+	{
+		"ID" : 29218,
+		"Level" : 350,
+		"Name" : "Pattern: Netherfury Boots",
+		"NameRU" : "Выкройка: сапоги неистовства пустоты"
+	},
+	{
+		"ID" : 29677,
+		"Level" : 350,
+		"Name" : "Pattern: Enchanted Felscale Leggings",
+		"NameRU" : "Выкройка: зачарованные скверночешуйчатые поножи"
+	},
+	{
+		"ID" : 29682,
+		"Level" : 350,
+		"Name" : "Pattern: Enchanted Felscale Gloves",
+		"NameRU" : "Выкройка: зачарованные скверночешуйчатые перчатки"
+	},
+	{
+		"ID" : 29684,
+		"Level" : 350,
+		"Name" : "Pattern: Enchanted Felscale Boots",
+		"NameRU" : "Выкройка: зачарованные скверночешуйчатые сапоги"
+	},
+	{
+		"ID" : 29689,
+		"Level" : 350,
+		"Name" : "Pattern: Flamescale Leggings",
+		"NameRU" : "Выкройка: огненночешуйчатые поножи"
+	},
+	{
+		"ID" : 29691,
+		"Level" : 350,
+		"Name" : "Pattern: Flamescale Boots",
+		"NameRU" : "Выкройка: огненночешуйчатые сапоги"
+	},
+	{
+		"ID" : 29693,
+		"Level" : 350,
+		"Name" : "Pattern: Flamescale Belt",
+		"NameRU" : "Выкройка: огненночешуйчатый пояс"
+	},
+	{
+		"ID" : 29698,
+		"Level" : 350,
+		"Name" : "Pattern: Enchanted Clefthoof Leggings",
+		"NameRU" : "Выкройка: зачарованные поножи из шкуры копытня"
+	},
+	{
+		"ID" : 29700,
+		"Level" : 350,
+		"Name" : "Pattern: Enchanted Clefthoof Gloves",
+		"NameRU" : "Выкройка: зачарованные перчатки из шкуры копытня"
+	},
+	{
+		"ID" : 29701,
+		"Level" : 350,
+		"Name" : "Pattern: Enchanted Clefthoof Boots",
+		"NameRU" : "Выкройка: зачарованные сапоги из шкуры копытня"
+	},
+	{
+		"ID" : 29702,
+		"Level" : 350,
+		"Name" : "Pattern: Blastguard Pants",
+		"NameRU" : "Выкройка: взрывостойкие штаны"
+	},
+	{
+		"ID" : 29703,
+		"Level" : 350,
+		"Name" : "Pattern: Blastguard Boots",
+		"NameRU" : "Выкройка: взрывостойкие сапоги"
+	},
+	{
+		"ID" : 29704,
+		"Level" : 350,
+		"Name" : "Pattern: Blastguard Belt",
+		"NameRU" : "Выкройка: взрывостойкий пояс"
+	},
+	{
+		"ID" : 29714,
+		"Level" : 350,
+		"Name" : "Pattern: Drums of Restoration",
+		"NameRU" : "Выкройка: Барабаны Восстановления"
+	},
+	{
+		"ID" : 34200,
+		"Level" : 350,
+		"Name" : "Pattern: Quiver of a Thousand Feathers",
+		"NameRU" : "Выкройка: колчан тысячи оперений"
+	},
+	{
+		"ID" : 34218,
+		"Level" : 350,
+		"Name" : "Pattern: Netherscale Ammo Pouch",
+		"NameRU" : "Выкройка: подсумок из чешуи дракона Пустоты"
+	},
+	{
+		"ID" : 34201,
+		"Level" : 350,
+		"Name" : "Pattern: Netherscale Ammo Pouch",
+		"NameRU" : "Выкройка: подсумок из чешуи дракона Пустоты"
+	},
+	{
+		"ID" : 34174,
+		"Level" : 350,
+		"Name" : "Pattern: Drums of Restoration",
+		"NameRU" : "Выкройка: барабаны восстановления"
+	},
+	{
+		"ID" : 34175,
+		"Level" : 350,
+		"Name" : "Pattern: Drums of Restoration",
+		"NameRU" : "Выкройка: барабаны восстановления"
+	},
+	{
+		"ID" : 25736,
+		"Level" : 355,
+		"Name" : "Pattern: Heavy Clefthoof Leggings",
+		"NameRU" : "Выкройка: тяжелые поножи из шкуры копытня"
+	},
+	{
+		"ID" : 25737,
+		"Level" : 355,
+		"Name" : "Pattern: Heavy Clefthoof Boots",
+		"NameRU" : "Выкройка: тяжелые сапоги из шкуры копытня"
+	},
+	{
+		"ID" : 25740,
+		"Level" : 360,
+		"Name" : "Pattern: Felstalker Breastplate",
+		"NameRU" : "Выкройка: кираса ловца Скверны"
+	},
+	{
+		"ID" : 25735,
+		"Level" : 360,
+		"Name" : "Pattern: Heavy Clefthoof Vest",
+		"NameRU" : "Выкройка: тяжелый панцирь из шкуры копытня"
+	},
+	{
+		"ID" : 25739,
+		"Level" : 360,
+		"Name" : "Pattern: Felstalker Bracers",
+		"NameRU" : "Выкройка: наручи ловца Скверны"
+	},
+	{
+		"ID" : 29214,
+		"Level" : 360,
+		"Name" : "Pattern: Felstalker Bracers",
+		"NameRU" : "Выкройка: наручи ловца Скверны"
+	},
+	{
+		"ID" : 29215,
+		"Level" : 360,
+		"Name" : "Pattern: Felstalker Breastplate",
+		"NameRU" : "Выкройка: кираса ловца Скверны"
+	},
+	{
+		"ID" : 33124,
+		"Level" : 360,
+		"Name" : "Pattern: Cloak of Darkness",
+		"NameRU" : "Выкройка: плащ Тьмы"
+	},
+	{
+		"ID" : 34491,
+		"Level" : 360,
+		"Name" : "Pattern: Bag of Many Hides",
+		"NameRU" : "Выкройка: сумка Многих шкур"
+	},
+	{
+		"ID" : 29717,
+		"Level" : 365,
+		"Name" : "Pattern: Drums of Battle",
+		"NameRU" : "Выкройка: барабаны битвы"
+	},
+	{
+		"ID" : 29721,
+		"Level" : 365,
+		"Name" : "Pattern: Nethercleft Leg Armor",
+		"NameRU" : "Выкройка: накладки для поножей из кожи копытня"
+	},
+	{
+		"ID" : 29722,
+		"Level" : 365,
+		"Name" : "Pattern: Nethercobra Leg Armor",
+		"NameRU" : "Выкройка: накладки для поножей из чешуи кобры"
+	},
+	{
+		"ID" : 29723,
+		"Level" : 365,
+		"Name" : "Pattern: Cobrascale Hood",
+		"NameRU" : "Выкройка: капюшон из чешуи кобры"
+	},
+	{
+		"ID" : 29724,
+		"Level" : 365,
+		"Name" : "Pattern: Cobrascale Gloves",
+		"NameRU" : "Выкройка: перчатки из чешуи кобры"
+	},
+	{
+		"ID" : 29725,
+		"Level" : 365,
+		"Name" : "Pattern: Windscale Hood",
+		"NameRU" : "Выкройка: ветрочешуйчатый капюшон"
+	},
+	{
+		"ID" : 29726,
+		"Level" : 365,
+		"Name" : "Pattern: Hood of Primal Life",
+		"NameRU" : "Выкройка: капюшон изначальной жизни"
+	},
+	{
+		"ID" : 29727,
+		"Level" : 365,
+		"Name" : "Pattern: Gloves of the Living Touch",
+		"NameRU" : "Выкройка: перчатки Живого прикосновения"
+	},
+	{
+		"ID" : 29728,
+		"Level" : 365,
+		"Name" : "Pattern: Windslayer Wraps",
+		"NameRU" : "Выкройка: напульсники ветроубийцы"
+	},
+	{
+		"ID" : 29729,
+		"Level" : 365,
+		"Name" : "Pattern: Living Dragonscale Helm",
+		"NameRU" : "Выкройка: шлем из живой драконьей чешуи"
+	},
+	{
+		"ID" : 29730,
+		"Level" : 365,
+		"Name" : "Pattern: Earthen Netherscale Boots",
+		"NameRU" : "Выкройка: земляные сапоги из чешуи дракона Пустоты"
+	},
+	{
+		"ID" : 29731,
+		"Level" : 365,
+		"Name" : "Pattern: Windstrike Gloves",
+		"NameRU" : "Выкройка: перчатки налетевшего ветра"
+	},
+	{
+		"ID" : 29732,
+		"Level" : 365,
+		"Name" : "Pattern: Netherdrake Helm",
+		"NameRU" : "Выкройка: шлем дракона Пустоты"
+	},
+	{
+		"ID" : 29733,
+		"Level" : 365,
+		"Name" : "Pattern: Netherdrake Gloves",
+		"NameRU" : "Выкройка: перчатки дракона Пустоты"
+	},
+	{
+		"ID" : 29734,
+		"Level" : 365,
+		"Name" : "Pattern: Thick Netherscale Breastplate",
+		"NameRU" : "Выкройка: плотная кираса из чешуи дракона Пустоты"
+	},
+	{
+		"ID" : 31362,
+		"Level" : 365,
+		"Name" : "Pattern: Nethercobra Leg Armor",
+		"NameRU" : "Выкройка: накладки для поножей из чешуи кобры"
+	},
+	{
+		"ID" : 33205,
+		"Level" : 365,
+		"Name" : "Pattern: Shadowprowler's Chestguard",
+		"NameRU" : "Выкройка: нагрудный доспех сумеречного татя"
+	},
+	{
+		"ID" : 35303,
+		"Level" : 365,
+		"Name" : "Pattern: Gloves of the Living Touch",
+		"NameRU" : "Выкройка: перчатки Живого прикосновения"
+	},
+	{
+		"ID" : 35300,
+		"Level" : 365,
+		"Name" : "Pattern: Windstrike Gloves",
+		"NameRU" : "Выкройка: перчатки налетевшего ветра"
+	},
+	{
+		"ID" : 35212,
+		"Level" : 365,
+		"Name" : "Pattern: Leather Gauntlets of the Sun",
+		"NameRU" : "Выкройка: кожаные рукавицы Солнца"
+	},
+	{
+		"ID" : 35213,
+		"Level" : 365,
+		"Name" : "Pattern: Fletcher's Gloves of the Phoenix",
+		"NameRU" : "Выкройка: стрелецкие перчатки Феникса"
+	},
+	{
+		"ID" : 35214,
+		"Level" : 365,
+		"Name" : "Pattern: Gloves of Immortal Dusk",
+		"NameRU" : "Выкройка: перчатки Бессмертного Сумрака"
+	},
+	{
+		"ID" : 35215,
+		"Level" : 365,
+		"Name" : "Pattern: Sun-Drenched Scale Gloves",
+		"NameRU" : "Выкройка: Пронизанные солнцем чешуйчатые перчатки"
+	},
+	{
+		"ID" : 35301,
+		"Level" : 365,
+		"Name" : "Pattern: Netherdrake Gloves",
+		"NameRU" : "Выкройка: перчатки дракона Пустоты"
+	},
+	{
+		"ID" : 35217,
+		"Level" : 365,
+		"Name" : "Pattern: Embrace of the Phoenix",
+		"NameRU" : "Выкройка: облачение Феникса"
+	},
+	{
+		"ID" : 35218,
+		"Level" : 365,
+		"Name" : "Pattern: Carapace of Sun and Shadow",
+		"NameRU" : "Выкройка: панцирь Солнца и Тени"
+	},
+	{
+		"ID" : 35219,
+		"Level" : 365,
+		"Name" : "Pattern: Sun-Drenched Scale Chestguard",
+		"NameRU" : "Выкройка: пронизанный солнцем нагрудный доспех"
+	},
+	{
+		"ID" : 35302,
+		"Level" : 365,
+		"Name" : "Pattern: Cobrascale Gloves",
+		"NameRU" : "Выкройка: перчатки из чешуи кобры"
+	},
+	{
+		"ID" : 35216,
+		"Level" : 365,
+		"Name" : "Pattern: Leather Chestguard of the Sun",
+		"NameRU" : "Выкройка: кожаный нагрудный доспех Солнца"
+	},
+	{
+		"ID" : 35539,
+		"Level" : 365,
+		"Name" : "Pattern: Carapace of Sun and Shadow",
+		"NameRU" : "Выкройка: Панцирь Солнца и Тени"
+	},
+	{
+		"ID" : 35541,
+		"Level" : 365,
+		"Name" : "Pattern: Fletcher's Gloves of the Phoenix",
+		"NameRU" : "Выкройка: Стрелецкие перчатки Феникса"
+	},
+	{
+		"ID" : 35545,
+		"Level" : 365,
+		"Name" : "Pattern: Leather Chestguard of the Sun",
+		"NameRU" : "Выкройка: Кожаный нагрудный доспех Солнца"
+	},
+	{
+		"ID" : 35546,
+		"Level" : 365,
+		"Name" : "Pattern: Leather Gauntlets of the Sun",
+		"NameRU" : "Выкройка: Кожаные рукавицы Солнца"
+	},
+	{
+		"ID" : 35549,
+		"Level" : 365,
+		"Name" : "Pattern: Sun-Drenched Scale Chestguard",
+		"NameRU" : "Выкройка: Пронизанный солнцем нагрудный доспех"
+	},
+	{
+		"ID" : 35550,
+		"Level" : 365,
+		"Name" : "Pattern: Sun-Drenched Scale Gloves",
+		"NameRU" : "Выкройка: Пронизанные солнцем чешуйчатые перчатки"
+	},
+	{
+		"ID" : 29713,
+		"Level" : 370,
+		"Name" : "Pattern: Drums of Panic",
+		"NameRU" : "Выкройка: барабаны паники"
+	},
+	{
+		"ID" : 30306,
+		"Level" : 375,
+		"Name" : "Pattern: Boots of Utter Darkness",
+		"NameRU" : "Выкройка: сапоги непроглядной тьмы"
+	},
+	{
+		"ID" : 32744,
+		"Level" : 375,
+		"Name" : "Pattern: Bracers of Renewed Life",
+		"NameRU" : "Выкройка: наручи обновленной жизни"
+	},
+	{
+		"ID" : 30305,
+		"Level" : 375,
+		"Name" : "Pattern: Boots of Natural Grace",
+		"NameRU" : "Выкройка: сапоги природной милости"
+	},
+	{
+		"ID" : 30302,
+		"Level" : 375,
+		"Name" : "Pattern: Belt of Deep Shadow",
+		"NameRU" : "Выкройка: пояс глубокой тени"
+	},
+	{
+		"ID" : 30308,
+		"Level" : 375,
+		"Name" : "Pattern: Hurricane Boots",
+		"NameRU" : "Выкройка: сапоги урагана"
+	},
+	{
+		"ID" : 30304,
+		"Level" : 375,
+		"Name" : "Pattern: Monsoon Belt",
+		"NameRU" : "Выкройка: пояс сезона дождей"
+	},
+	{
+		"ID" : 30301,
+		"Level" : 375,
+		"Name" : "Pattern: Belt of Natural Power",
+		"NameRU" : "Выкройка: пояс природной силы"
+	},
+	{
+		"ID" : 30303,
+		"Level" : 375,
+		"Name" : "Pattern: Belt of the Black Eagle",
+		"NameRU" : "Выкройка: пояс черного орла"
+	},
+	{
+		"ID" : 30307,
+		"Level" : 375,
+		"Name" : "Pattern: Boots of the Crimson Hawk",
+		"NameRU" : "Выкройка: сапоги багрового ястреба"
+	},
+	{
+		"ID" : 32429,
+		"Level" : 375,
+		"Name" : "Pattern: Boots of Shackled Souls",
+		"NameRU" : "Выкройка: сапоги скованных душ"
+	},
+	{
+		"ID" : 32430,
+		"Level" : 375,
+		"Name" : "Pattern: Bracers of Shackled Souls",
+		"NameRU" : "Выкройка: наручи скованных душ"
+	},
+	{
+		"ID" : 32431,
+		"Level" : 375,
+		"Name" : "Pattern: Greaves of Shackled Souls",
+		"NameRU" : "Выкройка: наголенники скованных душ"
+	},
+	{
+		"ID" : 32432,
+		"Level" : 375,
+		"Name" : "Pattern: Waistguard of Shackled Souls",
+		"NameRU" : "Выкройка: воинский пояс скованных душ"
+	},
+	{
+		"ID" : 32433,
+		"Level" : 375,
+		"Name" : "Pattern: Redeemed Soul Moccasins",
+		"NameRU" : "Выкройка: мокасины искупленной души"
+	},
+	{
+		"ID" : 32434,
+		"Level" : 375,
+		"Name" : "Pattern: Redeemed Soul Wristguards",
+		"NameRU" : "Выкройка: накулачники искупленной души"
+	},
+	{
+		"ID" : 32435,
+		"Level" : 375,
+		"Name" : "Pattern: Redeemed Soul Legguards",
+		"NameRU" : "Выкройка: набедренники искупленной души"
+	},
+	{
+		"ID" : 32436,
+		"Level" : 375,
+		"Name" : "Pattern: Redeemed Soul Cinch",
+		"NameRU" : "Выкройка: кушак искупленной души"
+	},
+	{
+		"ID" : 32745,
+		"Level" : 375,
+		"Name" : "Pattern: Shoulderpads of Renewed Life",
+		"NameRU" : "Выкройка: наплечные пластины обновленной жизни"
+	},
+	{
+		"ID" : 32746,
+		"Level" : 375,
+		"Name" : "Pattern: Swiftstrike Bracers",
+		"NameRU" : "Выкройка: наручи молниеносного удара"
+	},
+	{
+		"ID" : 32747,
+		"Level" : 375,
+		"Name" : "Pattern: Swiftstrike Shoulders",
+		"NameRU" : "Выкройка: наплечники молниеносного удара"
+	},
+	{
+		"ID" : 32748,
+		"Level" : 375,
+		"Name" : "Pattern: Bindings of Lightning Reflexes",
+		"NameRU" : "Выкройка: наручники молниеносной реакции"
+	},
+	{
+		"ID" : 32749,
+		"Level" : 375,
+		"Name" : "Pattern: Shoulders of Lightning Reflexes",
+		"NameRU" : "Выкройка: наплечники молниеносной реакции"
+	},
+	{
+		"ID" : 32750,
+		"Level" : 375,
+		"Name" : "Pattern: Living Earth Bindings",
+		"NameRU" : "Выкройка: наручники живой земли"
+	},
+	{
+		"ID" : 32751,
+		"Level" : 375,
+		"Name" : "Pattern: Living Earth Shoulders",
+		"NameRU" : "Выкройка: наплечники живой земли"
+	},
+	{
+		"ID" : 35517,
+		"Level" : 375,
+		"Name" : "Pattern: Bindings of Lightning Reflexes",
+		"NameRU" : "Выкройка: Наручники молниеносной реакции"
+	},
+	{
+		"ID" : 35519,
+		"Level" : 375,
+		"Name" : "Pattern: Bracers of Renewed Life",
+		"NameRU" : "Выкройка: Наручи обновленной жизни"
+	},
+	{
+		"ID" : 35520,
+		"Level" : 375,
+		"Name" : "Pattern: Living Earth Bindings",
+		"NameRU" : "Выкройка: Наручники Живой земли"
+	},
+	{
+		"ID" : 35521,
+		"Level" : 375,
+		"Name" : "Pattern: Living Earth Shoulders",
+		"NameRU" : "Выкройка: Наплечники Живой земли"
+	},
+	{
+		"ID" : 35523,
+		"Level" : 375,
+		"Name" : "Pattern: Shoulderpads of Renewed Life",
+		"NameRU" : "Выкройка: Наплечные щитки обновленной жизни"
+	},
+	{
+		"ID" : 35524,
+		"Level" : 375,
+		"Name" : "Pattern: Shoulders of Lightning Reflexes",
+		"NameRU" : "Выкройка: Наплечники молниеносной реакции"
+	},
+	{
+		"ID" : 35527,
+		"Level" : 375,
+		"Name" : "Pattern: Swiftstrike Bracers",
+		"NameRU" : "Выкройка: Наручи молниеносного удара"
+	},
+	{
+		"ID" : 35528,
+		"Level" : 375,
+		"Name" : "Pattern: Swiftstrike Shoulders",
+		"NameRU" : "Выкройка: Наплечники молниеносного удара"
+	},
+	{
+		"ID" : 38597,
+		"Level" : 390,
+		"Name" : "Pattern: Dark Arctic Boots",
+		"NameRU" : "Выкройка: черные полярные сапоги"
+	},
+	{
+		"ID" : 44559,
+		"Level" : 400,
+		"Name" : "Pattern: Fur Lining - Fire Resist",
+		"NameRU" : "Выкройка: меховая подкладка - сопротивление огню"
+	},
+	{
+		"ID" : 44560,
+		"Level" : 400,
+		"Name" : "Pattern: Fur Lining - Frost Resist",
+		"NameRU" : "Выкройка: меховая подкладка - сопротивление магии льда"
+	},
+	{
+		"ID" : 44561,
+		"Level" : 400,
+		"Name" : "Pattern: Fur Lining - Shadow Resist",
+		"NameRU" : "Выкройка: меховая подкладка - сопротивление темной магии"
+	},
+	{
+		"ID" : 44562,
+		"Level" : 400,
+		"Name" : "Pattern: Fur Lining - Nature Resist",
+		"NameRU" : "Выкройка: меховая подкладка - сопротивление силам природы"
+	},
+	{
+		"ID" : 44563,
+		"Level" : 400,
+		"Name" : "Pattern: Fur Lining - Arcane Resist",
+		"NameRU" : "Выкройка: меховая подкладка - сопротивление тайной магии"
+	},
+	{
+		"ID" : 44509,
+		"Level" : 415,
+		"Name" : "Pattern: Trapper's Traveling Pack",
+		"NameRU" : "Выкройка: походная сума зверолова"
+	},
+	{
+		"ID" : 44510,
+		"Level" : 415,
+		"Name" : "Pattern: Mammoth Mining Bag",
+		"NameRU" : "Выкройка: шахтерская сумка из шкуры мамонта"
+	},
+	{
+		"ID" : 44511,
+		"Level" : 415,
+		"Name" : "Pattern: Dragonscale Ammo Pouch",
+		"NameRU" : "Выкройка: подсумок из драконьей чешуи"
+	},
+	{
+		"ID" : 44512,
+		"Level" : 415,
+		"Name" : "Pattern: Nerubian Reinforced Quiver",
+		"NameRU" : "Выкройка: усиленный нерубский колчан"
+	},
+	{
+		"ID" : 44513,
+		"Level" : 420,
+		"Name" : "Pattern: Eviscerator's Facemask",
+		"NameRU" : "Выкройка: маска потрошителя"
+	},
+	{
+		"ID" : 44514,
+		"Level" : 420,
+		"Name" : "Pattern: Eviscerator's Shoulderpads",
+		"NameRU" : "Выкройка: наплечные пластины потрошителя"
+	},
+	{
+		"ID" : 44515,
+		"Level" : 420,
+		"Name" : "Pattern: Eviscerator's Chestguard",
+		"NameRU" : "Выкройка: нагрудный доспех потрошителя"
+	},
+	{
+		"ID" : 44516,
+		"Level" : 420,
+		"Name" : "Pattern: Eviscerator's Bindings",
+		"NameRU" : "Выкройка: наручники потрошителя"
+	},
+	{
+		"ID" : 44521,
+		"Level" : 420,
+		"Name" : "Pattern: Overcast Headguard",
+		"NameRU" : "Выкройка: наголовник угрюмости"
+	},
+	{
+		"ID" : 44522,
+		"Level" : 420,
+		"Name" : "Pattern: Overcast Spaulders",
+		"NameRU" : "Выкройка: наплеч угрюмости"
+	},
+	{
+		"ID" : 44523,
+		"Level" : 420,
+		"Name" : "Pattern: Overcast Chestguard",
+		"NameRU" : "Выкройка: нагрудный доспех угрюмости"
+	},
+	{
+		"ID" : 44524,
+		"Level" : 420,
+		"Name" : "Pattern: Overcast Bracers",
+		"NameRU" : "Выкройка: наручи угрюмости"
+	},
+	{
+		"ID" : 44530,
+		"Level" : 420,
+		"Name" : "Pattern: Swiftarrow Helm",
+		"NameRU" : "Выкройка: шлем быстрой стрелы"
+	},
+	{
+		"ID" : 44531,
+		"Level" : 420,
+		"Name" : "Pattern: Swiftarrow Shoulderguards",
+		"NameRU" : "Выкройка: наплечные щитки быстрой стрелы"
+	},
+	{
+		"ID" : 44532,
+		"Level" : 420,
+		"Name" : "Pattern: Swiftarrow Hauberk",
+		"NameRU" : "Выкройка: хауберк быстрой стрелы"
+	},
+	{
+		"ID" : 44533,
+		"Level" : 420,
+		"Name" : "Pattern: Swiftarrow Bracers",
+		"NameRU" : "Выкройка: наручи быстрой стрелы"
+	},
+	{
+		"ID" : 44538,
+		"Level" : 420,
+		"Name" : "Pattern: Stormhide Crown",
+		"NameRU" : "Выкройка: корона штормового укрытия"
+	},
+	{
+		"ID" : 44539,
+		"Level" : 420,
+		"Name" : "Pattern: Stormhide Shoulders",
+		"NameRU" : "Выкройка: наплечники штормового укрытия"
+	},
+	{
+		"ID" : 44540,
+		"Level" : 420,
+		"Name" : "Pattern: Stormhide Hauberk",
+		"NameRU" : "Выкройка: хауберк штормового укрытия"
+	},
+	{
+		"ID" : 44541,
+		"Level" : 420,
+		"Name" : "Pattern: Stormhide Wristguards",
+		"NameRU" : "Выкройка: накулачники штормового укрытия"
+	},
+	{
+		"ID" : 44585,
+		"Level" : 420,
+		"Name" : "Pattern: Polar Cord",
+		"NameRU" : "Выкройка: снежный шнурованный ремень"
+	},
+	{
+		"ID" : 44586,
+		"Level" : 420,
+		"Name" : "Pattern: Polar Boots",
+		"NameRU" : "Выкройка: снежные сапоги"
+	},
+	{
+		"ID" : 44588,
+		"Level" : 420,
+		"Name" : "Pattern: Icy Scale Belt",
+		"NameRU" : "Выкройка: пояс из ледяной чешуи"
+	},
+	{
+		"ID" : 44589,
+		"Level" : 420,
+		"Name" : "Pattern: Icy Scale Boots",
+		"NameRU" : "Выкройка: сапоги из ледяной чешуи"
+	},
+	{
+		"ID" : 44517,
+		"Level" : 425,
+		"Name" : "Pattern: Eviscerator's Gauntlets",
+		"NameRU" : "Выкройка: рукавицы потрошителя"
+	},
+	{
+		"ID" : 44518,
+		"Level" : 425,
+		"Name" : "Pattern: Eviscerator's Waistguard",
+		"NameRU" : "Выкройка: воинский пояс потрошителя"
+	},
+	{
+		"ID" : 44519,
+		"Level" : 425,
+		"Name" : "Pattern: Eviscerator's Legguards",
+		"NameRU" : "Выкройка: набедренники потрошителя"
+	},
+	{
+		"ID" : 44520,
+		"Level" : 425,
+		"Name" : "Pattern: Eviscerator's Treads",
+		"NameRU" : "Выкройка: ботфорты потрошителя"
+	},
+	{
+		"ID" : 44525,
+		"Level" : 425,
+		"Name" : "Pattern: Overcast Handwraps",
+		"NameRU" : "Выкройка: повязки угрюмости"
+	},
+	{
+		"ID" : 44526,
+		"Level" : 425,
+		"Name" : "Pattern: Overcast Belt",
+		"NameRU" : "Выкройка: пояс угрюмости"
+	},
+	{
+		"ID" : 44527,
+		"Level" : 425,
+		"Name" : "Pattern: Overcast Leggings",
+		"NameRU" : "Выкройка: поножи угрюмости"
+	},
+	{
+		"ID" : 44528,
+		"Level" : 425,
+		"Name" : "Pattern: Overcast Boots",
+		"NameRU" : "Выкройка: сапоги угрюмости"
+	},
+	{
+		"ID" : 44534,
+		"Level" : 425,
+		"Name" : "Pattern: Swiftarrow Gauntlets",
+		"NameRU" : "Выкройка: рукавицы быстрой стрелы"
+	},
+	{
+		"ID" : 44535,
+		"Level" : 425,
+		"Name" : "Pattern: Swiftarrow Belt",
+		"NameRU" : "Выкройка: пояс быстрой стрелы"
+	},
+	{
+		"ID" : 44536,
+		"Level" : 425,
+		"Name" : "Pattern: Swiftarrow Leggings",
+		"NameRU" : "Выкройка: поножи быстрой стрелы"
+	},
+	{
+		"ID" : 44537,
+		"Level" : 425,
+		"Name" : "Pattern: Swiftarrow Boots",
+		"NameRU" : "Выкройка: сапоги быстрой стрелы"
+	},
+	{
+		"ID" : 44542,
+		"Level" : 425,
+		"Name" : "Pattern: Stormhide Grips",
+		"NameRU" : "Выкройка: захваты штормового укрытия"
+	},
+	{
+		"ID" : 44543,
+		"Level" : 425,
+		"Name" : "Pattern: Stormhide Belt",
+		"NameRU" : "Выкройка: пояс штормового укрытия"
+	},
+	{
+		"ID" : 44544,
+		"Level" : 425,
+		"Name" : "Pattern: Stormhide Legguards",
+		"NameRU" : "Выкройка: набедренники штормового укрытия"
+	},
+	{
+		"ID" : 44545,
+		"Level" : 425,
+		"Name" : "Pattern: Stormhide Stompers",
+		"NameRU" : "Выкройка: высокие ботинки штормового укрытия"
+	},
+	{
+		"ID" : 44584,
+		"Level" : 425,
+		"Name" : "Pattern: Polar Vest",
+		"NameRU" : "Выкройка: снежный жилет"
+	},
+	{
+		"ID" : 44587,
+		"Level" : 425,
+		"Name" : "Pattern: Icy Scale Chestguard",
+		"NameRU" : "Выкройка: нагрудный доспех из ледяной чешуи"
+	},
+	{
+		"ID" : 44546,
+		"Level" : 440,
+		"Name" : "Pattern: Giantmaim Legguards",
+		"NameRU" : "Выкройка: набедренники тяжелых увечий"
+	},
+	{
+		"ID" : 44547,
+		"Level" : 440,
+		"Name" : "Pattern: Giantmaim Bracers",
+		"NameRU" : "Выкройка: наручи тяжелых увечий"
+	},
+	{
+		"ID" : 44548,
+		"Level" : 440,
+		"Name" : "Pattern: Revenant's Breastplate",
+		"NameRU" : "Выкройка: кираса загробника"
+	},
+	{
+		"ID" : 44549,
+		"Level" : 440,
+		"Name" : "Pattern: Revenant's Treads",
+		"NameRU" : "Выкройка: ботфорты загробника"
+	},
+	{
+		"ID" : 44550,
+		"Level" : 440,
+		"Name" : "Pattern: Trollwoven Spaulders",
+		"NameRU" : "Выкройка: тролльский тканый наплеч"
+	},
+	{
+		"ID" : 44551,
+		"Level" : 440,
+		"Name" : "Pattern: Trollwoven Girdle",
+		"NameRU" : "Выкройка: тролльский тканый ремень"
+	},
+	{
+		"ID" : 44552,
+		"Level" : 440,
+		"Name" : "Pattern: Earthgiving Legguards",
+		"NameRU" : "Выкройка: набедренники земледарения"
+	},
+	{
+		"ID" : 44553,
+		"Level" : 440,
+		"Name" : "Pattern: Earthgiving Boots",
+		"NameRU" : "Выкройка: сапоги земледарения"
+	},
+	{
+		"ID" : 44932,
+		"Level" : 440,
+		"Name" : "Pattern: Windripper Boots",
+		"NameRU" : "Выкройка: сапоги ветроруба"
+	},
+	{
+		"ID" : 44933,
+		"Level" : 440,
+		"Name" : "Pattern: Windripper Leggings",
+		"NameRU" : "Выкройка: поножи ветроруба"
+	},
+	{
+		"ID" : 45094,
+		"Level" : 450,
+		"Name" : "Pattern: Belt of Dragons",
+		"NameRU" : "Выкройка: пояс драконов"
+	},
+	{
+		"ID" : 45095,
+		"Level" : 450,
+		"Name" : "Pattern: Boots of Living Scale",
+		"NameRU" : "Выкройка: сапоги из живой чешуи"
+	},
+	{
+		"ID" : 45096,
+		"Level" : 450,
+		"Name" : "Pattern: Blue Belt of Chaos",
+		"NameRU" : "Выкройка: синий пояс Хаоса"
+	},
+	{
+		"ID" : 45097,
+		"Level" : 450,
+		"Name" : "Pattern: Lightning Grounded Boots",
+		"NameRU" : "Выкройка: сапоги ударившей молнии"
+	},
+	{
+		"ID" : 45098,
+		"Level" : 450,
+		"Name" : "Pattern: Death-warmed Belt",
+		"NameRU" : "Выкройка: опаленный смертью пояс"
+	},
+	{
+		"ID" : 45099,
+		"Level" : 450,
+		"Name" : "Pattern: Footpads of Silence",
+		"NameRU" : "Выкройка: сапоги тишины"
+	},
+	{
+		"ID" : 45100,
+		"Level" : 450,
+		"Name" : "Pattern: Belt of Arctic Life",
+		"NameRU" : "Выкройка: пояс полярной жизни"
+	},
+	{
+		"ID" : 45101,
+		"Level" : 450,
+		"Name" : "Pattern: Boots of Wintry Endurance",
+		"NameRU" : "Выкройка: сапоги зимней закалки"
+	},
+	{
+		"ID" : 47648,
+		"Level" : 450,
+		"Name" : "Pattern: Crusader's Dragonscale Bracers",
+		"NameRU" : "Выкройка: наручи рыцаря из чешуи дракона"
+	},
+	{
+		"ID" : 47651,
+		"Level" : 450,
+		"Name" : "Pattern: Knightbane Carapace",
+		"NameRU" : "Выкройка: панцирь рыцарского проклятья"
+	},
+	{
+		"ID" : 47650,
+		"Level" : 450,
+		"Name" : "Pattern: Ensorcelled Nerubian Breastplate",
+		"NameRU" : "Выкройка: заколдованная нерубская кираса"
+	},
+	{
+		"ID" : 47634,
+		"Level" : 450,
+		"Name" : "Pattern: Knightbane Carapace",
+		"NameRU" : "Выкройка: панцирь рыцарского проклятья"
+	},
+	{
+		"ID" : 47632,
+		"Level" : 450,
+		"Name" : "Pattern: Lunar Eclipse Robes",
+		"NameRU" : "Выкройка: одеяния лунного затмения"
+	},
+	{
+		"ID" : 47633,
+		"Level" : 450,
+		"Name" : "Pattern: Moonshadow Armguards",
+		"NameRU" : "Выкройка: боевые наручи лунной тени"
+	},
+	{
+		"ID" : 47628,
+		"Level" : 450,
+		"Name" : "Pattern: Ensorcelled Nerubian Breastplate",
+		"NameRU" : "Выкройка: заколдованная нерубская кираса"
+	},
+	{
+		"ID" : 47629,
+		"Level" : 450,
+		"Name" : "Pattern: Black Chitin Bracers",
+		"NameRU" : "Выкройка: черные хитиновые наручи"
+	},
+	{
+		"ID" : 47635,
+		"Level" : 450,
+		"Name" : "Pattern: Bracers of Swift Death",
+		"NameRU" : "Выкройка: наручи быстрой смерти"
+	},
+	{
+		"ID" : 47630,
+		"Level" : 450,
+		"Name" : "Pattern: Crusader's Dragonscale Breastplate",
+		"NameRU" : "Выкройка: кираса рыцаря из чешуи дракона"
+	},
+	{
+		"ID" : 47647,
+		"Level" : 450,
+		"Name" : "Pattern: Bracers of Swift Death",
+		"NameRU" : "Выкройка: наручи быстрой смерти"
+	},
+	{
+		"ID" : 47646,
+		"Level" : 450,
+		"Name" : "Pattern: Black Chitin Bracers",
+		"NameRU" : "Выкройка: черные хитиновые наручи"
+	},
+	{
+		"ID" : 47631,
+		"Level" : 450,
+		"Name" : "Pattern: Crusader's Dragonscale Bracers",
+		"NameRU" : "Выкройка: наручи рыцаря из чешуи дракона"
+	},
+	{
+		"ID" : 47649,
+		"Level" : 450,
+		"Name" : "Pattern: Crusader's Dragonscale Breastplate",
+		"NameRU" : "Выкройка: кираса рыцаря из чешуи дракона"
+	},
+	{
+		"ID" : 47652,
+		"Level" : 450,
+		"Name" : "Pattern: Lunar Eclipse Robes",
+		"NameRU" : "Выкройка: одеяния лунного затмения"
+	},
+	{
+		"ID" : 47653,
+		"Level" : 450,
+		"Name" : "Pattern: Moonshadow Armguards",
+		"NameRU" : "Выкройка: боевые наручи лунной тени"
+	},
+	{
+		"ID" : 49957,
+		"Level" : 450,
+		"Name" : "Pattern: Legwraps of Unleashed Nature",
+		"NameRU" : "Выкройка: бриджи одичавшей природы"
+	},
+	{
+		"ID" : 49958,
+		"Level" : 450,
+		"Name" : "Pattern: Blessed Cenarion Boots",
+		"NameRU" : "Выкройка: благословенные кенарийские сапоги"
+	},
+	{
+		"ID" : 49959,
+		"Level" : 450,
+		"Name" : "Pattern: Bladeborn Leggings",
+		"NameRU" : "Выкройка: поножи клинка"
+	},
+	{
+		"ID" : 49961,
+		"Level" : 450,
+		"Name" : "Pattern: Footpads of Impending Death",
+		"NameRU" : "Выкройка: сапоги надвигающейся смерти"
+	},
+	{
+		"ID" : 49962,
+		"Level" : 450,
+		"Name" : "Pattern: Lightning-Infused Leggings",
+		"NameRU" : "Выкройка: заряженные молнией поножи"
+	},
+	{
+		"ID" : 49963,
+		"Level" : 450,
+		"Name" : "Pattern: Earthsoul Boots",
+		"NameRU" : "Выкройка: сапоги духа земли"
+	},
+	{
+		"ID" : 49965,
+		"Level" : 450,
+		"Name" : "Pattern: Draconic Bonesplinter Legguards",
+		"NameRU" : "Выкройка: набедренники из осколков драконьих костей"
+	},
+	{
+		"ID" : 49966,
+		"Level" : 450,
+		"Name" : "Pattern: Rock-Steady Treads",
+		"NameRU" : "Выкройка: несносимые ботфорты"
+	}
+]
